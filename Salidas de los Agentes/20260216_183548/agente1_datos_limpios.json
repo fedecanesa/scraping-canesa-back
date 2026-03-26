@@ -1,0 +1,1296 @@
+[
+  {
+    "url": "https://www.elturco.pe/",
+    "cleaned_text": "# EL TURCO STOCKROOM & BARBERS\n\n## Cuero Genuino. Estilo Real.\n\nMaletines elegantes y duraderos para tu día a día.\n\n[Ver colección](https://www.elturco.pe/collections/bag-wallet)",
+    "metadata": {
+      "canonicalUrl": "https://elturco.pe/",
+      "title": "EL TURCO STOCKROOM & BARBERS | Somos Barbudos, Sabemos de Barbas",
+      "description": "Explora nuestra colección para barbudos auténticos. Aceites premium, accesorios de cuero y más. Descubre tu estilo con El Turco. ¡Barba, estilo y actitud! Encuentra todo lo que necesitas para un cuidado excepcional.",
+      "author": "El Turco Stockroom & Barbers",
+      "keywords": "barbería perú,aceite de barba,productos para barba,barbería lima,cuidado de barba,aceites premium,accesorios de cuero,barbudos,grooming masculino,el turco,stockroom,barbers,productos barbería profesional,afeitado clásico,navajas barbería,ceras para barba,bálsamo para barba",
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "EL TURCO STOCKROOM & BARBERS | Somos Barbudos, Sabemos de Barbas"
+        },
+        {
+          "property": "og:description",
+          "content": "Explora nuestra colección para barbudos auténticos. Aceites premium, accesorios de cuero y más. Descubre tu estilo con El Turco. ¡Barba, estilo y actitud!"
+        },
+        {
+          "property": "og:url",
+          "content": "https://elturco.pe"
+        },
+        {
+          "property": "og:image",
+          "content": "https://www.elturco.pe/seo/og-image.jpg"
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "El Turco Stockroom & Barbers",
+          "alternateName": "El Turco",
+          "url": "https://elturco.pe",
+          "logo": "https://elturco.pe/logo-elturco.png",
+          "description": "Somos Barbudos, Sabemos de Barbas. Aceites premium, accesorios de cuero y más para barbudos auténticos.",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PE",
+            "addressLocality": "Lima"
+          },
+          "sameAs": [
+            "https://www.facebook.com/elturco",
+            "https://www.instagram.com/elturco",
+            "https://www.tiktok.com/@elturco"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": "El Turco Stockroom & Barbers",
+          "alternateName": "El Turco",
+          "url": "https://elturco.pe",
+          "description": "Explora nuestra colección para barbudos auténticos. Aceites premium, accesorios de cuero y más.",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": {
+              "@type": "EntryPoint",
+              "urlTemplate": "https://elturco.pe/search?q={search_term_string}"
+            },
+            "query-input": "required name=search_term_string"
+          }
+        }
+      ],
+      "headers": {
+        "age": "977",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Mon, 16 Feb 2026 23:19:45 GMT",
+        "etag": "W/\"170vgwx58iz4iqq\"",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-matched-path": "/",
+        "x-nextjs-prerender": "1",
+        "x-nextjs-stale-time": "300",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "cle1::iad1::r5sw6-1771284962980-ae8aeb5f234a",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://www.elturco.pe/policies/shipping-policy",
+    "cleaned_text": "# Shipping Policy | El Turco\n\nUnited States\n\nPerú",
+    "metadata": {
+      "canonicalUrl": "https://elturco.pe/policies/shipping-policy",
+      "title": "Shipping Policy | El Turco",
+      "description": "Shipping Policy - El Turco Stockroom & Barbers",
+      "author": "El Turco Stockroom & Barbers",
+      "keywords": "barbería perú,aceite de barba,productos para barba,barbería lima,cuidado de barba,aceites premium,accesorios de cuero,barbudos,grooming masculino,el turco,stockroom,barbers,productos barbería profesional,afeitado clásico,navajas barbería,ceras para barba,bálsamo para barba",
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Shipping Policy"
+        },
+        {
+          "property": "og:description",
+          "content": "Shipping Policy - El Turco Stockroom & Barbers"
+        },
+        {
+          "property": "og:url",
+          "content": "https://elturco.pe/policies/shipping-policy"
+        },
+        {
+          "property": "og:site_name",
+          "content": "El Turco Stockroom & Barbers"
+        },
+        {
+          "property": "og:locale",
+          "content": "es_PE"
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "El Turco Stockroom & Barbers",
+          "alternateName": "El Turco",
+          "url": "https://elturco.pe",
+          "logo": "https://elturco.pe/logo-elturco.png",
+          "description": "Somos Barbudos, Sabemos de Barbas. Aceites premium, accesorios de cuero y más para barbudos auténticos.",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PE",
+            "addressLocality": "Lima"
+          },
+          "sameAs": [
+            "https://www.facebook.com/elturco",
+            "https://www.instagram.com/elturco",
+            "https://www.tiktok.com/@elturco"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": "El Turco Stockroom & Barbers",
+          "alternateName": "El Turco",
+          "url": "https://elturco.pe",
+          "description": "Explora nuestra colección para barbudos auténticos. Aceites premium, accesorios de cuero y más.",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": {
+              "@type": "EntryPoint",
+              "urlTemplate": "https://elturco.pe/search?q={search_term_string}"
+            },
+            "query-input": "required name=search_term_string"
+          }
+        }
+      ],
+      "headers": {
+        "age": "104",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Mon, 16 Feb 2026 23:34:54 GMT",
+        "etag": "W/\"btwqmli2v31frv\"",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-matched-path": "/policies/shipping-policy",
+        "x-nextjs-prerender": "1",
+        "x-nextjs-stale-time": "300",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "cle1::iad1::96s7f-1771284999379-e3669432e751",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://www.elturco.pe/cart",
+    "cleaned_text": "# EL TURCO STOCKROOM & BARBERS\n\n## Cuero Genuino. Estilo Real.\n\nMaletines elegantes y duraderos para tu día a día.\n\n[Ver colección](https://www.elturco.pe/collections/bag-wallet)",
+    "metadata": {
+      "canonicalUrl": "https://www.elturco.pe/",
+      "title": "EL TURCO STOCKROOM & BARBERS | Somos Barbudos, Sabemos de Barbas",
+      "description": "Explora nuestra colección para barbudos auténticos. Aceites premium, accesorios de cuero y más. Descubre tu estilo con El Turco. ¡Barba, estilo y actitud! Encuentra todo lo que necesitas para un cuidado excepcional.",
+      "author": "El Turco Stockroom & Barbers",
+      "keywords": "barbería perú,aceite de barba,productos para barba,barbería lima,cuidado de barba,aceites premium,accesorios de cuero,barbudos,grooming masculino,el turco,stockroom,barbers,productos barbería profesional,afeitado clásico,navajas barbería,ceras para barba,bálsamo para barba",
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "EL TURCO STOCKROOM & BARBERS | Somos Barbudos, Sabemos de Barbas"
+        },
+        {
+          "property": "og:description",
+          "content": "Explora nuestra colección para barbudos auténticos. Aceites premium, accesorios de cuero y más. Descubre tu estilo con El Turco. ¡Barba, estilo y actitud!"
+        },
+        {
+          "property": "og:url",
+          "content": "https://www.elturco.pe"
+        },
+        {
+          "property": "og:site_name",
+          "content": "El Turco Stockroom & Barbers"
+        },
+        {
+          "property": "og:locale",
+          "content": "es_PE"
+        },
+        {
+          "property": "og:image",
+          "content": "https://www.elturco.pe/seo/og-image.jpg"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1200"
+        },
+        {
+          "property": "og:image:height",
+          "content": "630"
+        },
+        {
+          "property": "og:image:alt",
+          "content": "El Turco Stockroom & Barbers - Productos para barbudos auténticos"
+        },
+        {
+          "property": "og:image:type",
+          "content": "image/jpeg"
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "property": "og:title",
+          "content": "EL TURCO STOCKROOM & BARBERS | Somos Barbudos, Sabemos de Barbas"
+        },
+        {
+          "property": "og:description",
+          "content": "Explora nuestra colección para barbudos auténticos. Aceites premium, accesorios de cuero y más. Descubre tu estilo con El Turco. ¡Barba, estilo y actitud!"
+        },
+        {
+          "property": "og:url",
+          "content": "https://elturco.pe"
+        },
+        {
+          "property": "og:image",
+          "content": "https://www.elturco.pe/seo/og-image.jpg"
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "El Turco Stockroom & Barbers",
+          "alternateName": "El Turco",
+          "url": "https://elturco.pe",
+          "logo": "https://elturco.pe/logo-elturco.png",
+          "description": "Somos Barbudos, Sabemos de Barbas. Aceites premium, accesorios de cuero y más para barbudos auténticos.",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PE",
+            "addressLocality": "Lima"
+          },
+          "sameAs": [
+            "https://www.facebook.com/elturco",
+            "https://www.instagram.com/elturco",
+            "https://www.tiktok.com/@elturco"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": "El Turco Stockroom & Barbers",
+          "alternateName": "El Turco",
+          "url": "https://elturco.pe",
+          "description": "Explora nuestra colección para barbudos auténticos. Aceites premium, accesorios de cuero y más.",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": {
+              "@type": "EntryPoint",
+              "urlTemplate": "https://elturco.pe/search?q={search_term_string}"
+            },
+            "query-input": "required name=search_term_string"
+          }
+        }
+      ],
+      "headers": {
+        "age": "1189",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Thu, 12 Feb 2026 03:23:48 GMT",
+        "etag": "W/\"85e7nvodcs1dei\"",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-matched-path": "/cart",
+        "x-nextjs-prerender": "1",
+        "x-nextjs-stale-time": "300",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "cle1::iad1::h6zsq-1771285006385-b6a14fd974c2",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://www.elturco.pe/collections/all",
+    "cleaned_text": "# Todos los Productos para Barba | El Turco\n\n## Cuero Genuino. Estilo Real.\n\nMaletines elegantes y duraderos para tu día a día.\n\n[Ver colección](https://www.elturco.pe/collections/bag-wallet)",
+    "metadata": {
+      "canonicalUrl": "https://elturco.pe/collections/all",
+      "title": "Todos los Productos para Barba | El Turco | El Turco",
+      "description": "Descubre nuestra colección completa de productos para barbudos auténticos. Aceites premium, bálsamos, ceras, accesorios de cuero y más. ¡Barba, estilo y actitud!",
+      "author": "El Turco Stockroom & Barbers",
+      "keywords": "productos para barba,aceite de barba,bálsamo para barba,cera para barba,accesorios barbería,cuidado de barba,el turco,barbería perú,grooming masculino,productos premium",
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Todos los Productos para Barba | El Turco"
+        },
+        {
+          "property": "og:description",
+          "content": "Colección completa de productos premium para barbudos. Aceites, bálsamos, ceras y accesorios de cuero."
+        },
+        {
+          "property": "og:url",
+          "content": "https://elturco.pe/collections/all"
+        },
+        {
+          "property": "og:site_name",
+          "content": "El Turco Stockroom & Barbers"
+        },
+        {
+          "property": "og:locale",
+          "content": "es_PE"
+        },
+        {
+          "property": "og:image",
+          "content": "https://www.elturco.pe/seo/og-image.jpg"
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "El Turco Stockroom & Barbers",
+          "alternateName": "El Turco",
+          "url": "https://elturco.pe",
+          "logo": "https://elturco.pe/logo-elturco.png",
+          "description": "Somos Barbudos, Sabemos de Barbas. Aceites premium, accesorios de cuero y más para barbudos auténticos.",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PE",
+            "addressLocality": "Lima"
+          },
+          "sameAs": [
+            "https://www.facebook.com/elturco",
+            "https://www.instagram.com/elturco",
+            "https://www.tiktok.com/@elturco"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": "El Turco Stockroom & Barbers",
+          "alternateName": "El Turco",
+          "url": "https://elturco.pe",
+          "description": "Explora nuestra colección para barbudos auténticos. Aceites premium, accesorios de cuero y más.",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": {
+              "@type": "EntryPoint",
+              "urlTemplate": "https://elturco.pe/search?q={search_term_string}"
+            },
+            "query-input": "required name=search_term_string"
+          }
+        }
+      ],
+      "headers": {
+        "age": "1204",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Mon, 16 Feb 2026 21:15:39 GMT",
+        "etag": "W/\"s8vpe88fry290x\"",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-matched-path": "/collections/all",
+        "x-nextjs-prerender": "1",
+        "x-nextjs-stale-time": "300",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "cle1::iad1::9kkbd-1771285006501-41718cf91be4",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://www.elturco.pe/collections",
+    "cleaned_text": "# Colecciones para Barbudos | El Turco\n\n## Cuero Genuino. Estilo Real.\n\nMaletines elegantes y duraderos para tu día a día.\n\n[Ver colección](https://www.elturco.pe/collections/bag-wallet)",
+    "metadata": {
+      "canonicalUrl": "https://elturco.pe/collections",
+      "title": "Colecciones para Barbudos | El Turco | El Turco",
+      "description": "Explora nuestras colecciones exclusivas para barbudos auténticos. Aceites premium, accesorios de cuero, productos de cuidado y más. Descubre tu estilo con El Turco.",
+      "author": "El Turco Stockroom & Barbers",
+      "keywords": "colecciones barbería,productos para barba,aceites premium,accesorios de cuero,cuidado de barba,el turco,barbería perú,grooming masculino",
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Colecciones para Barbudos Auténticos | El Turco"
+        },
+        {
+          "property": "og:description",
+          "content": "Explora nuestras colecciones exclusivas. Aceites premium, accesorios de cuero y más para barbudos con estilo."
+        },
+        {
+          "property": "og:url",
+          "content": "https://elturco.pe/collections"
+        },
+        {
+          "property": "og:site_name",
+          "content": "El Turco Stockroom & Barbers"
+        },
+        {
+          "property": "og:locale",
+          "content": "es_PE"
+        },
+        {
+          "property": "og:image",
+          "content": "https://www.elturco.pe/seo/og-image.jpg"
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "El Turco Stockroom & Barbers",
+          "alternateName": "El Turco",
+          "url": "https://elturco.pe",
+          "logo": "https://elturco.pe/logo-elturco.png",
+          "description": "Somos Barbudos, Sabemos de Barbas. Aceites premium, accesorios de cuero y más para barbudos auténticos.",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PE",
+            "addressLocality": "Lima"
+          },
+          "sameAs": [
+            "https://www.facebook.com/elturco",
+            "https://www.instagram.com/elturco",
+            "https://www.tiktok.com/@elturco"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": "El Turco Stockroom & Barbers",
+          "alternateName": "El Turco",
+          "url": "https://elturco.pe",
+          "description": "Explora nuestra colección para barbudos auténticos. Aceites premium, accesorios de cuero y más.",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": {
+              "@type": "EntryPoint",
+              "urlTemplate": "https://elturco.pe/search?q={search_term_string}"
+            },
+            "query-input": "required name=search_term_string"
+          }
+        }
+      ],
+      "headers": {
+        "age": "798",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Mon, 16 Feb 2026 19:39:10 GMT",
+        "etag": "W/\"e93hjpv4hx3c34\"",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-matched-path": "/collections",
+        "x-nextjs-prerender": "1",
+        "x-nextjs-stale-time": "300",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "cle1::iad1::k7hqk-1771285129600-f5eede593bc2",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://www.elturco.pe/products/beard-oil-growth-el-turco-el-turco",
+    "cleaned_text": "# BEARD OIL GROWTH EL TURCO – ACEITE PARA CRECIMIENTO DE BARBA\n\n## Cuero Genuino. Estilo Real.\n\nMaletines elegantes y duraderos para tu día a día.\n\n[Ver colección](https://www.elturco.pe/collections/bag-wallet)",
+    "metadata": {
+      "canonicalUrl": "https://elturco.pe/products/beard-oil-growth-el-turco-el-turco",
+      "title": "BEARD OIL GROWTH EL TURCO – ACEITE PARA CRECIMIENTO DE BARBA | El Turco",
+      "description": "Hidratará tu piel para mantenerla libre de picazón gracias a recetas tradicionales con ingredientes 100% naturales. El aceite GROWTH se recomienda para barbas con poco volumen, tiene mayor porcentaje de aceite de romero para la estimulación del folículo piloso.",
+      "author": "El Turco Stockroom & Barbers",
+      "keywords": "BEARD,GROWING,el turco,barbería perú,productos barba,cuidado barba,aceites barba,grooming masculino",
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "BEARD OIL GROWTH EL TURCO – ACEITE PARA CRECIMIENTO DE BARBA"
+        },
+        {
+          "property": "og:description",
+          "content": "Hidratará tu piel para mantenerla libre de picazón gracias a recetas tradicionales con ingredientes 100% naturales. El aceite GROWTH se recomienda para barbas con poco volumen, tiene mayor porcentaje de aceite de romero para la estimulación del folículo piloso."
+        },
+        {
+          "property": "og:url",
+          "content": "https://elturco.pe/products/beard-oil-growth-el-turco-el-turco"
+        },
+        {
+          "property": "og:site_name",
+          "content": "El Turco Stockroom & Barbers"
+        },
+        {
+          "property": "og:locale",
+          "content": "es_PE"
+        },
+        {
+          "property": "og:image",
+          "content": "https://cdn.shopify.com/s/files/1/0971/6714/7376/files/elturco_sept-109-600x750.jpg?v=1757436638"
+        },
+        {
+          "property": "og:image:width",
+          "content": "600"
+        },
+        {
+          "property": "og:image:height",
+          "content": "750"
+        },
+        {
+          "property": "og:image:alt",
+          "content": "BEARD OIL GROWTH EL TURCO – ACEITE PARA CRECIMIENTO DE BARBA"
+        },
+        {
+          "property": "og:image:type",
+          "content": "image/jpeg"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "El Turco Stockroom & Barbers",
+          "alternateName": "El Turco",
+          "url": "https://elturco.pe",
+          "logo": "https://elturco.pe/logo-elturco.png",
+          "description": "Somos Barbudos, Sabemos de Barbas. Aceites premium, accesorios de cuero y más para barbudos auténticos.",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PE",
+            "addressLocality": "Lima"
+          },
+          "sameAs": [
+            "https://www.facebook.com/elturco",
+            "https://www.instagram.com/elturco",
+            "https://www.tiktok.com/@elturco"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": "El Turco Stockroom & Barbers",
+          "alternateName": "El Turco",
+          "url": "https://elturco.pe",
+          "description": "Explora nuestra colección para barbudos auténticos. Aceites premium, accesorios de cuero y más.",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": {
+              "@type": "EntryPoint",
+              "urlTemplate": "https://elturco.pe/search?q={search_term_string}"
+            },
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "BEARD OIL GROWTH EL TURCO – ACEITE PARA CRECIMIENTO DE BARBA",
+          "description": "Beard Oil Growth El Turco – Aceite para crecimiento de barba con romero y eucalipto, 100% natural, barbas ralas y poco densas, 30 ml Favorece el crecimiento de la barba gracias a la combinación de aceite de romero y eucalipto que ayudan a estimular el folículo piloso. Especial para barbas ralas o poco densas: ideal para rellenar huecos y mejorar la apariencia general de la barba. Fórmula 100% natural con aceites de jojoba, ricino, almendras dulces y coco, sin parabenos ni químicos agresivos. Hidrata la piel debajo de la barba, evitando picazón, resequedad y descamación. Pensado por barbudos para barbudos: textura ligera, se absorbe rápido y no deja sensación grasosa.",
+          "image": "https://cdn.shopify.com/s/files/1/0971/6714/7376/files/elturco_sept-109-600x750.jpg?v=1757436638",
+          "brand": {
+            "@type": "Brand",
+            "name": "El Turco"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://elturco.pe/products/beard-oil-growth-el-turco-el-turco",
+            "priceCurrency": "PEN",
+            "price": "98.0",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "El Turco Stockroom & Barbers"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Inicio",
+              "item": "https://elturco.pe"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Productos",
+              "item": "https://elturco.pe/collections/all"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "BEARD OIL GROWTH EL TURCO – ACEITE PARA CRECIMIENTO DE BARBA",
+              "item": "https://elturco.pe/products/beard-oil-growth-el-turco-el-turco"
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "age": "0",
+        "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Mon, 16 Feb 2026 23:39:11 GMT",
+        "link": "</_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/e4505858a30c79c2-s.p.0f58a291.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/chunks/3728358b9bd95147.css?dpl=dpl_3GUHkd9hq2hNjeNG7ES1tgVypZHD>; rel=preload; as=\"style\"",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-matched-path": "/products/[handle]",
+        "x-vercel-cache": "MISS",
+        "x-vercel-id": "cle1::iad1::m4xt9-1771285151491-e1a3a8c217c9",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://www.elturco.pe/products/set-de-crecimiento-shampoo-aceite-growth-cepillo-el-turco",
+    "cleaned_text": "# Set de Crecimiento | El Turco\n\n## Cuero Genuino. Estilo Real.\n\nMaletines elegantes y duraderos para tu día a día.\n\n[Ver colección](https://www.elturco.pe/collections/bag-wallet)",
+    "metadata": {
+      "canonicalUrl": "https://elturco.pe/products/set-de-crecimiento-shampoo-aceite-growth-cepillo-el-turco",
+      "title": "Set de Crecimiento | El Turco",
+      "description": "3 pasos básicos para el crecimiento: 1.- LAVARLA: Nuestro pelo de la barba no es como el de nuestra cabeza. Es un pelo mas grueso y rizado, además, la piel debajo no es como la del cuero cabelludo, necesitamos cuidados diferentes. No nos sirve un shampoo normal para la cabeza y debemos optar por shampoos y jabones especficos para lavar nuestra barba. Menos agresivos, menos ásperos y mas naturales, pues están formulados con compuestos naturales. 2.- HIDRATAR Y NUTRIR: No solo es importante mantener limpia la barba. Tambien hay que hidratarla y nutrirla para contrarrestar los efectos del día, tanto a ella como a la piel que hay debajo. Utilizaremos nuestros aceites para barba El Turco el cual hidratara la piel y el vello facial ademas de fortalecer, reparar y acondicionar nuestra barba. Si estas empezando recomendamos nuestro aceite para barba GROWTH, que favoreciendo el crecimiento del vello facial por su concentración de aceite de Romero y Eucalipto estimula el folículo piloso existente. 3.- CEPILLAR LA BARBA: Cepillarla ayudar a distribuir mejor el aceite, a la regeneración capilar, y estimular la circulación de la piel. El resultado? Una barba mas larga en menos tiempo! Si quieres saber cuanta barba tienes debes de dejarla crecer por 4 meses sin cortarla, solo cuidándola con los 3 pasos básicos que harán que salga todo el vello posible. Recién ahí es cuando sabes que tanta barba tienes. Somos Barbudos. Sabemos de Barbas! Envíos a todo el PERU en menos de 3 días. Lima metropolitana: envíos de lunes a viernes, entre 24 a 48 horas Provincias: envíos vía OLVA, entre las 24 y 48 horas te proporcionamos el numero de tracking para que puedas ver el estado de tu envío.",
+      "author": "El Turco Stockroom & Barbers",
+      "keywords": "GROWING,el turco,barbería perú,productos barba,cuidado barba,aceites barba,grooming masculino",
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Set de Crecimiento"
+        },
+        {
+          "property": "og:description",
+          "content": "3 pasos básicos para el crecimiento: 1.- LAVARLA: Nuestro pelo de la barba no es como el de nuestra cabeza. Es un pelo mas grueso y rizado, además, la piel debajo no es como la del cuero cabelludo, necesitamos cuidados diferentes. No nos sirve un shampoo normal para la cabeza y debemos optar por shampoos y jabones especficos para lavar nuestra barba. Menos agresivos, menos ásperos y mas naturales, pues están formulados con compuestos naturales. 2.- HIDRATAR Y NUTRIR: No solo es importante mantener limpia la barba. Tambien hay que hidratarla y nutrirla para contrarrestar los efectos del día, tanto a ella como a la piel que hay debajo. Utilizaremos nuestros aceites para barba El Turco el cual hidratara la piel y el vello facial ademas de fortalecer, reparar y acondicionar nuestra barba. Si estas empezando recomendamos nuestro aceite para barba GROWTH, que favoreciendo el crecimiento del vello facial por su concentración de aceite de Romero y Eucalipto estimula el folículo piloso existente. 3.- CEPILLAR LA BARBA: Cepillarla ayudar a distribuir mejor el aceite, a la regeneración capilar, y estimular la circulación de la piel. El resultado? Una barba mas larga en menos tiempo! Si quieres saber cuanta barba tienes debes de dejarla crecer por 4 meses sin cortarla, solo cuidándola con los 3 pasos básicos que harán que salga todo el vello posible. Recién ahí es cuando sabes que tanta barba tienes. Somos Barbudos. Sabemos de Barbas! Envíos a todo el PERU en menos de 3 días. Lima metropolitana: envíos de lunes a viernes, entre 24 a 48 horas Provincias: envíos vía OLVA, entre las 24 y 48 horas te proporcionamos el numero de tracking para que puedas ver el estado de tu envío."
+        },
+        {
+          "property": "og:url",
+          "content": "https://elturco.pe/products/set-de-crecimiento-shampoo-aceite-growth-cepillo-el-turco"
+        },
+        {
+          "property": "og:site_name",
+          "content": "El Turco Stockroom & Barbers"
+        },
+        {
+          "property": "og:locale",
+          "content": "es_PE"
+        },
+        {
+          "property": "og:image",
+          "content": "https://cdn.shopify.com/s/files/1/0971/6714/7376/files/elturco_agosto-5-600x750.jpg?v=1757436658"
+        },
+        {
+          "property": "og:image:width",
+          "content": "600"
+        },
+        {
+          "property": "og:image:height",
+          "content": "750"
+        },
+        {
+          "property": "og:image:alt",
+          "content": "Set de Crecimiento"
+        },
+        {
+          "property": "og:image:type",
+          "content": "image/jpeg"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "El Turco Stockroom & Barbers",
+          "alternateName": "El Turco",
+          "url": "https://elturco.pe",
+          "logo": "https://elturco.pe/logo-elturco.png",
+          "description": "Somos Barbudos, Sabemos de Barbas. Aceites premium, accesorios de cuero y más para barbudos auténticos.",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PE",
+            "addressLocality": "Lima"
+          },
+          "sameAs": [
+            "https://www.facebook.com/elturco",
+            "https://www.instagram.com/elturco",
+            "https://www.tiktok.com/@elturco"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": "El Turco Stockroom & Barbers",
+          "alternateName": "El Turco",
+          "url": "https://elturco.pe",
+          "description": "Explora nuestra colección para barbudos auténticos. Aceites premium, accesorios de cuero y más.",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": {
+              "@type": "EntryPoint",
+              "urlTemplate": "https://elturco.pe/search?q={search_term_string}"
+            },
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Set de Crecimiento",
+          "description": "3 pasos básicos para el crecimiento: 1.- LAVARLA: Nuestro pelo de la barba no es como el de nuestra cabeza. Es un pelo mas grueso y rizado, además, la piel debajo no es como la del cuero cabelludo, necesitamos cuidados diferentes. No nos sirve un shampoo normal para la cabeza y debemos optar por shampoos y jabones especficos para lavar nuestra barba. Menos agresivos, menos ásperos y mas naturales, pues están formulados con compuestos naturales. 2.- HIDRATAR Y NUTRIR: No solo es importante mantener limpia la barba. Tambien hay que hidratarla y nutrirla para contrarrestar los efectos del día, tanto a ella como a la piel que hay debajo. Utilizaremos nuestros aceites para barba El Turco el cual hidratara la piel y el vello facial ademas de fortalecer, reparar y acondicionar nuestra barba. Si estas empezando recomendamos nuestro aceite para barba GROWTH, que favoreciendo el crecimiento del vello facial por su concentración de aceite de Romero y Eucalipto estimula el folículo piloso existente. 3.- CEPILLAR LA BARBA: Cepillarla ayudar a distribuir mejor el aceite, a la regeneración capilar, y estimular la circulación de la piel. El resultado? Una barba mas larga en menos tiempo! Si quieres saber cuanta barba tienes debes de dejarla crecer por 4 meses sin cortarla, solo cuidándola con los 3 pasos básicos que harán que salga todo el vello posible. Recién ahí es cuando sabes que tanta barba tienes. Somos Barbudos. Sabemos de Barbas! Envíos a todo el PERU en menos de 3 días. Lima metropolitana: envíos de lunes a viernes, entre 24 a 48 horas Provincias: envíos vía OLVA, entre las 24 y 48 horas te proporcionamos el numero de tracking para que puedas ver el estado de tu envío.",
+          "image": "https://cdn.shopify.com/s/files/1/0971/6714/7376/files/elturco_agosto-5-600x750.jpg?v=1757436658",
+          "brand": {
+            "@type": "Brand",
+            "name": "El Turco"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://elturco.pe/products/set-de-crecimiento-shampoo-aceite-growth-cepillo-el-turco",
+            "priceCurrency": "PEN",
+            "price": "170.0",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "El Turco Stockroom & Barbers"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Inicio",
+              "item": "https://elturco.pe"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Productos",
+              "item": "https://elturco.pe/collections/all"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Set de Crecimiento",
+              "item": "https://elturco.pe/products/set-de-crecimiento-shampoo-aceite-growth-cepillo-el-turco"
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "age": "0",
+        "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Mon, 16 Feb 2026 23:39:16 GMT",
+        "link": "</_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/e4505858a30c79c2-s.p.0f58a291.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/chunks/3728358b9bd95147.css?dpl=dpl_3GUHkd9hq2hNjeNG7ES1tgVypZHD>; rel=preload; as=\"style\"",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-matched-path": "/products/[handle]",
+        "x-vercel-cache": "MISS",
+        "x-vercel-id": "cle1::iad1::2gvgr-1771285156016-71cefc785e68",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://www.elturco.pe/products/beard-brush-dark-el-turco-el-turco",
+    "cleaned_text": "# BEARD BRUSH EL TURCO – CEPILLO PARA BARBA\n\n## Cuero Genuino. Estilo Real.\n\nMaletines elegantes y duraderos para tu día a día.\n\n[Ver colección](https://www.elturco.pe/collections/bag-wallet)",
+    "metadata": {
+      "canonicalUrl": "https://elturco.pe/products/beard-brush-dark-el-turco-el-turco",
+      "title": "BEARD BRUSH EL TURCO – CEPILLO PARA BARBA | El Turco",
+      "description": "Beard Brush El Turco – Cepillo para barba de madera con cerdas de jabalí 100%, domar y distribuir aceite. Cepillo para barba de madera con 100% cerdas de jabalí. Ayuda a distribuir uniformemente los aceites y bálsamos en toda la barba. Remueve células muertas de la piel debajo de la barba, mejorando su salud. Domina vellos rebeldes y ayuda a orientar el crecimiento. Ideal para usar después del aceite o bálsamo de barba.",
+      "author": "El Turco Stockroom & Barbers",
+      "keywords": "BEARD,el turco,barbería perú,productos barba,cuidado barba,aceites barba,grooming masculino",
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "BEARD BRUSH EL TURCO – CEPILLO PARA BARBA"
+        },
+        {
+          "property": "og:description",
+          "content": "Beard Brush El Turco – Cepillo para barba de madera con cerdas de jabalí 100%, domar y distribuir aceite. Cepillo para barba de madera con 100% cerdas de jabalí. Ayuda a distribuir uniformemente los aceites y bálsamos en toda la barba. Remueve células muertas de la piel debajo de la barba, mejorando su salud. Domina vellos rebeldes y ayuda a orientar el crecimiento. Ideal para usar después del aceite o bálsamo de barba."
+        },
+        {
+          "property": "og:url",
+          "content": "https://elturco.pe/products/beard-brush-dark-el-turco-el-turco"
+        },
+        {
+          "property": "og:site_name",
+          "content": "El Turco Stockroom & Barbers"
+        },
+        {
+          "property": "og:locale",
+          "content": "es_PE"
+        },
+        {
+          "property": "og:image",
+          "content": "https://cdn.shopify.com/s/files/1/0971/6714/7376/files/elturco_sept-44-600x750.jpg?v=1757436659"
+        },
+        {
+          "property": "og:image:width",
+          "content": "600"
+        },
+        {
+          "property": "og:image:height",
+          "content": "750"
+        },
+        {
+          "property": "og:image:alt",
+          "content": "BEARD BRUSH EL TURCO – CEPILLO PARA BARBA"
+        },
+        {
+          "property": "og:image:type",
+          "content": "image/jpeg"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "El Turco Stockroom & Barbers",
+          "alternateName": "El Turco",
+          "url": "https://elturco.pe",
+          "logo": "https://elturco.pe/logo-elturco.png",
+          "description": "Somos Barbudos, Sabemos de Barbas. Aceites premium, accesorios de cuero y más para barbudos auténticos.",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PE",
+            "addressLocality": "Lima"
+          },
+          "sameAs": [
+            "https://www.facebook.com/elturco",
+            "https://www.instagram.com/elturco",
+            "https://www.tiktok.com/@elturco"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": "El Turco Stockroom & Barbers",
+          "alternateName": "El Turco",
+          "url": "https://elturco.pe",
+          "description": "Explora nuestra colección para barbudos auténticos. Aceites premium, accesorios de cuero y más.",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": {
+              "@type": "EntryPoint",
+              "urlTemplate": "https://elturco.pe/search?q={search_term_string}"
+            },
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "BEARD BRUSH EL TURCO – CEPILLO PARA BARBA",
+          "description": "Beard Brush El Turco – Cepillo para barba de madera con cerdas de jabalí 100%, domar y distribuir aceite. Cepillo para barba de madera con 100% cerdas de jabalí. Ayuda a distribuir uniformemente los aceites y bálsamos en toda la barba. Remueve células muertas de la piel debajo de la barba, mejorando su salud. Domina vellos rebeldes y ayuda a orientar el crecimiento. Ideal para usar después del aceite o bálsamo de barba.",
+          "image": "https://cdn.shopify.com/s/files/1/0971/6714/7376/files/elturco_sept-44-600x750.jpg?v=1757436659",
+          "brand": {
+            "@type": "Brand",
+            "name": "El Turco"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://elturco.pe/products/beard-brush-dark-el-turco-el-turco",
+            "priceCurrency": "PEN",
+            "price": "45.0",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "El Turco Stockroom & Barbers"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Inicio",
+              "item": "https://elturco.pe"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Productos",
+              "item": "https://elturco.pe/collections/all"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "BEARD BRUSH EL TURCO – CEPILLO PARA BARBA",
+              "item": "https://elturco.pe/products/beard-brush-dark-el-turco-el-turco"
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "age": "0",
+        "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Mon, 16 Feb 2026 23:39:16 GMT",
+        "link": "</_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/e4505858a30c79c2-s.p.0f58a291.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/chunks/3728358b9bd95147.css?dpl=dpl_3GUHkd9hq2hNjeNG7ES1tgVypZHD>; rel=preload; as=\"style\"",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-matched-path": "/products/[handle]",
+        "x-vercel-cache": "MISS",
+        "x-vercel-id": "cle1::iad1::96s7f-1771285156208-9cb31e4f3f5f",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://www.elturco.pe/products/beard-balm-el-turco-el-turco",
+    "cleaned_text": "# ⁠BEARD BALM EL TURCO – BÁLSAMO PARA BARBA\n\n## Cuero Genuino. Estilo Real.\n\nMaletines elegantes y duraderos para tu día a día.\n\n[Ver colección](https://www.elturco.pe/collections/bag-wallet)",
+    "metadata": {
+      "canonicalUrl": "https://elturco.pe/products/beard-balm-el-turco-el-turco",
+      "title": "⁠BEARD BALM EL TURCO – BÁLSAMO PARA BARBA | El Turco",
+      "description": "Beard Balm El Turco – Bálsamo para barba 100% natural, hidratación profunda y control con acabado natural, 30 g (o el peso que manejen) Bálsamo para barba 2 en 1: hidrata como aceite y da forma como cera. Nutre al máximo la barba y la piel, con manteca de karité y manteca de cacao. Cera de abejas para mantener la forma con un acabado natural, sin efecto acartonado. Ideal para barbas que buscan control, suavidad y aspecto prolijo durante todo el día. 100% natural, sin químicos ni preservantes.",
+      "author": "El Turco Stockroom & Barbers",
+      "keywords": "BEARD,el turco,barbería perú,productos barba,cuidado barba,aceites barba,grooming masculino",
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "⁠BEARD BALM EL TURCO – BÁLSAMO PARA BARBA"
+        },
+        {
+          "property": "og:description",
+          "content": "Beard Balm El Turco – Bálsamo para barba 100% natural, hidratación profunda y control con acabado natural, 30 g (o el peso que manejen) Bálsamo para barba 2 en 1: hidrata como aceite y da forma como cera. Nutre al máximo la barba y la piel, con manteca de karité y manteca de cacao. Cera de abejas para mantener la forma con un acabado natural, sin efecto acartonado. Ideal para barbas que buscan control, suavidad y aspecto prolijo durante todo el día. 100% natural, sin químicos ni preservantes."
+        },
+        {
+          "property": "og:url",
+          "content": "https://elturco.pe/products/beard-balm-el-turco-el-turco"
+        },
+        {
+          "property": "og:site_name",
+          "content": "El Turco Stockroom & Barbers"
+        },
+        {
+          "property": "og:locale",
+          "content": "es_PE"
+        },
+        {
+          "property": "og:image",
+          "content": "https://cdn.shopify.com/s/files/1/0971/6714/7376/files/DSC00154_a1ba1b27-938c-4c56-ade5-24831b2ad1f2.jpg?v=1757436642"
+        },
+        {
+          "property": "og:image:width",
+          "content": "2800"
+        },
+        {
+          "property": "og:image:height",
+          "content": "2488"
+        },
+        {
+          "property": "og:image:alt",
+          "content": "⁠BEARD BALM EL TURCO – BÁLSAMO PARA BARBA"
+        },
+        {
+          "property": "og:image:type",
+          "content": "image/jpeg"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "El Turco Stockroom & Barbers",
+          "alternateName": "El Turco",
+          "url": "https://elturco.pe",
+          "logo": "https://elturco.pe/logo-elturco.png",
+          "description": "Somos Barbudos, Sabemos de Barbas. Aceites premium, accesorios de cuero y más para barbudos auténticos.",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PE",
+            "addressLocality": "Lima"
+          },
+          "sameAs": [
+            "https://www.facebook.com/elturco",
+            "https://www.instagram.com/elturco",
+            "https://www.tiktok.com/@elturco"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": "El Turco Stockroom & Barbers",
+          "alternateName": "El Turco",
+          "url": "https://elturco.pe",
+          "description": "Explora nuestra colección para barbudos auténticos. Aceites premium, accesorios de cuero y más.",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": {
+              "@type": "EntryPoint",
+              "urlTemplate": "https://elturco.pe/search?q={search_term_string}"
+            },
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "⁠BEARD BALM EL TURCO – BÁLSAMO PARA BARBA",
+          "description": "Beard Balm El Turco – Bálsamo para barba 100% natural, hidratación profunda y control con acabado natural, 30 g (o el peso que manejen) Bálsamo para barba 2 en 1: hidrata como aceite y da forma como cera. Nutre al máximo la barba y la piel, con manteca de karité y manteca de cacao. Cera de abejas para mantener la forma con un acabado natural, sin efecto acartonado. Ideal para barbas que buscan control, suavidad y aspecto prolijo durante todo el día. 100% natural, sin químicos ni preservantes.",
+          "image": "https://cdn.shopify.com/s/files/1/0971/6714/7376/files/DSC00154_a1ba1b27-938c-4c56-ade5-24831b2ad1f2.jpg?v=1757436642",
+          "brand": {
+            "@type": "Brand",
+            "name": "El Turco"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://elturco.pe/products/beard-balm-el-turco-el-turco",
+            "priceCurrency": "PEN",
+            "price": "65.0",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "El Turco Stockroom & Barbers"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Inicio",
+              "item": "https://elturco.pe"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Productos",
+              "item": "https://elturco.pe/collections/all"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "⁠BEARD BALM EL TURCO – BÁLSAMO PARA BARBA",
+              "item": "https://elturco.pe/products/beard-balm-el-turco-el-turco"
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "age": "0",
+        "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Mon, 16 Feb 2026 23:39:36 GMT",
+        "link": "</_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/e4505858a30c79c2-s.p.0f58a291.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/chunks/3728358b9bd95147.css?dpl=dpl_3GUHkd9hq2hNjeNG7ES1tgVypZHD>; rel=preload; as=\"style\"",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-matched-path": "/products/[handle]",
+        "x-vercel-cache": "MISS",
+        "x-vercel-id": "cle1::iad1::vxmp8-1771285176874-acb9c21e22d9",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://www.elturco.pe/products/dermaroller-para-el-crecimiento-de-la-barba-el-turco",
+    "cleaned_text": "# DERMAROLLER EL TURCO – CRECIMIENTO DE BARBA\n\n## Cuero Genuino. Estilo Real.\n\nMaletines elegantes y duraderos para tu día a día.\n\n[Ver colección](https://www.elturco.pe/collections/bag-wallet)",
+    "metadata": {
+      "canonicalUrl": "https://elturco.pe/products/dermaroller-para-el-crecimiento-de-la-barba-el-turco",
+      "title": "DERMAROLLER EL TURCO – CRECIMIENTO DE BARBA | El Turco",
+      "description": "Dermaroller El Turco – Rodillo para crecimiento de barba 0.25 mm, 540 microagujas de titanio. Dermaroller para barba con 540 microagujas de titanio de 0.25 mm. Ayuda a activar la circulación y estimular folículos latentes, favoreciendo el crecimiento de la barba. Ideal para combinar con Beard Oil Growth El Turco para potenciar resultados. Con uso constante, puede ayudar a mejorar densidad en 4–8 semanas. Mango ergonómico y fácil de usar en casa.",
+      "author": "El Turco Stockroom & Barbers",
+      "keywords": "GROWING,el turco,barbería perú,productos barba,cuidado barba,aceites barba,grooming masculino",
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "DERMAROLLER EL TURCO – CRECIMIENTO DE BARBA"
+        },
+        {
+          "property": "og:description",
+          "content": "Dermaroller El Turco – Rodillo para crecimiento de barba 0.25 mm, 540 microagujas de titanio. Dermaroller para barba con 540 microagujas de titanio de 0.25 mm. Ayuda a activar la circulación y estimular folículos latentes, favoreciendo el crecimiento de la barba. Ideal para combinar con Beard Oil Growth El Turco para potenciar resultados. Con uso constante, puede ayudar a mejorar densidad en 4–8 semanas. Mango ergonómico y fácil de usar en casa."
+        },
+        {
+          "property": "og:url",
+          "content": "https://elturco.pe/products/dermaroller-para-el-crecimiento-de-la-barba-el-turco"
+        },
+        {
+          "property": "og:site_name",
+          "content": "El Turco Stockroom & Barbers"
+        },
+        {
+          "property": "og:locale",
+          "content": "es_PE"
+        },
+        {
+          "property": "og:image",
+          "content": "https://cdn.shopify.com/s/files/1/0971/6714/7376/files/derma6-600x600.jpg?v=1757436662"
+        },
+        {
+          "property": "og:image:width",
+          "content": "600"
+        },
+        {
+          "property": "og:image:height",
+          "content": "600"
+        },
+        {
+          "property": "og:image:alt",
+          "content": "DERMAROLLER EL TURCO – CRECIMIENTO DE BARBA"
+        },
+        {
+          "property": "og:image:type",
+          "content": "image/jpeg"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "El Turco Stockroom & Barbers",
+          "alternateName": "El Turco",
+          "url": "https://elturco.pe",
+          "logo": "https://elturco.pe/logo-elturco.png",
+          "description": "Somos Barbudos, Sabemos de Barbas. Aceites premium, accesorios de cuero y más para barbudos auténticos.",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PE",
+            "addressLocality": "Lima"
+          },
+          "sameAs": [
+            "https://www.facebook.com/elturco",
+            "https://www.instagram.com/elturco",
+            "https://www.tiktok.com/@elturco"
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": "El Turco Stockroom & Barbers",
+          "alternateName": "El Turco",
+          "url": "https://elturco.pe",
+          "description": "Explora nuestra colección para barbudos auténticos. Aceites premium, accesorios de cuero y más.",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": {
+              "@type": "EntryPoint",
+              "urlTemplate": "https://elturco.pe/search?q={search_term_string}"
+            },
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "DERMAROLLER EL TURCO – CRECIMIENTO DE BARBA",
+          "description": "Dermaroller El Turco – Rodillo para crecimiento de barba 0.25 mm, 540 microagujas de titanio. Dermaroller para barba con 540 microagujas de titanio de 0.25 mm. Ayuda a activar la circulación y estimular folículos latentes, favoreciendo el crecimiento de la barba. Ideal para combinar con Beard Oil Growth El Turco para potenciar resultados. Con uso constante, puede ayudar a mejorar densidad en 4–8 semanas. Mango ergonómico y fácil de usar en casa.",
+          "image": "https://cdn.shopify.com/s/files/1/0971/6714/7376/files/derma6-600x600.jpg?v=1757436662",
+          "brand": {
+            "@type": "Brand",
+            "name": "El Turco"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://elturco.pe/products/dermaroller-para-el-crecimiento-de-la-barba-el-turco",
+            "priceCurrency": "PEN",
+            "price": "70.0",
+            "availability": "https://schema.org/OutOfStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "El Turco Stockroom & Barbers"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Inicio",
+              "item": "https://elturco.pe"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Productos",
+              "item": "https://elturco.pe/collections/all"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "DERMAROLLER EL TURCO – CRECIMIENTO DE BARBA",
+              "item": "https://elturco.pe/products/dermaroller-para-el-crecimiento-de-la-barba-el-turco"
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "age": "0",
+        "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Mon, 16 Feb 2026 23:39:48 GMT",
+        "link": "</_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/e4505858a30c79c2-s.p.0f58a291.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/chunks/3728358b9bd95147.css?dpl=dpl_3GUHkd9hq2hNjeNG7ES1tgVypZHD>; rel=preload; as=\"style\"",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-matched-path": "/products/[handle]",
+        "x-vercel-cache": "MISS",
+        "x-vercel-id": "cle1::iad1::7pf85-1771285188295-d4c124f73385",
+        "x-xss-protection": "1; mode=block",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  }
+]

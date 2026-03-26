@@ -1,0 +1,1708 @@
+[
+  {
+    "url": "https://origens.com.pe/",
+    "cleaned_text": "# Tienda de mascotas online | Origens\n\n## **Tienda de mascotas online en Perú con productos premium**\n\nEn Origens somos una **tienda de mascotas online en Perú** especializada en productos premium para el cuidado integral de tus animales. Descubre nuestra exclusiva selección en **[comida para perros](https://origens.com.pe/c/perros/alimentos-perros/)** y **[comida para gatos](https://origens.com.pe/c/gatos/alimentos/)**, así como todo lo necesario en productos de **[higiene para perros](https://origens.com.pe/c/perros/salud-e-higiene-perros/)** e **[higiene para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/)**. Somos la opción ideal para quienes buscan una **tienda de mascotas en Lima**, con entregas rápidas en todo el país.\n\n## **Tienda de productos para mascotas especializada en perros**\n\nNuestra **tienda de productos para mascotas** cuenta con opciones completas para perros de todas las edades y necesidades. Encuentra alimentos balanceados y opciones específicas para cada etapa de vida. Además, protege su salud con nuestros efectivos **[antipulgas para perros](https://origens.com.pe/c/perros/salud-e-higiene-perros/antipulgas-perros/)** y refuerza su bienestar con **[nutrientes para perros](https://origens.com.pe/c/perros/salud-e-higiene-perros/nutraceuticos-perros/)** de calidad superior.\n\n## **Tienda para mascotas con productos especializados para gatos**\n\nEn Origens también somos expertos en gatos. En nuestra **tienda para mascotas** encuentras alimentos especializados y opciones en **[arena para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/arena-sanitaria/)** que aseguran su comodidad diaria. Complementa su cuidado integral con productos efectivos de **[antipulgas para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/antipulgas/)** y suplementos nutricionales seleccionados cuidadosamente.\n\n## **Origens, tu tienda de animales confiable**\n\nSi buscas calidad garantizada, Origens es tu mejor opción. Somos una **tienda de animales** confiable que ofrece productos cuidadosamente seleccionados para asegurar la salud y felicidad de tus mascotas. **Facilitamos tu compra con envío gratis desde S/150 y un descuento del 15% en tu primera compra online.**\n\n## **Compra fácil y segura en tu tienda mascotas preferida**\n\nOrigens simplifica tu experiencia de compra en nuestra **tienda de mascotas** online, ofreciendo **entregas rápidas en Lima y todo el Perú**. Garantizamos la mejor atención y productos premium para el cuidado y bienestar de tus mascotas. Descubre por qué somos la opción favorita para quienes aman cuidar integralmente a sus compañeros.",
+    "metadata": {
+      "canonicalUrl": "https://origens.com.pe/",
+      "title": "Tienda de mascotas online | Origens",
+      "description": "Tienda de mascotas online en Perú con comida, higiene y nutrición para mascotas y animales. Compra en Origens. ¡Delivery rápido, ordena hoy!",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "property": "og:title",
+          "content": "Tienda de mascotas online | Origens"
+        },
+        {
+          "property": "og:description",
+          "content": "Tienda de mascotas online en Perú con comida, higiene y nutrición para mascotas y animales. Compra en Origens. ¡Delivery rápido, ordena hoy!"
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        },
+        {
+          "property": "og:updated_time",
+          "content": "2025-12-01T10:49:45-05:00"
+        },
+        {
+          "property": "article:published_time",
+          "content": "2023-03-30T04:10:16-05:00"
+        },
+        {
+          "property": "article:modified_time",
+          "content": "2025-12-01T10:49:45-05:00"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens",
+              "url": "https://origens.com.pe"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es",
+              "potentialAction": {
+                "@type": "SearchAction",
+                "target": "https://origens.com.pe/?s={search_term_string}",
+                "query-input": "required name=search_term_string"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://origens.com.pe/#webpage",
+              "url": "https://origens.com.pe/",
+              "name": "Tienda de mascotas online | Origens",
+              "datePublished": "2023-03-30T04:10:16-05:00",
+              "dateModified": "2025-12-01T10:49:45-05:00",
+              "about": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "Person",
+              "@id": "https://origens.com.pe/author/enovateam/",
+              "name": "enovateam",
+              "url": "https://origens.com.pe/author/enovateam/",
+              "image": {
+                "@type": "ImageObject",
+                "@id": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "url": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "caption": "enovateam",
+                "inLanguage": "es"
+              },
+              "sameAs": [
+                "https://origens.com.pe"
+              ],
+              "worksFor": {
+                "@id": "https://origens.com.pe/#organization"
+              }
+            },
+            {
+              "@type": "Article",
+              "headline": "Tienda de mascotas online | Origens",
+              "keywords": "tienda de mascotas",
+              "datePublished": "2023-03-30T04:10:16-05:00",
+              "dateModified": "2025-12-01T10:49:45-05:00",
+              "author": {
+                "@id": "https://origens.com.pe/author/enovateam/",
+                "name": "enovateam"
+              },
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "description": "Tienda de mascotas online en Perú con comida, higiene y nutrición para mascotas y animales. Compra en Origens. ¡Delivery rápido, ordena hoy!",
+              "name": "Tienda de mascotas online | Origens",
+              "@id": "https://origens.com.pe/#richSnippet",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#webpage"
+              },
+              "inLanguage": "es",
+              "mainEntityOfPage": {
+                "@id": "https://origens.com.pe/#webpage"
+              }
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 22:34:24 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e2161fb0cfd9ab4-MIA",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "br",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/pages/2>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://origens.com.pe/>; rel=shortlink",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-kinsta-cache": "HIT",
+        "set-cookie": "__cf_bm=LGQlDkJ9KvO7uZafFynuP1HeSIihQ5G8OUL8c45KNqw-1774478064-1.0.1.1-3.JUZnUP8LFiHHvz5cob2hDREnjMmYUE2WZv7BbfHKcaQ1BbLH6c_waRbPjEGpQ31bgSQ5pn61zr2R7G1SDcHg_82hJy1tpHTxRgfMs47Zw; path=/; expires=Wed, 25-Mar-26 23:04:24 GMT; domain=.origens.com.pe; HttpOnly; Secure; SameSite=None",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=E8O9kLeTZvEX1QIJSGhxFsWQE16je6Ss1Isry1k698ufPhVs0Aim7LJ%2BG%2FfVdmstXjh%2F9DHT%2BCrfz8Q1lehtgPXroosmQtmLfWIxeKYVfASpTy26gUwSgHKX0iMhrwqP\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://origens.com.pe/c/gatos/salud-e-higiene/",
+    "cleaned_text": "# Higiene para gatos | Origens\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Group-427323903.png)\n\n> En **Origens** potenciamos la **salud e higiene de gatos en Perú** con soluciones de alta gama. Nuestra selección de **arena para gatos** y antipulgas asegura una protección integral, ofreciendo el mejor cuidado preventivo y bienestar diario para mantener a tu mascota siempre sana y protegida.\n\n## **Higiene para gatos con productos seguros y premium**\n\nEn Origens encuentras todo en **higiene para gatos**, con productos especializados como [arena para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/arena-sanitaria/), [antipulgas para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/antipulgas/) y [nutrientes para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/nutraceuticos/). Ofrecemos calidad garantizada con marcas líderes como **Frontline** y **Puppybost**, asegurando un cuidado integral y seguro para tu mascota.\n\n## **Arena para gatos con opciones adaptadas a tu mascota**\n\nDisponemos de diferentes variedades de arena para gatos, que facilitan la limpieza diaria y brindan máxima comodidad a tu felino:\n\n*   [Arena con aroma para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/arena-sanitaria/arena-con-aroma-para-gatos/): control superior de olores. \n*   [Arena sin aroma para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/arena-sanitaria/arena-sin-aroma-para-gatos/): perfecta para gatos sensibles. \n*   [Arena biodegradable para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/arena-sanitaria/arena-biodegradable-para-gatos/): ecológica y segura. \n\n## **Antipulgas para gatos con protección efectiva**\n\nCuida a tu mascota con productos prácticos y altamente efectivos para protegerla de pulgas y otros parásitos externos:\n\n*   [Pipetas antipulgas para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/antipulgas/pipeta-antipulgas/): fácil aplicación y rápida acción. \n*   [Sprays antipulgas para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/antipulgas/spray-antipulgas/): protección inmediata y segura. \n\nConfía en la calidad Frontline para un cuidado integral y duradero.\n\n## **Nutrientes para gatos que refuerzan su bienestar**\n\nNuestros nutracéuticos Puppybost están especialmente formulados para aportar nutrientes esenciales, reforzar defensas, mejorar la digestión y mantener a tu gato saludable y activo por más tiempo. Son ideales para asegurar el bienestar integral de tu felino día a día.\n\n## **Compra online y recibe rápidamente en casa**\n\nEn Origens puedes comprar online con total confianza los mejores productos premium para la **higiene de gatos**. Realiza tu pedido cómodamente y recíbelo con entregas rápidas en todo el Perú. Simplifica el cuidado diario de tu mascota con nuestra propuesta integral pensada exclusivamente para ellos.\n\n## Todo lo que debes saber sobre las mascotas\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\n*   Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n*   It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\nAll the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\n*   Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n*   It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Pedazo-de-pina.png)\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Group-427323957.png)\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Group-427323953.png)\n\n#### ÚNETE A LA FAMILIA ORIGENS\n\n¡Gracias por visitarnos! Si deseas estar al tanto de nuestras novedades y promociones exclusivas, suscríbete a nuestro boletín.\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/9006d4bfc7c57bf35385e03c35984113-1-PhotoRoom-1.png)",
+    "metadata": {
+      "canonicalUrl": "https://origens.com.pe/c/gatos/salud-e-higiene/",
+      "title": "Higiene para gatos | Origens",
+      "description": "Descubre productos de higiene para gatos en Origens. Mantén a tu felino limpio y feliz con nuestra selección. ¡Compra ahora y cuida de tu gato!",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Higiene para gatos | Origens"
+        },
+        {
+          "property": "og:description",
+          "content": "Descubre productos de higiene para gatos en Origens. Mantén a tu felino limpio y feliz con nuestra selección. ¡Compra ahora y cuida de tu gato!"
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/c/gatos/salud-e-higiene/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "CollectionPage",
+              "@id": "https://origens.com.pe/c/gatos/salud-e-higiene/#webpage",
+              "url": "https://origens.com.pe/c/gatos/salud-e-higiene/",
+              "name": "Higiene para gatos | Origens",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 22:34:50 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e21629a3faa9ab4-MIA",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "br",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/product_cat/268>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-kinsta-cache": "MISS",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=WwwnDsRKPGquy4164EengNI2R4z%2Fa5csvmJiV%2Fp9CIp%2B4WkXMJ%2Fba2NuoOokJSGSH9RQjMcDIVEPk8bWdLpp0gzEKNwVYWJgv1hRNSicclTpk81O6At5vi5MrznK%2BCWY\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://origens.com.pe/terminos-y-condiciones/",
+    "cleaned_text": "# Términos y condiciones - Origens\n\nEl acceso y uso de la web se rige por lo descrito en el presente acápite. En ese sentido, las visitas, contratos y transacciones que realice el usuario o cliente en este sitio web, así como sus efectos jurídicos, quedarán regidos por las leyes o normas de la República del Perú\n\nLos términos y condiciones contenidos en este instrumento incluyen los actos y contratos que se ejecuten o celebren mediante los sistemas de oferta y comercialización de los productos ofrecidos en este portal web ORIGENS, el cual se denominará, en adelante, como «Tienda Online».\n\nLas muestras o fotografías de los productos de la «Tienda Online» son referenciales. Por lo que, si el usuario o cliente considera que el producto no concuerda en apariencia física con la digital no es razón suficiente para exigir un cambio o devolución del producto a la «Tienda Online».\n\nPara realizar la compra en la «Tienda Online» es obligatorio la aceptación de los presentes términos y condiciones, por lo cual el usuario o cliente que ingrese su solicitud de compra y/o registro de usuario o cliente declara que conoce y acepta todos los términos y condiciones descritos en el presente instrumento. «Tienda Online» se reserva el derecho de actualizar y/o modificar los términos y condiciones en cualquier momento sin previo aviso al usuario o cliente, detallados a continuación:\n\n**1\\. Registro de usuario o cliente**\n\nPara ingresar solicitudes de compra, productos en la «Tienda Online» no es necesario estar registrado. El registro de cada usuario se verificará completando y suscribiendo el formulario que aparece en el sitio y su posterior envío, el cual se realiza automáticamente mediante un ‘clic’ en el elemento respectivo.\n\n**2\\. Clave secreta**\n\nEl usuario o cliente dispondrá, una vez registrado, de un nombre y una contraseña o clave que le permitirá el acceso personalizado, confidencial y seguro al sitio. El usuario o cliente tendrá la posibilidad de cambiar la clave de acceso, para lo cual deberá sujetarse al procedimiento establecido en el sitio web. El usuario o cliente asume totalmente la responsabilidad por el mantenimiento de la confidencialidad de su clave secreta registrada en este sitio web, la cual le permite efectuar solicitudes de compras, solicitar servicios y obtener información. Dicha clave es de uso personal y su entrega a terceros por parte del usuario o cliente no involucra responsabilidad para «Tienda Online», por lo que con el solo uso de la clave secreta se entenderá acreditada la identidad del usuario.\n\n**3\\. Derechos del cliente el sitio**\n\nEl cliente gozará de todos los derechos que le reconoce la legislación sobre protección al consumidor, vigente en la República del Perú y en el presente instrumento. El cliente puede solicitar en cualquier momento el Acceso, Rectificación, Cancelación y Oposición previsto en la Ley Nº 29733, para lo cual el usuario o cliente podrá contactarse a info@origens.com.pe, detallando su solicitud.\n\n**4\\. Procedimiento para hacer uso de este sitio**\n\n«Tienda Online» informará de los contratos ofrecidos en este sitio web de manera clara, precisa y accesible.\n\n**5\\. Medios de pago que se podrán utilizar en este sitio**\n\nLos medios de pago que se pueden utilizar son los proporcionados por » Pasarela de pagos «, operador de la pasarela de pagos contratada por «Tienda Online» y/o aquellos otros medios de pago proporcionados por el propio «Tienda Online», quien se reserva el derecho de contratar otras operadoras de pasarelas de pagos.\n\nEntre las formas de pago disponibles se encuentran:\n\n*   Tarjetas de débito Visa y Mastercard. El pago con tarjeta de débito se rige por los términos y condiciones establecidos por la entidad bancaria emisora de la referida tarjeta.\n*   Tarjetas de crédito Visa, MasterCard, American Express, Diners, emitidas en el Perú y el extranjero, siempre que mantengan un contrato vigente para tales efectos con la empresa oferente. Para tales efectos, cuando el cliente ingrese los números de la tarjeta y los códigos de seguridad se tendrá por verificada su identidad, siendo responsabilidad de los clientes salvaguardar dichos datos.\n*   Tratándose de las tarjetas bancarias aceptadas en este sitio, los aspectos relativos a estas —tales como la fecha de emisión, caducidad, cupo, bloqueos, clave secreta, etcétera— están sujetos al contrato existente entre el usuario o cliente y el banco emisor de su tarjeta de crédito o débito, sin que «Tienda Online»  tenga responsabilidad alguna sobre los aspectos señalados en dichos contratos. El sitio podrá indicar determinadas condiciones de compra según el medio de pago que utilice el usuario o cliente.\n\n**6\\. Formación del consentimiento en los contratos celebrados a través de este sitio**\n\nLos precios exhibidos en este portal web son exclusivos para las compras efectuadas en «Tienda Online» y no son aplicables a transacciones efectuadas en otras tiendas de ORIGENS. Asimismo, los precios y servicios exhibidos en otras tiendas de ORIGENS no necesariamente tienen aplicación en las transacciones efectuadas en este portal web.\n\nA través de este sitio web la «Tienda Online» realizará ofertas de bienes y servicios, que podrán ser aceptadas vía electrónica y utilizando los mecanismos que el mismo sitio ofrece para ello. Toda aceptación de oferta quedará sujeta a la condición suspensiva de que «Tienda Online» valide la transacción. En consecuencia, todas las operaciones que se efectúen en este sitio web requieren la confirmación y/o verificación por parte de «Tienda Online», el cual será requisito esencial para la formación del consentimiento.\n\nPara validar la transacción, «Tienda Online» deberá verificar lo siguiente:\n\n*   Validación y aceptación del medio de pago ofrecido por el usuario o cliente.\n*   Confirmación del pago o transacción, según corresponda, informada por los operadores de las pasarelas de pago o de la oficina de tesorería de ORIGENS.\n*   Los datos registrados por el usuario o cliente en el sitio coinciden con los proporcionados al efectuar su aceptación.\n\nLa etapa de validación concluye con la emisión del respectivo comprobante electrónico de venta. «Tienda Online»  se reserva el derecho de cambiar el estado de la orden o pedido de compra en cualquier momento, siempre que se evidencie algún fraude en contra del titular de la compra o se produzca un error sistémico que distorsione el precio de las ofertas.\n\nConcluida la validación, «Tienda Online» podrá contactar al usuario o cliente telefónicamente o utilizará cualquier medio de comunicación que garantice el debido y oportuno conocimiento del consumidor acerca del resultado de la validación, el que se le indicará previamente en el mismo sitio durante la operación de compra. El consentimiento se extenderá hasta la validación o información de la compra el usuario o cliente.\n\nEn atención a lo señalado en los párrafos precedentes y como una medida de protección a la seguridad de las transacciones, «Tienda Online» podrá dejar sin efecto las compras en las que los datos entregados por el usuario o cliente no coincidan con las bases de datos disponibles en «Tienda Online», o respecto de las cuales no se hubiere efectuado la validación señalada precedentemente dentro de las 72 horas siguientes a la orden o pedido de compra registrado. Si fuese necesario contactar al titular de una cuenta y pasadas las 72 horas siguientes a la orden o pedido de compra esto no fuese posible, la «Tienda Online» dejará sin efecto dicha transacción (Como medida de seguridad para el usuario o cliente).\n\n**7\\. Vigencia, validez y stock de las ofertas contenidas en este sitio web**\n\nSe hace constar que en la «Tienda Online» todos los precios de los productos están expresados en la moneda nacional del Perú, el Sol; al igual que en los comprobantes de pago que se emitan.\n\nLos precios de los productos publicados en este sitio se encuentran vigentes únicamente mientras aparezcan en él. «Tienda Online»  podrá modificar cualquier información contenida en este sitio —incluyendo las relacionadas con precios, mercaderías, servicios, existencias y condiciones— en cualquier momento y sin previo aviso, hasta el momento de recibir una solicitud de compra, la cual obligará a «Tienda Online»  a sujetarse a las condiciones de validación, entre las partes, de una determinada transacción. Los precios de los productos publicados en este sitio solo tendrán vigencia y aplicación en este sitio y no serán aplicables a otros canales de venta utilizados por «Tienda Online», tales como tiendas físicas, catálogos u otros.\n\n**8\\. Cupones de descuento**\n\nORIGENS reconoce la fidelidad de sus clientes o usuarios. Por tal motivo ofrece a su criterio cupones de descuento aplicables a los pedidos en la «Tienda Online». La comunicación del beneficio será vía correo electrónico a la dirección electrónica proporcionada por el usuario o cliente, sea verbalmente en las tiendas físicas o durante su registro por la «Tienda Online». El cupón es virtual y consiste de un código, el cual deberá ser registrado al momento de completar el pedido de compra en la «Tienda Online» a fin de aplicarse el descuento. El cupón otorga un único descuento por transacción aplicable sobre el Precio de lista que figure en la «Tienda Online», no es acumulable con otras promociones o descuentos. Para hacer efectivo el descuento asociado con el cupón, el usuario o cliente deberá registrar el código de cupón al momento de completar su pedido. El registro del cupón automáticamente recalcula el monto total del pedido aplicando el descuento sobre la suma de los precios regulares de los productos seleccionados. Este descuento no se acumula con otros descuentos o promociones razón por la cual el usuario o cliente debe decidir la conveniencia de aplicar su cupón de descuento. En términos generales, salvo que ORIGENS decida implementar una campaña con condiciones diferentes la que será comunicada oportunamente, el cupón sólo se aplica por única vez dentro del periodo de vigencia establecido. El beneficio del descuento por el cupón es de aplicación exclusiva para pedidos del usuario o cliente beneficiado y no es transferible a terceros. El descuento otorgado por un cupón sólo es aplicable a la compra de productos en la «Tienda Online». El descuento NO es aplicable al costo del transporte (flete). Ello, salvo la promoción indique el beneficio de incluir el flete. En caso de cambios, devoluciones o anulación de un pedido en el que se haya aplicado un cupón éste no será restaurado.\n\n**Seguridad y privacidad**\n\nTodo el contenido incluido o puesto a disposición del usuario o cliente en el sitio —textos, gráficos, logos, íconos, imágenes, videos, archivos de audio, descargas digitales y cualquier otra información— es de propiedad de ORIGENS. En tal sentido, el usuario o cliente debe abstenerse de extraer y/o reutilizar total o parcialmente dicho contenido y queda prohibido su uso y exposición  sin el consentimiento previo y por escrito de ORIGENS.\n\n**Revisión, Modificación de los Términos y Condiciones**\n\nOrigens se reserva expresamente el derecho a modificar, actualizar o completar en cualquier momento los Términos y Condiciones. Cualquier modificación, actualización o ampliación producida en los Términos y condiciones, será inmediatamente publicada en los Sitios Web.",
+    "metadata": {
+      "canonicalUrl": "https://origens.com.pe/terminos-y-condiciones/",
+      "title": "Términos y condiciones - Origens",
+      "description": "Términos y condiciones El acceso y uso de la web se rige por lo descrito en el presente acápite. En ese sentido, las visitas, contratos y transacciones que",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Términos y condiciones - Origens"
+        },
+        {
+          "property": "og:description",
+          "content": "Términos y condiciones El acceso y uso de la web se rige por lo descrito en el presente acápite. En ese sentido, las visitas, contratos y transacciones que"
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/terminos-y-condiciones/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        },
+        {
+          "property": "og:updated_time",
+          "content": "2024-04-10T17:58:29-05:00"
+        },
+        {
+          "property": "article:published_time",
+          "content": "2023-03-30T04:14:24-05:00"
+        },
+        {
+          "property": "article:modified_time",
+          "content": "2024-04-10T17:58:29-05:00"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens",
+              "url": "https://origens.com.pe"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://origens.com.pe/terminos-y-condiciones/#webpage",
+              "url": "https://origens.com.pe/terminos-y-condiciones/",
+              "name": "Términos y condiciones - Origens",
+              "datePublished": "2023-03-30T04:14:24-05:00",
+              "dateModified": "2024-04-10T17:58:29-05:00",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "Person",
+              "@id": "https://origens.com.pe/author/enovateam/",
+              "name": "enovateam",
+              "url": "https://origens.com.pe/author/enovateam/",
+              "image": {
+                "@type": "ImageObject",
+                "@id": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "url": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "caption": "enovateam",
+                "inLanguage": "es"
+              },
+              "sameAs": [
+                "https://origens.com.pe"
+              ],
+              "worksFor": {
+                "@id": "https://origens.com.pe/#organization"
+              }
+            },
+            {
+              "@type": "Article",
+              "headline": "Términos y condiciones - Origens",
+              "datePublished": "2023-03-30T04:14:24-05:00",
+              "dateModified": "2024-04-10T17:58:29-05:00",
+              "author": {
+                "@id": "https://origens.com.pe/author/enovateam/",
+                "name": "enovateam"
+              },
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "description": "Términos y condiciones El acceso y uso de la web se rige por lo descrito en el presente acápite. En ese sentido, las visitas, contratos y transacciones que",
+              "name": "Términos y condiciones - Origens",
+              "@id": "https://origens.com.pe/terminos-y-condiciones/#richSnippet",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/terminos-y-condiciones/#webpage"
+              },
+              "inLanguage": "es",
+              "mainEntityOfPage": {
+                "@id": "https://origens.com.pe/terminos-y-condiciones/#webpage"
+              }
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 22:35:57 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e216443ef62ebbc-YYZ",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "br",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/pages/10>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://origens.com.pe/?p=10>; rel=shortlink",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-kinsta-cache": "HIT",
+        "set-cookie": "__cf_bm=Nvu5PmI55x9_pMnCddQMmeP5DJ68sPc7HlcjlTEoBCM-1774478157-1.0.1.1-k2vdPiIKIeAJkU8quKgX_.ZTrGaMmNZU8Ml9zSP5EmBU6b9mfZguIeeEfRuKyujlCN.Vs_TUN51xF3_tlYntcH4DtZDmUf0jp92Wm4w2wJQ; path=/; expires=Wed, 25-Mar-26 23:05:57 GMT; domain=.origens.com.pe; HttpOnly; Secure; SameSite=None",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=kkXzIcsMpL2j00HlCu3Xyl%2BKwbAD%2F4EDX89V1fQCKiaXDgW0EhgoXINpCFrXHVPbVBt4gku4Ckp%2BH5At%2BbT0n8soQmrJbtDMQBJHb2prDOLpkrRqhpD67u7CPjBNgXsK\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://origens.com.pe/politica-de-privacidad/",
+    "cleaned_text": "# Política de privacidad - Origens\n\n**Políticas de privacidad de datos**\n\n**Aspectos generales**\n\nEl acceso a este sitio web y a sus funcionalidades es responsabilidad exclusiva de los usuarios. El simple acceso a este sitio web no supone entablar ningún tipo de relación de carácter comercial entre Origens y el usuario. El acceso y navegación en este sitio web supone aceptar y conocer las advertencias legales, condiciones y términos de uso contenidas en ella. La información que aparece en este sitio web es la vigente en la fecha de su última actualización. Por regla general, el sitio web es solamente informativo, y las relaciones contractuales que deriven de la información que recibe el usuario requerirán de su confirmación por escrito por parte de Origens, todo ello de conformidad con la Ley de Protección de Datos Personales (Ley Nº 29733).\n\n**Alcance**\n\nLa presente “Política de Tratamiento de Datos Personales” se aplica a toda actividad de tratamiento de datos personales realizada por parte de ORIGENS (en adelante “Origens”). Asimismo, será aplicable a todos los colaboradores, proveedores, clientes, socios, visitantes o personas naturales cuyos datos sean tratados en el marco de nuestras actividades.\n\n**Informacion general**\n\nOrigens es una marca dedicada a la comercialización de productos para mascotas, incluyendo la venta a través de su tienda online. Como parte de nuestras actividades, tratamos datos personales en cumplimiento de lo dispuesto en la Ley N.° 29733, Ley de Protección de Datos Personales, su Reglamento aprobado por Decreto Supremo N.° 016-2024-JUS, y sus normas complementarias y modificatorias (en adelante, la “Normativa de Protección de Datos Personales”). Los datos personales cuyo tratamiento realizamos son almacenados en bancos de datos personales de titularidad de Origens.\n\n**Objetivo**\n\nLa presente Política tiene por objeto hacer de conocimiento del público nuestro compromiso con la protección de datos personales, así como los lineamientos bajo los cuales realizamos el tratamiento de los mismos en ejercicio de nuestras actividades comerciales, la finalidad para la que lo hacemos, así como los procedimientos para que los titulares de los mismos puedan ejercer los derechos de acceso, rectificación, cancelación y oposición previstos en la Normativa de Protección de Datos Personales.\n\n**Finalidad del tratamiento de los datos personales**\n\nORIGENS realiza el tratamiento de datos personales con las siguientes finalidades:\n\n*   Cumplir con obligaciones legales, contractuales y reglamentarias aplicables.\n*   Ejecutar y administrar relaciones contractuales con socios, clientes, proveedores o terceros vinculados.\n*   Gestionar servicios, solicitudes, reclamos o consultas.\n*   Cumplir políticas internas de seguridad, auditoría, control y gestión de riesgos.\n*   Realizar comunicaciones comerciales, institucionales o informativas, cuando corresponda.\n*   Atender requerimientos de autoridades competentes conforme a ley.\n\nEl tratamiento se efectuará únicamente para los fines legítimos, explícitos e informados al titular.\n\n**Principios rectores**\n\nOrigens se compromete a respetar los principios rectores establecidos en la Normativa de Protección de Datos Personales. Estos son:\n\n*   **Principio de legalidad**: El tratamiento de los datos personales se hace conforme a lo establecido en la Ley, estando prohibida la recopilación de los datos personales por medios fraudulentos, desleales o ilícitos.\n*   **Principio de consentimiento**: Para el tratamiento de los datos personales debe mediar el consentimiento de su titular.\n*   **Principio de finalidad**: Los datos personales deben ser recopilados para una finalidad determinada, explícita y lícita, y su tratamiento no debe extenderse a otra finalidad distinta a aquella para la cual fueron recopilados.\n*   **Principio de proporcionalidad**: El tratamiento de datos personales debe ser adecuado, relevante y no excesivo a la finalidad para la que estos hubiesen sido recopilados.\n*   **Principio de calidad**: Los datos personales que vayan a ser tratados deben ser veraces, exactos y, en la medida de lo posible, actualizada, necesaria, pertinente y adecuada respecto de la finalidad para la que fueron recopilados.\n*   **Principio de seguridad**: El titular del banco de datos personales y el encargado de su tratamiento deben adoptar las medidas técnicas, organizativas y legales necesarias para garantizar la seguridad de los datos personales.\n*   **Principio de disposición de recurso**: El titular de datos personales debe contar con las vías administrativas o jurisdiccionales necesarias para reclamar y hacer valer sus derechos, cuando estos sean vulnerados por el tratamiento de sus datos personales.\n*   **Principio de nivel de protección adecuado**: Para el flujo transfronterizo de datos personales, se debe garantizar un nivel suficiente de protección para los datos personales que se vayan a tratar o, por lo menos, equiparable a lo previsto por la Ley de Protección de Datos Personales o por los estándares internacionales en la materia.\n\n**Consentimiento**\n\nOrigens requiere del consentimiento libre, previo, expreso, inequívoco e informado del titular de los datos personales para el tratamiento de los mismos, salvo en los casos de excepción expresamente establecidos por Ley. Origens no requiere consentimiento para tratar sus datos personales obtenidos de fuentes accesibles al público, gratuitas o no; así mismo, podrá tratar sus datos personales o de fuentes no públicas, siempre que dichas fuentes cuenten con su consentimiento para tratar y transferir dichos datos personales.\n\n**Transferencia de datos personales y Encargo de Tratamiento**\n\n*   ORIGENS podrá **transferir** datos personales a entidades públicas o privadas, nacionales o extranjeras, únicamente cuando exista base legal o contractual que lo autorice.\n*   Las **transferencias internacionales** se realizarán garantizando un nivel de protección adecuado conforme al artículo 11 de la Ley.\n*   Cualquier **encargo de tratamiento** será formalizado mediante contrato escrito, que garantice la confidencialidad y las medidas de seguridad exigidas por la normativa vigente.\n*   Origens no puede encargar parte del tratamiento de datos personales de los cuales es responsable del tratamiento o que forman parte de los bancos de datos personales de los cuales es titular, a proveedores legítimos.\n\n**Derechos de los titulares**\n\nDe acuerdo con la Ley, los titulares de datos personales tienen los siguientes derechos:\n\n*   **Derecho de Acceso e información:** El titular de datos personales tiene derecho a obtener la información que sobre sí mismo sea objeto de tratamiento en bancos de datos de titularidad de Origens.\n*   **Derecho de rectificación, actualización e inclusión**: El titular de datos personales tiene derecho a la actualización, inclusión y rectificación de sus datos personales materia de tratamiento por parte de Origens cuando estos sean parcial o totalmente inexactos, incompletos o cuando se hubiere advertido omisión, error o falsedad.\n*   **Derecho de Cancelación o Supresión:** El titular de datos personales podrá solicitar la cancelación o supresión de sus datos personales no relacionados o necesarios para la ejecución de las obligaciones de cargo de Origens previstas en los contratos suscritos o las dispuestas por la normativa vigente.\n*   **Derecho de Oposición**: El titular de datos personales puede oponerse al tratamiento de sus datos personales en cualquier momento. La oposición procederá en la medida que el tratamiento no tenga justificación contractual o legal.\n\n**Procedimiento para el ejercicio de los derechos del titular de los datos personales**\n\nLos titulares podrán revocar su consentimiento o ejercer sus derechos de Ley, mediante la presentación de su DNI u otro documento oficial de identidad y enviando su solicitud y/o consultas a:\n\nCorreo electrónico: info@origens.com.pe\n\nSede Central: Av. Paseo de la República 6223, Miraflores.\n\nEn caso que el titular del dato personal requiera ejercer sus derechos mediante un representante, éste deberá presentar carta poder legalizada por notario público que lo faculte como tal y su documento de identidad.\n\n**Plazo del tratamiento de datos personales y seguridad de los Datos**\n\nEn cumplimiento de la normativa vigente, Origens adopta las medidas jurídicas, organizativas y técnicas apropiadas para garantizar la seguridad de los datos personales, evitando su alteración, pérdida, tratamiento indebido o acceso no autorizado.\n\nPara este propósito, pone a disposición todos los recursos humanos y tecnológicos necesarios, aplicándolos en proporción a la naturaleza de los datos almacenados y los riesgos a los que se encuentran expuestos. Origens sólo realizará tratamiento sobre datos personales que estén almacenados en repositorios que reúnan las condiciones de seguridad exigidas por la normativa vigente en protección de datos personales.\n\n**Derechos de propiedad intelectual, industrial e imagen:**\n\nLos Clientes – entiéndase con esto, cualquier persona que acceda a los servicios ofrecidos por Origens, sea de manera presencial o virtual, adquiriendo o, solo visitando nuestro portal web y establecimientos físicos, declaran y reconocen que todas las marcas comerciales, nombres comerciales, modelos industriales, patentes y logotipos que protegen e identifican a todos los productos utilizados por Origens en el desempeño de su actividad comercial, así como aquellos que se puedan observar en anuncios, publicidad, redes sociales y cualquier medio o formato, son propios y de exclusivo derecho y uso de Origens.  \n\n**Navegación, acceso y seguridad**\n\nEl acceso y navegación en este sitio web supone aceptar y conocer las advertencias legales, condiciones y términos de uso contenidas en ella. Origens realiza los máximos esfuerzos para que la navegación se realice en las mejores condiciones y evitar los perjuicios de cualquier tipo que pudiesen ocasionarse durante la misma; sin perjuicio de ello, no se responsabiliza ni garantiza que el acceso a este sitio web sea ininterrumpido o que esté libre de error, ni por las fallas en rendimiento, omisiones, interrupciones de servicio o fallas en las líneas de conexión. Tampoco se responsabiliza o garantiza que el contenido o software al que pueda accederse a través de este sitio web, esté libre de error o cause un daño, eximiéndose, por adelantado, de cualquier responsabilidad por las pérdidas, daños o perjuicios de cualquier tipo que surjan por el acceso y el uso de la red de Internet abierta, incluyéndose, pero no limitándose, a los ocasionados a los sistemas informáticos o los provocados por la introducción de virus. \n\n**Aceptación y cambios**\n\nEl mero hecho de acceder a los servicios ofrecidos por Origens implica la aceptación íntegra de las presentes Bases, así como la aceptación expresa a las decisiones interpretativas que de las mismas realice Origens, así como cualquier modificatoria, agregado o delimitación a las mismas que pueda realizar Origens en su calidad de propietaria de las mismas.\n\n**Solución de controversias**\n\nEstas bases legales se regirán de conformidad con la ley peruana. Todo litigio, controversia, desavenencia o reclamación resultante, relacionada o derivada de este acto jurídico o que guarde relación con él, incluida las referidas a su validez, eficacia o terminación, incluso las del convenio arbitral, serán resueltas mediante los juzgados civiles del Poder Judicial de Lima.\n\n**Modificaciones**\n\nLa presente Política ha sido actualizada al 10 de octubre del 2025 y podrá ser modificada por Origens de manera unilateral y sin previo aviso. De producirse cualquier cambio o modificación de la presente Política, el texto vigente de la misma será publicado en nuestro portal web.",
+    "metadata": {
+      "canonicalUrl": "https://origens.com.pe/politica-de-privacidad/",
+      "title": "Política de privacidad - Origens",
+      "description": "Políticas de privacidad de datos",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Política de privacidad - Origens"
+        },
+        {
+          "property": "og:description",
+          "content": "Políticas de privacidad de datos"
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/politica-de-privacidad/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        },
+        {
+          "property": "og:updated_time",
+          "content": "2026-02-27T12:56:38-05:00"
+        },
+        {
+          "property": "article:published_time",
+          "content": "2023-03-30T04:10:16-05:00"
+        },
+        {
+          "property": "article:modified_time",
+          "content": "2026-02-27T12:56:38-05:00"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens",
+              "url": "https://origens.com.pe"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://origens.com.pe/politica-de-privacidad/#webpage",
+              "url": "https://origens.com.pe/politica-de-privacidad/",
+              "name": "Política de privacidad - Origens",
+              "datePublished": "2023-03-30T04:10:16-05:00",
+              "dateModified": "2026-02-27T12:56:38-05:00",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "Person",
+              "@id": "https://origens.com.pe/author/enovateam/",
+              "name": "enovateam",
+              "url": "https://origens.com.pe/author/enovateam/",
+              "image": {
+                "@type": "ImageObject",
+                "@id": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "url": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "caption": "enovateam",
+                "inLanguage": "es"
+              },
+              "sameAs": [
+                "https://origens.com.pe"
+              ],
+              "worksFor": {
+                "@id": "https://origens.com.pe/#organization"
+              }
+            },
+            {
+              "@type": "Article",
+              "headline": "Política de privacidad - Origens",
+              "datePublished": "2023-03-30T04:10:16-05:00",
+              "dateModified": "2026-02-27T12:56:38-05:00",
+              "author": {
+                "@id": "https://origens.com.pe/author/enovateam/",
+                "name": "enovateam"
+              },
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "description": "Políticas de privacidad de datos",
+              "name": "Política de privacidad - Origens",
+              "@id": "https://origens.com.pe/politica-de-privacidad/#richSnippet",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/politica-de-privacidad/#webpage"
+              },
+              "inLanguage": "es",
+              "mainEntityOfPage": {
+                "@id": "https://origens.com.pe/politica-de-privacidad/#webpage"
+              }
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 22:35:57 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e216441880aebbc-YYZ",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "br",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/pages/3>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://origens.com.pe/?p=3>; rel=shortlink",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-kinsta-cache": "MISS",
+        "set-cookie": "__cf_bm=.aDANUluSCMyIhFQ.PcMHLSob2REfeLNjo86f4JXU8w-1774478157-1.0.1.1-HvT3_NLAgBEgSjJCki5GfnFbqnraZ8LJbpH3zy2xZG3sW9GIINmUEALXxTMw8TvNvWjE.HMOSB2E20wfynlL7PzYKVaFkw.tBODuF7MUIQk; path=/; expires=Wed, 25-Mar-26 23:05:57 GMT; domain=.origens.com.pe; HttpOnly; Secure; SameSite=None",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=p49pbw5aqV8cFJ6xq06aggA1Ws%2Bdud605dMM1hqyTWjkr9qP%2BIWHBd%2F8pYfroZffddkJvZytTn4o8KdOYJmWnfvSKKHI5t1Mt%2BXiSfR77k9bYfORMVvi%2B85ybnz8pKvi\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://origens.com.pe/politica-de-cambios-y-devoluciones/",
+    "cleaned_text": "# Política de cambios y devoluciones\n\nEsta política aplica a todas las compras realizadas a través de [www.origens.com.pe](http://www.origens.com.pe/). Las compras realizadas en supermercados, petshops u otros canales externos se rigen por las políticas de cada establecimiento.\n\n1.  **Condiciones generales**\n\n1.1. Solo se aceptan cambios o devoluciones de productos:\n\n*   Adquiridos en [www.origens.com.pe](http://www.origens.com.pe/) y con comprobante de pago (boleta o factura).\n*   Que se encuentren sin abrir, con sellos de seguridad intactos, en su empaque original y en óptimas condiciones (sin golpes, manchas, roturas o signos de uso).\n*   Dentro de los plazos establecidos en esta política.\n\n1.2. Por tratarse de alimentos y productos de higiene para mascotas, por razones de salud e inocuidad no se aceptan cambios o devoluciones de productos abiertos, usados o con el empaque alterado, salvo que presenten fallas de calidad, defectos de fabricación o errores atribuibles a Origens.\n\n1.3. Origens se reserva el derecho de evaluar físicamente el producto antes de aprobar cualquier cambio o devolución.\n\n2.  **Plazos para cambios y devoluciones**\n\n**2.1. Cambios por disconformidad (sabor, formato, cantidad, etc.)**\n\n*   Plazo máximo: 7 días calendario contados desde la fecha de recepción del pedido.\n*   Aplica solo a productos sin uso y sin abrir, en perfecto estado y con su empaque original.\n\n**2.2. Devoluciones o cambios por producto defectuoso o en mal estado**\n\nSi el producto presenta alguno de los siguientes casos:\n\n*   Envase o empaque dañado o con signos de deterioro.\n*   Producto en mal estado (olor, textura o aspecto inusual).\n*   Error en el despacho (producto distinto al solicitado, sabor o presentación diferente, cantidad incorrecta).\n\nEl cliente debe:\n\n*   Reportar el caso en un plazo máximo de 7 días calendario desde la entrega.\n*   Enviar fotos del producto, número de lote y fecha de vencimiento, además del comprobante de pago.\n\nTras la evaluación del caso, Origens podrá ofrecer, según corresponda:\n\n*   Cambio por el mismo producto en buen estado.\n*   Cambio por otro producto de valor similar (con pago o reembolso de la diferencia, si aplica).\n*   Devolución del dinero a través del mismo medio de pago utilizado en la compra.\n\n3.  **Costos de envío en cambios y devoluciones**\n\n3.1. Cuando el cambio o devolución sea por error de Origens o por producto defectuoso, Origens asumirá los costos de recojo y reenvío del producto (en Lima/Callao y provincias).\n\n3.2. Cuando el cambio sea por disconformidad del cliente (por ejemplo, no era el sabor o formato esperado, se equivocó al elegir el producto, etc.):\n\n*   El costo de envío y recojo corre por cuenta del cliente.\n*   Si el cliente envía el producto por su cuenta desde provincia, debe usar un servicio de transporte confiable y conservar el cargo de envío.\n\n4.  **Productos excluidos**\n\nNo aplican cambios ni devoluciones en los siguientes casos:\n\n*   Productos abiertos, usados o manipulados.\n*   Productos con empaque original dañado, sin etiquetas o sin código de lote/fecha de vencimiento.\n*   Productos adquiridos en liquidación, ofertas especiales, promociones o con stock limitado, cuando así se indique expresamente en la oferta.\n*   Productos que hayan sido almacenados de manera incorrecta por el cliente (exposición al sol, humedad, calor excesivo, etc.).\n\n5.  **Procedimiento para solicitar un cambio o devolución**\n\nPara iniciar un proceso de cambio o devolución, el cliente debe:\n\n1.  Escribir a info@origens.com.pe o vía WhatsApp/llamada al (+51) 989 156 202 indicando: nombre completo, número de pedido, fecha de compra, producto(s) a cambiar/devolver, motivo del cambio o devolución y fotos del producto y del empaque (en caso de defectos o daños).\n2.  El equipo de Origens revisará la solicitud y responderá con la aprobación o rechazo del cambio/devolución, instrucciones para el recojo o envío del producto y plazos estimados para la entrega del nuevo producto o el reembolso, según corresponda.\n3.  Una vez recibido el producto en nuestro almacén y verificado su estado, se procederá al envío del producto de reemplazo o al procesamiento del reembolso.\n\n6.  **Reembolsos**\n\n*   Los reembolsos, cuando correspondan, se realizarán a través del mismo medio de pago utilizado en la compra (tarjeta de crédito/débito, transferencia, etc.).\n*   El tiempo de acreditación dependerá de la entidad financiera del cliente.\n*   En caso de cambios por disconformidad del cliente, se descontarán los costos de envío que correspondan.\n\n7.  **Compras en otros canales**\n\nSi adquiriste productos Origens a través de supermercados, petshops o plataformas de terceros, los cambios y devoluciones deberán gestionarse directamente con el establecimiento donde se realizó la compra, siguiendo sus propias políticas internas.\n\n8.  **Libro de Reclamaciones y autoridad competente**\n\nSi luego de seguir nuestro procedimiento aún no estás conforme con la solución brindada, puedes registrar tu reclamo en nuestro Libro de Reclamaciones (físico o virtual, según corresponda) y/o acudir a Indecopi, de acuerdo con el Código de Protección y Defensa del Consumidor (Ley N.° 29571) y normas vigentes en el Perú.\n\n9.  **Actualizaciones de esta política**\n\nOrigens/Imexvet podrá modificar esta Política de Cambios y Devoluciones en cualquier momento para adecuarla a cambios normativos o mejoras en el servicio. La versión vigente será siempre la publicada en [www.origens.com.pe](http://www.origens.com.pe/).",
+    "metadata": {
+      "canonicalUrl": "https://origens.com.pe/politica-de-cambios-y-devoluciones/",
+      "title": "Política de cambios y devoluciones - Origens",
+      "description": "Esta política aplica a todas las compras realizadas a través de www.origens.com.pe. Las compras realizadas en supermercados, petshops u otros canales externos",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Política de cambios y devoluciones - Origens"
+        },
+        {
+          "property": "og:description",
+          "content": "Esta política aplica a todas las compras realizadas a través de www.origens.com.pe. Las compras realizadas en supermercados, petshops u otros canales externos"
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/politica-de-cambios-y-devoluciones/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        },
+        {
+          "property": "og:updated_time",
+          "content": "2025-11-17T10:54:58-05:00"
+        },
+        {
+          "property": "article:published_time",
+          "content": "2023-05-03T06:29:16-05:00"
+        },
+        {
+          "property": "article:modified_time",
+          "content": "2025-11-17T10:54:58-05:00"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens",
+              "url": "https://origens.com.pe"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://origens.com.pe/politica-de-cambios-y-devoluciones/#webpage",
+              "url": "https://origens.com.pe/politica-de-cambios-y-devoluciones/",
+              "name": "Política de cambios y devoluciones - Origens",
+              "datePublished": "2023-05-03T06:29:16-05:00",
+              "dateModified": "2025-11-17T10:54:58-05:00",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "Person",
+              "@id": "https://origens.com.pe/author/enovateam/",
+              "name": "enovateam",
+              "url": "https://origens.com.pe/author/enovateam/",
+              "image": {
+                "@type": "ImageObject",
+                "@id": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "url": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "caption": "enovateam",
+                "inLanguage": "es"
+              },
+              "sameAs": [
+                "https://origens.com.pe"
+              ],
+              "worksFor": {
+                "@id": "https://origens.com.pe/#organization"
+              }
+            },
+            {
+              "@type": "Article",
+              "headline": "Política de cambios y devoluciones - Origens",
+              "datePublished": "2023-05-03T06:29:16-05:00",
+              "dateModified": "2025-11-17T10:54:58-05:00",
+              "author": {
+                "@id": "https://origens.com.pe/author/enovateam/",
+                "name": "enovateam"
+              },
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "description": "Esta política aplica a todas las compras realizadas a través de www.origens.com.pe. Las compras realizadas en supermercados, petshops u otros canales externos",
+              "name": "Política de cambios y devoluciones - Origens",
+              "@id": "https://origens.com.pe/politica-de-cambios-y-devoluciones/#richSnippet",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/politica-de-cambios-y-devoluciones/#webpage"
+              },
+              "inLanguage": "es",
+              "mainEntityOfPage": {
+                "@id": "https://origens.com.pe/politica-de-cambios-y-devoluciones/#webpage"
+              }
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 22:35:58 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e216443cf04ebbc-YYZ",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "br",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/pages/365>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://origens.com.pe/?p=365>; rel=shortlink",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-kinsta-cache": "MISS",
+        "set-cookie": "__cf_bm=vqmfrZpQEW13stF12PidKbuDeMui4xUEBOf7yeKQjoc-1774478158-1.0.1.1-bAX19akbbDTmA8DFXzZRhtjIco1yxdKlXaJGh9YuYr4i5SXfW2Xwq6ND6K1TAKQdW3hxql8aLD6xKCHd0I1nvPD1gtVxnx.YyanZ88n6gBo; path=/; expires=Wed, 25-Mar-26 23:05:58 GMT; domain=.origens.com.pe; HttpOnly; Secure; SameSite=None",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=BIrqFO9eqfzw7rQVzBg6%2BJHW2ZHTheE7cF%2B9TLkAdQV%2BuWiMXjtamZSe78Oa30FJLy%2BswvKfxhcZrBoSnsDoTf7YLfBO1DYD3W0WVcwJ3YDwZQj0JkQ5G1T5Wiy%2BmmfS\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://origens.com.pe/mi-cuenta/editar-direccion/",
+    "cleaned_text": "# Mi cuenta - Origens\n\nO\n\n## Registro\n\nIniciar sesión en este sitio le permite acceder al estado e historial de su pedido. Simplemente complete los campos a continuación y estará en su cuenta en un abrir y cerrar de ojos. Solo le pediremos la información necesaria para hacer el proceso de compra más rápido y sencillo.\n\nRegistrarse en este sitio le permite acceder al estado e historial de su pedido. Simplemente complete los campos a continuación y configuraremos una nueva cuenta para usted en un abrir y cerrar de ojos. Solo te pediremos la información necesaria para que el proceso de compra sea más rápido y sencillo.\n\n[Registrarse](https://origens.com.pe/mi-cuenta/editar-direccion/#)",
+    "metadata": {
+      "title": "Mi cuenta - Origens",
+      "description": "Mi cuenta",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Mi cuenta - Origens"
+        },
+        {
+          "property": "og:description",
+          "content": "Mi cuenta"
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/mi-cuenta/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        },
+        {
+          "property": "og:updated_time",
+          "content": "2024-02-16T18:17:31-05:00"
+        },
+        {
+          "property": "article:published_time",
+          "content": "2023-03-30T04:14:24-05:00"
+        },
+        {
+          "property": "article:modified_time",
+          "content": "2024-02-16T18:17:31-05:00"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens",
+              "url": "https://origens.com.pe"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://origens.com.pe/mi-cuenta/#webpage",
+              "url": "https://origens.com.pe/mi-cuenta/",
+              "name": "Mi cuenta - Origens",
+              "datePublished": "2023-03-30T04:14:24-05:00",
+              "dateModified": "2024-02-16T18:17:31-05:00",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "Person",
+              "@id": "https://origens.com.pe/author/enovateam/",
+              "name": "enovateam",
+              "url": "https://origens.com.pe/author/enovateam/",
+              "image": {
+                "@type": "ImageObject",
+                "@id": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "url": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "caption": "enovateam",
+                "inLanguage": "es"
+              },
+              "sameAs": [
+                "https://origens.com.pe"
+              ],
+              "worksFor": {
+                "@id": "https://origens.com.pe/#organization"
+              }
+            },
+            {
+              "@type": "Article",
+              "headline": "Mi cuenta - Origens",
+              "datePublished": "2023-03-30T04:14:24-05:00",
+              "dateModified": "2024-02-16T18:17:31-05:00",
+              "author": {
+                "@id": "https://origens.com.pe/author/enovateam/",
+                "name": "enovateam"
+              },
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "description": "Mi cuenta",
+              "name": "Mi cuenta - Origens",
+              "@id": "https://origens.com.pe/mi-cuenta/#richSnippet",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/mi-cuenta/#webpage"
+              },
+              "inLanguage": "es",
+              "mainEntityOfPage": {
+                "@id": "https://origens.com.pe/mi-cuenta/#webpage"
+              }
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 22:35:48 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e21640daa57b602-MIA",
+        "cf-cache-status": "DYNAMIC",
+        "cache-control": "no-cache, must-revalidate, max-age=0, private",
+        "content-encoding": "br",
+        "expires": "Wed, 11 Jan 1984 05:00:00 GMT",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/pages/9>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://origens.com.pe/?p=9>; rel=shortlink",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "content-security-policy": "frame-ancestors 'self';",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-frame-options": "SAMEORIGIN",
+        "x-kinsta-cache": "HIT",
+        "x-robots-tag": "noindex",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=8JCxOZTZMn9Glk0QNzXV4B7NwwP7QLeeDcdvTdQYWDuMjLhj950smJn87vW6AMpwLaG%2BMx9U%2BCQEA1l3DNPa9328K48hBPin%2BT2OLc76aqHejOUFLof3VgwWcc4Ehj86\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://origens.com.pe/mi-cuenta/pedidos/",
+    "cleaned_text": "# Mi cuenta - Origens\n\nO\n\n## Registro\n\nIniciar sesión en este sitio le permite acceder al estado e historial de su pedido. Simplemente complete los campos a continuación y estará en su cuenta en un abrir y cerrar de ojos. Solo le pediremos la información necesaria para hacer el proceso de compra más rápido y sencillo.\n\nRegistrarse en este sitio le permite acceder al estado e historial de su pedido. Simplemente complete los campos a continuación y configuraremos una nueva cuenta para usted en un abrir y cerrar de ojos. Solo te pediremos la información necesaria para que el proceso de compra sea más rápido y sencillo.\n\n[Registrarse](https://origens.com.pe/mi-cuenta/pedidos/#)",
+    "metadata": {
+      "title": "Mi cuenta - Origens",
+      "description": "Mi cuenta",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Mi cuenta - Origens"
+        },
+        {
+          "property": "og:description",
+          "content": "Mi cuenta"
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/mi-cuenta/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        },
+        {
+          "property": "og:updated_time",
+          "content": "2024-02-16T18:17:31-05:00"
+        },
+        {
+          "property": "article:published_time",
+          "content": "2023-03-30T04:14:24-05:00"
+        },
+        {
+          "property": "article:modified_time",
+          "content": "2024-02-16T18:17:31-05:00"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens",
+              "url": "https://origens.com.pe"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://origens.com.pe/mi-cuenta/#webpage",
+              "url": "https://origens.com.pe/mi-cuenta/",
+              "name": "Mi cuenta - Origens",
+              "datePublished": "2023-03-30T04:14:24-05:00",
+              "dateModified": "2024-02-16T18:17:31-05:00",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "Person",
+              "@id": "https://origens.com.pe/author/enovateam/",
+              "name": "enovateam",
+              "url": "https://origens.com.pe/author/enovateam/",
+              "image": {
+                "@type": "ImageObject",
+                "@id": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "url": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "caption": "enovateam",
+                "inLanguage": "es"
+              },
+              "sameAs": [
+                "https://origens.com.pe"
+              ],
+              "worksFor": {
+                "@id": "https://origens.com.pe/#organization"
+              }
+            },
+            {
+              "@type": "Article",
+              "headline": "Mi cuenta - Origens",
+              "datePublished": "2023-03-30T04:14:24-05:00",
+              "dateModified": "2024-02-16T18:17:31-05:00",
+              "author": {
+                "@id": "https://origens.com.pe/author/enovateam/",
+                "name": "enovateam"
+              },
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "description": "Mi cuenta",
+              "name": "Mi cuenta - Origens",
+              "@id": "https://origens.com.pe/mi-cuenta/#richSnippet",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/mi-cuenta/#webpage"
+              },
+              "inLanguage": "es",
+              "mainEntityOfPage": {
+                "@id": "https://origens.com.pe/mi-cuenta/#webpage"
+              }
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 22:35:48 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e21640daa5ab602-MIA",
+        "cf-cache-status": "DYNAMIC",
+        "cache-control": "no-cache, must-revalidate, max-age=0, private",
+        "content-encoding": "br",
+        "expires": "Wed, 11 Jan 1984 05:00:00 GMT",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/pages/9>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://origens.com.pe/?p=9>; rel=shortlink",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "content-security-policy": "frame-ancestors 'self';",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-frame-options": "SAMEORIGIN",
+        "x-kinsta-cache": "HIT",
+        "x-robots-tag": "noindex",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=yDkrbPaWwtufnwP7B3GDyrNc11l772yVtgZ2KlHvHI6v%2BpGAYpNlyXv0Z4YGmXmk%2BHwnMqFYfXeBV1AoAV8532DAm3IRK%2FcMLiTGB06KOYQsCRjWXV4CpdSrp3MZ%2FbRi\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://origens.com.pe/politica-de-envios/",
+    "cleaned_text": "# Política de envíos - Origens\n\n**Horario de Entrega**\n\n– El horario de entrega es de lunes a viernes de 9:00 am a 5:00 pm. No se consideran feriados ni días no laborables para las entregas. (Solo días hábiles)\n\n– Ante cualquier hecho de fuerza mayor o restricciones impuestas por el gobierno que impidan la entrega en la fecha solicitada, se informará al cliente a través de correo electrónico o llamada telefónica.\n\n**Entrega del Producto**\n\n– La entrega de los pedidos se programa una vez que LA EMPRESA confirme que la transacción se haya realizado correctamente y el dinero se encuentre en las cuentas de LA EMPRESA.\n\n– La entrega de los pedidos puede ser a través de reparto o recojo en tienda.  \n– Horario de recojo en tienda: Lunes a Viernes 10:00 am a 5:00 pm.\n\n– Para la recepción de su pedido, es necesario portar su DNI o documento de identificación.\n\n– El repartidor validará el DNI o documento de identificación de EL USUARIO antes de realizar la entrega del pedido.\n\n– El repartidor solicitará la firma de la guía de entrega como prueba de entrega a EL USUARIO y tomará fotografías de los productos entregados. Si EL USUARIO no desea firmar la guía de entrega, el repartidor solicitará tomar una fotografía del DNI como sustento. De no poder tener ninguno de los dos sustentos, el repartidor no podrá realizar la entrega del pedido.\n\n– En caso EL USUARIO no pueda recibir el pedido directamente, podrá indicar mediante una llamada telefónica o correo electrónico quién recibirá el pedido. Esta persona deberá mostrar la foto del DNI de EL USUARIO y firmar las guías de entrega o se tomará foto de su DNI para realizar la entrega tal como se indica en el punto anterior.\n\n– Las entregas se realizan en el domicilio de EL USUARIO, puerta a calle o zona de recepción del condominio. No se ingresará a ningún edificio o vivienda.\n\n– Por favor, revise sus productos al momento de recibirlos a fin de validar que todo esté conforme.\n\n– Si no hay alguna persona que reciba el producto o si la dirección informada por EL USUARIO es errónea y no se puede realizar la entrega del producto, LA EMPRESA procederá a ponerse en contacto con EL USUARIO. De no tener éxito, es importante conocer que en caso desee realizar la reprogramación del envío de los productos, esta tendrá un costo adicional de S/7 soles. De necesitar una tercera reprogramación, esta tendrá nuevamente un costo adicional de S/7 soles. Finalmente, de no tener éxito en la entrega por ausencia o dirección errónea, EL USUARIO deberá acercarse a recoger su pedido en tienda previa coordinación vía correo electrónico o llamada telefónica.\n\nEsta política de envío ha sido establecida para asegurar que nuestros clientes reciban sus productos de manera eficiente y segura, garantizando la satisfacción de cada uno de ustedes. Agradecemos su comprensión y colaboración en el cumplimiento de estos términos.",
+    "metadata": {
+      "canonicalUrl": "https://origens.com.pe/politica-de-envios/",
+      "title": "Política de envíos - Origens",
+      "description": "Horario de Entrega",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Política de envíos - Origens"
+        },
+        {
+          "property": "og:description",
+          "content": "Horario de Entrega"
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/politica-de-envios/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        },
+        {
+          "property": "og:updated_time",
+          "content": "2025-11-17T15:41:08-05:00"
+        },
+        {
+          "property": "article:published_time",
+          "content": "2023-11-26T01:58:57-05:00"
+        },
+        {
+          "property": "article:modified_time",
+          "content": "2025-11-17T15:41:08-05:00"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens",
+              "url": "https://origens.com.pe"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://origens.com.pe/politica-de-envios/#webpage",
+              "url": "https://origens.com.pe/politica-de-envios/",
+              "name": "Política de envíos - Origens",
+              "datePublished": "2023-11-26T01:58:57-05:00",
+              "dateModified": "2025-11-17T15:41:08-05:00",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "Person",
+              "@id": "https://origens.com.pe/author/enovateam/",
+              "name": "enovateam",
+              "url": "https://origens.com.pe/author/enovateam/",
+              "image": {
+                "@type": "ImageObject",
+                "@id": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "url": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "caption": "enovateam",
+                "inLanguage": "es"
+              },
+              "sameAs": [
+                "https://origens.com.pe"
+              ],
+              "worksFor": {
+                "@id": "https://origens.com.pe/#organization"
+              }
+            },
+            {
+              "@type": "Article",
+              "headline": "Política de envíos - Origens",
+              "datePublished": "2023-11-26T01:58:57-05:00",
+              "dateModified": "2025-11-17T15:41:08-05:00",
+              "author": {
+                "@id": "https://origens.com.pe/author/enovateam/",
+                "name": "enovateam"
+              },
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "description": "Horario de Entrega",
+              "name": "Política de envíos - Origens",
+              "@id": "https://origens.com.pe/politica-de-envios/#richSnippet",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/politica-de-envios/#webpage"
+              },
+              "inLanguage": "es",
+              "mainEntityOfPage": {
+                "@id": "https://origens.com.pe/politica-de-envios/#webpage"
+              }
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 22:35:49 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e21640daa53b602-MIA",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "br",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/pages/2294>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://origens.com.pe/?p=2294>; rel=shortlink",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-kinsta-cache": "MISS",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=o9aesT%2BDfbhNNmtJjTL4wsf9WJe%2FXJK0%2FpAYPaqaLeD9aFBLsa6Q7dZrvYEi39XDLQ%2FsDZKwVRxClvdmA%2BtJHAeXRo02xpmMNPytITXfW8P4P3xgih0hqcG3GYEwY%2FdX\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://origens.com.pe/tienda",
+    "cleaned_text": "# La mejor nutrición para tus peludos en cada bocado\n\n## Todo lo que debes saber sobre las mascotas\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\n*   Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n*   It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\nAll the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\n*   Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n*   It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "metadata": {
+      "canonicalUrl": "https://origens.com.pe/tienda/",
+      "title": "La mejor nutrición para tus peludos en cada bocado - Origens",
+      "description": "Delicioso, nutritivo y repleto de ingredientes de la más alta calidad. Desde el frigorífico hasta el bol, esto es lo más fresco posible.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "La mejor nutrición para tus peludos en cada bocado - Origens"
+        },
+        {
+          "property": "og:description",
+          "content": "Delicioso, nutritivo y repleto de ingredientes de la más alta calidad. Desde el frigorífico hasta el bol, esto es lo más fresco posible."
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/tienda/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens",
+              "url": "https://origens.com.pe"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "CollectionPage",
+              "@id": "https://origens.com.pe/tienda/#webpage",
+              "url": "https://origens.com.pe/tienda/",
+              "name": "La mejor nutrición para tus peludos en cada bocado - Origens",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 22:36:34 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e21652b297cebbc-YYZ",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "br",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\"",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-kinsta-cache": "HIT",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=Uq1uKiipE%2Frts4KrQU3QdswUB3k1ZhCOSuFO%2BtmuQUG5t8znn6ve9C8F%2FQIA9ZLxyrsp8XHCVFtIxcqSiEx07cDeTSixOD2NEGxpQmlSY42MZbDm7z%2BnblBUF%2Fc2PMxK\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://origens.com.pe/c/gatos/alimentos/gatitos/",
+    "cleaned_text": "# Alimento para Gatitos: Crecimiento Sano y Fuerte\n\n## **Comida para gatos bebés desde el primer mes de vida**\n\nEn Origens, ofrecemos **comida para gatos bebés** especialmente formulada para sus primeras etapas. Desde el primer mes, los gatitos necesitan una nutrición específica que fortalezca su sistema inmune, huesos, digestión y desarrollo cognitivo. Nuestros alimentos están diseñados por veterinarios para cubrir esas necesidades desde el inicio.\n\n## **Comida húmeda y sólida según su etapa**\n\nDurante los primeros meses, los gatitos necesitan una dieta suave, rica en proteínas y fácil de digerir. En **Orígens** nos especializamos en [**comida húmeda para gatos bebés**](https://origens.com.pe/c/gatos/alimentos/alimento-humedo/) con textura suave, perfecta para la transición del destete. Formuladas con atún y frutas, nuestras recetas ofrecen nutrición completa en cada lata. Compra en línea **paté para gatos bebés** y recíbelo en casa en presentaciones listas para servir.\n\n## **Para gatitos recién nacidos y bebés de 1 mes**\n\nContamos con alimentos recomendados para **gatos bebés recién nacidos** o de tan solo 1 mes. Nuestras fórmulas no contienen subproductos, colorantes ni conservantes artificiales, y están enriquecidas con DHA, taurina, y proteínas de alta calidad para apoyar un crecimiento saludable.\n\n## **Compra comida para gatos bebés online con envío gratis**\n\nHaz tu compra desde casa y recibe packs especialmente pensados para gatitos. Obtén **15% de descuento en tu primera compra** y **envío gratis desde S/150**. Productos seguros, sabrosos y listos para acompañarlos en sus primeras etapas de vida\n\n## **Complementa su cuidado desde pequeños con Origens**\n\nAdemás de su alimentación, puedes explorar productos de [**salud e higiene para gatos**](https://origens.com.pe/c/gatos/salud-e-higiene/) para mantener limpio y protegido a tu felino. Encuentra también **arena para gatos**, **pipetas antipulgas** y **nutracéuticos** adecuados para su etapa temprana. Si ya tienes un gato adulto o mayor, también puedes explorar nuestras opciones de **[comida para gatos adultos](https://origens.com.pe/c/gatos/alimentos/adultos/)** y **[comida para gatos viejos](https://origens.com.pe/c/gatos/alimentos/senior/)****,** pensadas para cada etapa de vida.\n\n## **Origens no solo es para gatos**\n\nTambién contamos con una **línea especializada para tus caninos**. Si tienes perros en casa, visita nuestra [**tienda para mascotas**](https://origens.com.pe/c/perros/) y descubre **alimentos**, **antipulgas** y productos de higiene pensados para ellos. ¡Compra ahora y cuídalos como se merecen!\n\n## Preguntas frecuentes sobre comida para gatos bebés\n\n### [¿Qué tipo de comida para gatos bebés ofrece Origens?](https://origens.com.pe/c/gatos/alimentos/gatitos/#1758927308394-e54cfbda-b704)\n\nEn **Origens**, ofrecemos una variedad de opciones de **comida para gatos bebés** diseñadas para satisfacer sus necesidades nutricionales durante las primeras etapas de vida. Entre nuestros productos, encontrarás:\n\n*   **Comida húmeda para gatos bebés** en latas de 85g.  \n    \n*   **Pate para gatos bebés** con opciones deliciosas como atún, pollo y otras combinaciones saludables.  \n    \n\n### [¿Qué diferencia la comida para gatos bebés Origens de otras marcas?](https://origens.com.pe/c/gatos/alimentos/gatitos/#1759155697902-0d0cdd18-034a)\n\n**Origens** se distingue por usar **ingredientes naturales y frescos**, garantizando una **nutrición completa y equilibrada** para tu gatito. Nuestra **comida para gatos bebés** está formulada específicamente para apoyar su desarrollo, con **proteínas de alta calidad**, **grasas saludables** y **vitaminas esenciales**. Además, no usamos conservantes artificiales ni gluten, lo que hace que nuestros productos sean más saludables para tu gatito.\n\n### [¿Cuándo debo comenzar a darle comida para gatos bebés de Origens?](https://origens.com.pe/c/gatos/alimentos/gatitos/#1759165077388-8183693f-5fac)\n\nPuedes comenzar a ofrecer la **comida para gatos bebés** de **Origens** a partir de las **4 semanas de edad**. Inicialmente, puedes mezclarla con agua tibia para hacerla más fácil de consumir, especialmente si el gatito aún está acostumbrado a la leche materna o a un sustituto de leche para gatitos. A medida que el gatito crezca, puedes reducir gradualmente la cantidad de agua añadida hasta que esté listo para comer la comida sólida de forma regular.\n\n### [¿Es la comida para gatos bebés Origens adecuada para gatitos recién nacidos?](https://origens.com.pe/c/gatos/alimentos/gatitos/#1759165790936-4f3f3fc4-9247)\n\nPara los **gatitos recién nacidos**, la alimentación debe basarse principalmente en leche materna o un sustituto de leche formulado especialmente para ellos. **Origens** ofrece opciones como el **pate para gatos bebés**, que puede introducirse a partir de las **3-4 semanas de edad**. Sin embargo, es recomendable consultar con tu veterinario para determinar el mejor momento para introducir alimentos sólidos o húmedos, según las necesidades específicas de tu gatito.\n\n### [¿Puedo darle solo comida húmeda a mi gato bebé?](https://origens.com.pe/c/gatos/alimentos/gatitos/#1759440411714-5133d414-9545)\n\nSí, **la comida húmeda para gatos bebés** de **Origens** es una excelente opción para gatitos en crecimiento. Es fácil de masticar y digerir, lo que la hace ideal durante la transición de la leche materna a los alimentos sólidos. Sin embargo, muchos veterinarios recomiendan una dieta combinada de **comida húmeda y sólida** para asegurar una nutrición equilibrada y completa para el desarrollo de tu gatito.\n\n## **Compra comida para gatos bebés en Perú**\n\nEn Origens encuentras **comida para gatos bebés** ideal para gatitos de 1 mes o recién nacidos, cuidadosamente formulada para aportar los nutrientes que necesitan en su etapa más delicada. Nuestro **paté para gatos bebés** ofrece una textura suave y digestible que favorece su transición a alimentos sólidos, mientras que su fórmula balanceada asegura un crecimiento saludable.\n\n### **Artículos sobre comida para gatos** **bebés**",
+    "metadata": {
+      "canonicalUrl": "https://origens.com.pe/c/gatos/alimentos/gatitos/",
+      "title": "Alimento para Gatitos: Crecimiento Sano y Fuerte | Origens",
+      "description": "Nutrientes esenciales para los más pequeños. Encuentra la mejor comida para gatitos de las marcas más confiables para un desarrollo físico ideal.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Alimento para Gatitos: Crecimiento Sano y Fuerte | Origens"
+        },
+        {
+          "property": "og:description",
+          "content": "Nutrientes esenciales para los más pequeños. Encuentra la mejor comida para gatitos de las marcas más confiables para un desarrollo físico ideal."
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/c/gatos/alimentos/gatitos/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        },
+        {
+          "property": "og:image",
+          "content": "https://origens.com.pe/wp-content/uploads/2025/12/Mousse-gatos-baby-Atun-manzana-verde.jpg"
+        },
+        {
+          "property": "og:image:secure_url",
+          "content": "https://origens.com.pe/wp-content/uploads/2025/12/Mousse-gatos-baby-Atun-manzana-verde.jpg"
+        },
+        {
+          "property": "og:image:width",
+          "content": "2000"
+        },
+        {
+          "property": "og:image:height",
+          "content": "2000"
+        },
+        {
+          "property": "og:image:type",
+          "content": "image/jpeg"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "CollectionPage",
+              "@id": "https://origens.com.pe/c/gatos/alimentos/gatitos/#webpage",
+              "url": "https://origens.com.pe/c/gatos/alimentos/gatitos/",
+              "name": "Alimento para Gatitos: Crecimiento Sano y Fuerte | Origens",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 22:36:34 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e21652e3a6febbc-YYZ",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "br",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/product_cat/258>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-kinsta-cache": "HIT",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=AZi2Poxdt6Pj%2F13bJy5VYX9tngQqo%2BdaljlXc%2FwPuemFDnBd94Alk%2FRsyf1pOmc4KatbA4Q7cRu9YdV6y3RrgKLjOi%2FGYkL0cdM8Whl3CO403dCwUeFeJk5SDZpbq80Y\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://origens.com.pe/p/arena-sanitaria-sin-aroma-origens-5kg/",
+    "cleaned_text": "# Origens super premium sin aroma 5kg\n\nArena Super Premium sin Aroma – 5KG es una arena sanitaria específicamente para **gatos**. Elaborada con bentonita natural. Ideal para quienes buscan una arena para gatos hipoalergénica, libre de fragancias y **100% natural.** Enfocada en el alto poder de aglomeración, súper absorción, control efectivo de olores y **libre de polvo.** Descubre más opciones en nuestra [categoría de arenas para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/arena-sanitaria/).\n\n~El precio original era: S/19.50.El precio actual es: S/19.50.~ S/15.60\n\n![](https://origens.com.pe/wp-content/uploads/2024/03/save.svg) Ahorra un 15% de descuento en cada pedido suscribiéndote a nuestro boletín.\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/shutterstock_1416341357_1-removebg-preview-2-1.png)\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/benefits.png)\n\n### Beneficios del **Alimento Origens**\n\n#### Pelaje Reluciente\n\nEliminamos toxinas que se encuentran presentes en la alimentación tradicional, favoreciendo la salud del pelaje y el estado de la piel.\n\n#### Digestiones más ligeras\n\nEl alimento natural es más digestible de esta forma, la absorción de nutrientes es mayor, por lo que se producen menos heces y más compactas.\n\n#### Inmunidad a tope\n\nDebido a la ingesta de buenos alimentos, el sistema inmune se encuentra menos castigado, pudiendo hacer frente de forma más eficaz a cualquier afección.\n\n#### Te podría interesar\n\nPromoviendo el reciclaje de los envases\n\nEl pescado utilizado es 100% proveniente del mar\n\nEmbarcaciones de pesca que no han realizado pesca de delfines.\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/shutterstock_2111677481_1-removebg-preview-2.png)\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Rectangle-2945-1.jpg)\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/certificate-mobile.jpg)\n\n### **Descubre las últimas noticias** para el cuidado de tus mascotas\n\n## Todo lo que debes saber sobre las mascotas\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\n*   Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n*   It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\nAll the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\n*   Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n*   It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Pedazo-de-pina.png)\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Group-427323957.png)",
+    "metadata": {
+      "canonicalUrl": "https://origens.com.pe/p/arena-sanitaria-sin-aroma-origens-5kg/",
+      "title": "Origens super premium sin aroma 5kg | Natural",
+      "description": "Origens super premium sin aroma es ideal para gatos sensibles. Aglomeración , sin fragancias, con excelente control de olores. Envíos desde S/150.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "product"
+        },
+        {
+          "property": "og:title",
+          "content": "Origens super premium sin aroma 5kg | Natural"
+        },
+        {
+          "property": "og:description",
+          "content": "Origens super premium sin aroma es ideal para gatos sensibles. Aglomeración , sin fragancias, con excelente control de olores. Envíos desde S/150."
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/p/arena-sanitaria-sin-aroma-origens-5kg/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        },
+        {
+          "property": "og:updated_time",
+          "content": "2026-01-01T00:48:01-05:00"
+        },
+        {
+          "property": "og:image",
+          "content": "https://origens.com.pe/wp-content/uploads/2024/04/7756167000393-1.png"
+        },
+        {
+          "property": "og:image:secure_url",
+          "content": "https://origens.com.pe/wp-content/uploads/2024/04/7756167000393-1.png"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1000"
+        },
+        {
+          "property": "og:image:height",
+          "content": "1000"
+        },
+        {
+          "property": "og:image:alt",
+          "content": "origens super premium sin aroma"
+        },
+        {
+          "property": "og:image:type",
+          "content": "image/png"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens",
+              "url": "https://origens.com.pe"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "ImageObject",
+              "@id": "https://origens.com.pe/wp-content/uploads/2024/04/7756167000393-1.png",
+              "url": "https://origens.com.pe/wp-content/uploads/2024/04/7756167000393-1.png",
+              "width": "1000",
+              "height": "1000",
+              "inLanguage": "es"
+            },
+            {
+              "@type": "ItemPage",
+              "@id": "https://origens.com.pe/p/arena-sanitaria-sin-aroma-origens-5kg/#webpage",
+              "url": "https://origens.com.pe/p/arena-sanitaria-sin-aroma-origens-5kg/",
+              "name": "Origens super premium sin aroma 5kg | Natural",
+              "datePublished": "2024-04-03T00:47:27-05:00",
+              "dateModified": "2026-01-01T00:48:01-05:00",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://origens.com.pe/wp-content/uploads/2024/04/7756167000393-1.png"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "Product",
+              "name": "Origens super premium sin aroma 5kg | Natural",
+              "description": "Origens super premium sin aroma es ideal para gatos sensibles. Aglomeración , sin fragancias, con excelente control de olores. Envíos desde S/150.",
+              "sku": "7756167000393",
+              "category": "GATOS &gt; Salud e Higiene &gt; Arena para Gatos",
+              "mainEntityOfPage": {
+                "@id": "https://origens.com.pe/p/arena-sanitaria-sin-aroma-origens-5kg/#webpage"
+              },
+              "image": [
+                {
+                  "@type": "ImageObject",
+                  "url": "https://origens.com.pe/wp-content/uploads/2024/04/7756167000393-1.png",
+                  "height": "1000",
+                  "width": "1000"
+                },
+                {
+                  "@type": "ImageObject",
+                  "url": "https://origens.com.pe/wp-content/uploads/2024/04/7756167000393-2.png",
+                  "height": "1000",
+                  "width": "1000"
+                }
+              ],
+              "offers": {
+                "@type": "Offer",
+                "price": "19.50",
+                "priceCurrency": "PEN",
+                "priceValidUntil": "2027-12-31",
+                "availability": "http://schema.org/InStock",
+                "itemCondition": "NewCondition",
+                "url": "https://origens.com.pe/p/arena-sanitaria-sin-aroma-origens-5kg/",
+                "seller": {
+                  "@type": "Organization",
+                  "@id": "https://origens.com.pe/",
+                  "name": "Origens",
+                  "url": "https://origens.com.pe",
+                  "logo": ""
+                }
+              },
+              "@id": "https://origens.com.pe/p/arena-sanitaria-sin-aroma-origens-5kg/#richSnippet"
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 22:36:38 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e21653f9fd0ebbc-YYZ",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "br",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/product/2680>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://origens.com.pe/?p=2680>; rel=shortlink",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-kinsta-cache": "MISS",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=5Jxq%2FrwLoGpMliTsCFpTDloUikHfWFLxKuTn5%2BA%2Bx4qxmQpVykyvKdUWH8sAuiXf97Fctg88JhPSbziMoU3teiOs2IoaKJrwEyHSJh8fQl5d9KqYx5S9EmoGhzML6qcN\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://origens.com.pe/p/snack-crazy-coins-pato-130gr/",
+    "cleaned_text": "# Snack Crazy Coins Pato 130gr | Para perros\n\n## Todo lo que debes saber sobre las mascotas\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\n*   Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n*   It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\nAll the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\n*   Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n*   It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "metadata": {
+      "canonicalUrl": "https://origens.com.pe/p/snack-crazy-coins-pato-130gr/",
+      "title": "Snack Crazy Coins Pato 130gr | Para perros | Origens",
+      "description": "Ofrece a tu mascota el Snack Crazy Coins Pato de 130gr, un premio nutritivo con proteína de alta calidad y bajo en grasas para perros.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "product"
+        },
+        {
+          "property": "og:title",
+          "content": "Snack Crazy Coins Pato 130gr | Para perros | Origens"
+        },
+        {
+          "property": "og:description",
+          "content": "Ofrece a tu mascota el Snack Crazy Coins Pato de 130gr, un premio nutritivo con proteína de alta calidad y bajo en grasas para perros."
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/p/snack-crazy-coins-pato-130gr/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        },
+        {
+          "property": "og:updated_time",
+          "content": "2026-03-03T16:43:55-05:00"
+        },
+        {
+          "property": "og:image",
+          "content": "https://origens.com.pe/wp-content/uploads/2026/02/Crazy-Coins-Pato-1024x1024.jpg"
+        },
+        {
+          "property": "og:image:secure_url",
+          "content": "https://origens.com.pe/wp-content/uploads/2026/02/Crazy-Coins-Pato-1024x1024.jpg"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1024"
+        },
+        {
+          "property": "og:image:height",
+          "content": "1024"
+        },
+        {
+          "property": "og:image:alt",
+          "content": "Snack Crazy Coins Pato"
+        },
+        {
+          "property": "og:image:type",
+          "content": "image/jpeg"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens",
+              "url": "https://origens.com.pe"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "ImageObject",
+              "@id": "https://origens.com.pe/wp-content/uploads/2026/02/Crazy-Coins-Pato-scaled.jpg",
+              "url": "https://origens.com.pe/wp-content/uploads/2026/02/Crazy-Coins-Pato-scaled.jpg",
+              "width": "2560",
+              "height": "2560",
+              "inLanguage": "es"
+            },
+            {
+              "@type": "ItemPage",
+              "@id": "https://origens.com.pe/p/snack-crazy-coins-pato-130gr/#webpage",
+              "url": "https://origens.com.pe/p/snack-crazy-coins-pato-130gr/",
+              "name": "Snack Crazy Coins Pato 130gr | Para perros | Origens",
+              "datePublished": "2026-02-03T11:19:51-05:00",
+              "dateModified": "2026-03-03T16:43:55-05:00",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://origens.com.pe/wp-content/uploads/2026/02/Crazy-Coins-Pato-scaled.jpg"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "Product",
+              "name": "Snack Crazy Coins Pato 130gr | Para perros | Origens",
+              "description": "Ofrece a tu mascota el Snack Crazy Coins Pato de 130gr, un premio nutritivo con proteína de alta calidad y bajo en grasas para perros.",
+              "sku": "100060000690",
+              "category": "Perros",
+              "mainEntityOfPage": {
+                "@id": "https://origens.com.pe/p/snack-crazy-coins-pato-130gr/#webpage"
+              },
+              "image": [
+                {
+                  "@type": "ImageObject",
+                  "url": "https://origens.com.pe/wp-content/uploads/2026/02/Crazy-Coins-Pato-scaled.jpg",
+                  "height": "2560",
+                  "width": "2560"
+                },
+                {
+                  "@type": "ImageObject",
+                  "url": "https://origens.com.pe/wp-content/uploads/2026/02/Crazy-Coins-Pato-2-scaled.jpg",
+                  "height": "2560",
+                  "width": "2560"
+                }
+              ],
+              "offers": {
+                "@type": "Offer",
+                "price": "19.90",
+                "priceCurrency": "PEN",
+                "priceValidUntil": "2027-12-31",
+                "availability": "http://schema.org/InStock",
+                "itemCondition": "NewCondition",
+                "url": "https://origens.com.pe/p/snack-crazy-coins-pato-130gr/",
+                "seller": {
+                  "@type": "Organization",
+                  "@id": "https://origens.com.pe/",
+                  "name": "Origens",
+                  "url": "https://origens.com.pe",
+                  "logo": ""
+                }
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "pa_etapa-de-vida",
+                  "value": "Adulto, Cachorro, Senior"
+                }
+              ],
+              "@id": "https://origens.com.pe/p/snack-crazy-coins-pato-130gr/#richSnippet"
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 22:36:39 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e2165417dbfebbc-YYZ",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "br",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/product/6807>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://origens.com.pe/?p=6807>; rel=shortlink",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-kinsta-cache": "EXPIRED",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=f069%2B%2FkY2NvBEiWS6%2FclOTZtPct31m%2BsNDHynVXHYvbDcsvAfUSbfkXcaiLwYJfXW%2FNV0UlxsgtQu%2BT1ycw4gHPXM9ipNI%2F9ltB7iaur8rFySt68Z7VrT9WEQWabskSt\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  }
+]

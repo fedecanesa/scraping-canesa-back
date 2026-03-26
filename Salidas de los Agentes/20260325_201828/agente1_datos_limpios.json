@@ -1,0 +1,1614 @@
+[
+  {
+    "url": "https://origens.com.pe/",
+    "cleaned_text": "# Tienda de mascotas online | Origens\n\n## **Tienda de mascotas online en Perú con productos premium**\n\nEn Origens somos una **tienda de mascotas online en Perú** especializada en productos premium para el cuidado integral de tus animales. Descubre nuestra exclusiva selección en **[comida para perros](https://origens.com.pe/c/perros/alimentos-perros/)** y **[comida para gatos](https://origens.com.pe/c/gatos/alimentos/)**, así como todo lo necesario en productos de **[higiene para perros](https://origens.com.pe/c/perros/salud-e-higiene-perros/)** e **[higiene para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/)**. Somos la opción ideal para quienes buscan una **tienda de mascotas en Lima**, con entregas rápidas en todo el país.\n\n## **Tienda de productos para mascotas especializada en perros**\n\nNuestra **tienda de productos para mascotas** cuenta con opciones completas para perros de todas las edades y necesidades. Encuentra alimentos balanceados y opciones específicas para cada etapa de vida. Además, protege su salud con nuestros efectivos **[antipulgas para perros](https://origens.com.pe/c/perros/salud-e-higiene-perros/antipulgas-perros/)** y refuerza su bienestar con **[nutrientes para perros](https://origens.com.pe/c/perros/salud-e-higiene-perros/nutraceuticos-perros/)** de calidad superior.\n\n## **Tienda para mascotas con productos especializados para gatos**\n\nEn Origens también somos expertos en gatos. En nuestra **tienda para mascotas** encuentras alimentos especializados y opciones en **[arena para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/arena-sanitaria/)** que aseguran su comodidad diaria. Complementa su cuidado integral con productos efectivos de **[antipulgas para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/antipulgas/)** y suplementos nutricionales seleccionados cuidadosamente.\n\n## **Origens, tu tienda de animales confiable**\n\nSi buscas calidad garantizada, Origens es tu mejor opción. Somos una **tienda de animales** confiable que ofrece productos cuidadosamente seleccionados para asegurar la salud y felicidad de tus mascotas. **Facilitamos tu compra con envío gratis desde S/150 y un descuento del 15% en tu primera compra online.**\n\n## **Compra fácil y segura en tu tienda mascotas preferida**\n\nOrigens simplifica tu experiencia de compra en nuestra **tienda de mascotas** online, ofreciendo **entregas rápidas en Lima y todo el Perú**. Garantizamos la mejor atención y productos premium para el cuidado y bienestar de tus mascotas. Descubre por qué somos la opción favorita para quienes aman cuidar integralmente a sus compañeros.",
+    "metadata": {
+      "canonicalUrl": "https://origens.com.pe/",
+      "title": "Tienda de mascotas online | Origens",
+      "description": "Tienda de mascotas online en Perú con comida, higiene y nutrición para mascotas y animales. Compra en Origens. ¡Delivery rápido, ordena hoy!",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "property": "og:title",
+          "content": "Tienda de mascotas online | Origens"
+        },
+        {
+          "property": "og:description",
+          "content": "Tienda de mascotas online en Perú con comida, higiene y nutrición para mascotas y animales. Compra en Origens. ¡Delivery rápido, ordena hoy!"
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        },
+        {
+          "property": "og:updated_time",
+          "content": "2025-12-01T10:49:45-05:00"
+        },
+        {
+          "property": "article:published_time",
+          "content": "2023-03-30T04:10:16-05:00"
+        },
+        {
+          "property": "article:modified_time",
+          "content": "2025-12-01T10:49:45-05:00"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens",
+              "url": "https://origens.com.pe"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es",
+              "potentialAction": {
+                "@type": "SearchAction",
+                "target": "https://origens.com.pe/?s={search_term_string}",
+                "query-input": "required name=search_term_string"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://origens.com.pe/#webpage",
+              "url": "https://origens.com.pe/",
+              "name": "Tienda de mascotas online | Origens",
+              "datePublished": "2023-03-30T04:10:16-05:00",
+              "dateModified": "2025-12-01T10:49:45-05:00",
+              "about": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "Person",
+              "@id": "https://origens.com.pe/author/enovateam/",
+              "name": "enovateam",
+              "url": "https://origens.com.pe/author/enovateam/",
+              "image": {
+                "@type": "ImageObject",
+                "@id": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "url": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "caption": "enovateam",
+                "inLanguage": "es"
+              },
+              "sameAs": [
+                "https://origens.com.pe"
+              ],
+              "worksFor": {
+                "@id": "https://origens.com.pe/#organization"
+              }
+            },
+            {
+              "@type": "Article",
+              "headline": "Tienda de mascotas online | Origens",
+              "keywords": "tienda de mascotas",
+              "datePublished": "2023-03-30T04:10:16-05:00",
+              "dateModified": "2025-12-01T10:49:45-05:00",
+              "author": {
+                "@id": "https://origens.com.pe/author/enovateam/",
+                "name": "enovateam"
+              },
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "description": "Tienda de mascotas online en Perú con comida, higiene y nutrición para mascotas y animales. Compra en Origens. ¡Delivery rápido, ordena hoy!",
+              "name": "Tienda de mascotas online | Origens",
+              "@id": "https://origens.com.pe/#richSnippet",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#webpage"
+              },
+              "inLanguage": "es",
+              "mainEntityOfPage": {
+                "@id": "https://origens.com.pe/#webpage"
+              }
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 23:19:46 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e21a4737b1a31e3-MIA",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "br",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/pages/2>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://origens.com.pe/>; rel=shortlink",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-kinsta-cache": "HIT",
+        "set-cookie": "__cf_bm=2Mp39AbTH5RgIBUUCJPl3rWrrdDFadxD3JNjZOzJ0yE-1774480786-1.0.1.1-.Q2ecgaSMiiw0sAhzFwQkyaol25rNw_hVg09CCs02QBovXLYfQKerVA5ZIrtyZPZZZNI2jvxn7M5HOKuVbij9XKlLHc0XedbilAeV5FxRdM; path=/; expires=Wed, 25-Mar-26 23:49:46 GMT; domain=.origens.com.pe; HttpOnly; Secure; SameSite=None",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=w5Y0hYEDcvH%2Fjr4PARXM2xFCX1DNrYlO%2BHrCWwmsq9G3gWq97ou%2Fkdek4ft%2F4xzqSKFGwb7HY7GDr8CuEPYWXNOVgxR%2FGJGg42rwyelo8qcOkyG9NV0oulDMkTlnNBbX\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://origens.com.pe/blog/cuidados-bulldog-ingles-salud-nutricion/",
+    "cleaned_text": "# Guía de Cuidados, Salud y Nutrición\n\n¿Alguna vez te has quedado mirando esa **cara arrugada** y te has preguntado si realmente cubres todas sus necesidades? El **Bulldog Inglés**, con su caminar oscilante y mirada tierna, es un compañero leal pero biológicamente complejo. Con un peso de entre **22 y 25 kg** y una esperanza de vida de **8 a 10 años**, esta **raza de perro** requiere un dueño informado y comprometido.\n\n### **Ficha Técnica del Bulldog Inglés**\n\n|     |     |\n| --- | --- |\n| **Característica** | **Detalle** |\n| **Esperanza de vida** | 8 a 10 años |\n| **Peso adulto** | 22 – 25 kg |\n| **Nivel de energía** | Bajo – Moderado |\n| **Clima ideal** | Templado (sensible al calor) |\n| **Carácter** | Leal, testarudo y muy afectuoso |\n\n## **Personalidad del bulldog inglés: el alma dulce tras la expresión seria**\n\n![bull dog ingles](https://origens.com.pe/wp-content/uploads/2026/03/white-american-bully-dog-standing-green-grass-300x218.jpg)\n\nNo dejes que su ceño fruncido te engañe. El **Bulldog Inglés** es un alma tierna que necesita la compañía humana tanto como respirar. Son perros que forman vínculos profundos, aunque presentan desafíos de **comportamiento** únicos.\n\n### **El guerrero dormido que llevan dentro**\n\nEse **bulldog cachorro** que parece un peluche puede ser extremadamente **testarudo**. Su **adiestramiento** requiere paciencia y **refuerzo positivo**, ya que son sensibles al trato injusto. Además, poseen un **instinto de mordida** natural; para mantener tus muebles a salvo, es vital ofrecerles [**snacks para perros**](https://origens.com.pe/c/perros/alimentos-perros/snacks-para-perros/) resistentes y juguetes adecuados que canalicen su mandíbula.\n\n## **La realidad de su salud: problemas que puedes prevenir**\n\nLa anatomía del **Bulldog Inglés** es su mayor reto. La **prevención** es la diferencia entre una vida plena y una llena de complicaciones médicas.\n\n### **Síndrome braquicefálico: entendiendo su respiración única**\n\nSu **cara achatada** causa el **síndrome braquicefálico** (narinas estrechas y paladar elongado). No ignores los **ronquidos** excesivos o el **jadeo constante**; son señales de esfuerzo respiratorio que un veterinario debe evaluar.\n\n### **Las arrugas: más que una característica adorable**\n\nLos **pliegues faciales** son refugios para bacterias y hongos. Limpiar y secar sus **arrugas** a diario es obligatorio para evitar **dermatitis** e **infecciones cutáneas**.\n\n### **El peso: el factor que determina todo lo demás**\n\nEl **sobrepeso** es el peor enemigo del Bulldog. Agrava los **problemas respiratorios** y destruye sus articulaciones (**displasia**). Mantener un **peso óptimo** no es estética, es medicina preventiva.\n\n### **La clave nutricional que puede cambiar la vida de tu bulldog inglés**\n\nLa **alimentación** es la base de su **salud cutánea** y respiratoria. Una dieta incorrecta produce **gases** excesivos y **obesidad**.\n\n### **¿Por qué su mandíbula determina cómo debe comer?**\n\nSu **mandíbula braquicéfala** dificulta la prensión del alimento. Necesitan croquetas con una forma que les permita masticar correctamente. El [**alimento para perros**](https://origens.com.pe/c/perros/alimentos-perros/) de alta calidad, basado en **proteínas magras**, previene la inflamación abdominal.\n\n### **Las diferencias que importan según su edad**\n\nUn **bulldog cachorro** requiere energía controlada para no crecer demasiado rápido; por ello, elige siempre un [**alimento para perros cachorros**](https://origens.com.pe/c/perros/alimentos-perros/perros-cachorros/) de alta gama.\n\nAl alcanzar la madurez, la transición al [**alimento para perros adultos**](https://origens.com.pe/c/perros/alimentos-perros/perros-adultos/) debe enfocarse en mantener la **masa muscular** sin ganar grasa. Para los ejemplares que sufren por el calor o tienen poco apetito, el [**alimento húmedo para perros**](https://origens.com.pe/c/perros/alimentos-perros/alimento-humedo-perros/) es una excelente opción para hidratarlos.\n\n### **El enemigo silencioso: las porciones incorrectas**\n\nA medida que envejecen, es vital cambiar a un [**alimento para perros senior**](https://origens.com.pe/c/perros/alimentos-perros/perros-senior/) que proteja su corazón y riñones, controlando estrictamente las raciones para evitar que el sedentarismo afecte su **longevidad**.\n\n## **¿Vale la pena tener un bulldog inglés?**\n\nCuidar a un Bulldog es una demostración de amor constante. Si estás dispuesto a limpiar sus **arrugas**, vigilar su **respiración** y elegir la mejor **nutrición**, tendrás al compañero más leal y gracioso del mundo.\n\n## **FAQs**\n\n### **¿Cuál es la esperanza de vida promedio de un bulldog inglés?**\n\n El bulldog inglés tiene una esperanza de vida de 8 a 10 años. Para maximizar su longevidad, es fundamental proporcionarle cuidados preventivos constantes, controlar su peso, realizar revisiones veterinarias regulares y mantener una alimentación equilibrada.\n\n### **¿Por qué los bulldogs ingleses tienen problemas respiratorios?**\n\n Los bulldogs ingleses sufren del síndrome braquicefálico debido a su estructura facial achatada, que incluye narinas estrechas, paladar blando alargado y vías respiratorias obstruidas. Esto causa respiración ruidosa, intolerancia al ejercicio y jadeo excesivo. En casos graves, la cirugía correctiva puede mejorar significativamente su calidad de vida.\n\n### **¿Cuántas veces al día debo alimentar a mi bulldog inglés?**\n\n Los cachorros de bulldog inglés necesitan entre tres y cuatro comidas diarias para satisfacer sus necesidades energéticas durante el crecimiento. Los adultos requieren dos comidas al día. Es fundamental controlar las porciones según el peso y edad para prevenir la obesidad, a la cual esta raza es genéticamente propensa.\n\n### **¿Son los bulldogs ingleses buenos con los niños?**\n\nSí, los bulldogs ingleses son excelentes compañeros para familias con niños. Son extremadamente leales, afectuosos y muestran especial paciencia y tolerancia con los más pequeños. Su temperamento tranquilo y dulce los convierte en mascotas ideales para el hogar, aunque siempre se recomienda supervisión durante las interacciones.\n\n### **¿Cómo debo cuidar las arrugas faciales de mi bulldog inglés?**\n\n Las arrugas faciales del bulldog inglés deben limpiarse y secarse diariamente para prevenir infecciones. Los pliegues acumulan humedad, bacterias y hongos que pueden causar dermatitis, enrojecimiento, mal olor y pioderma. Una higiene minuciosa de estas áreas es esencial para mantener la salud cutánea de tu mascota.",
+    "metadata": {
+      "canonicalUrl": "https://origens.com.pe/blog/cuidados-bulldog-ingles-salud-nutricion/",
+      "title": "Bulldog Inglés: Guía de Cuidados, Salud y Nutrición",
+      "description": "Todo sobre el Bulldog Inglés: desde el manejo del síndrome braquicefálico y limpieza de arrugas hasta la dieta ideal para evitar la obesidad.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Bulldog Inglés: Guía de Cuidados, Salud y Nutrición"
+        },
+        {
+          "property": "og:description",
+          "content": "Todo sobre el Bulldog Inglés: desde el manejo del síndrome braquicefálico y limpieza de arrugas hasta la dieta ideal para evitar la obesidad."
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/blog/cuidados-bulldog-ingles-salud-nutricion/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        },
+        {
+          "property": "article:section",
+          "content": "Artículos"
+        },
+        {
+          "property": "og:image",
+          "content": "https://origens.com.pe/wp-content/uploads/2026/03/funny-brown-english-bulldog-standing-park-1024x680.jpg"
+        },
+        {
+          "property": "og:image:secure_url",
+          "content": "https://origens.com.pe/wp-content/uploads/2026/03/funny-brown-english-bulldog-standing-park-1024x680.jpg"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1024"
+        },
+        {
+          "property": "og:image:height",
+          "content": "680"
+        },
+        {
+          "property": "og:image:alt",
+          "content": "bull dog ingles"
+        },
+        {
+          "property": "og:image:type",
+          "content": "image/jpeg"
+        },
+        {
+          "property": "article:published_time",
+          "content": "2026-03-24T17:06:50-05:00"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens",
+              "url": "https://origens.com.pe"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "ImageObject",
+              "@id": "https://origens.com.pe/wp-content/uploads/2026/03/funny-brown-english-bulldog-standing-park-scaled.jpg",
+              "url": "https://origens.com.pe/wp-content/uploads/2026/03/funny-brown-english-bulldog-standing-park-scaled.jpg",
+              "width": "2560",
+              "height": "1700",
+              "caption": "bull dog ingles",
+              "inLanguage": "es"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://origens.com.pe/blog/cuidados-bulldog-ingles-salud-nutricion/#webpage",
+              "url": "https://origens.com.pe/blog/cuidados-bulldog-ingles-salud-nutricion/",
+              "name": "Bulldog Inglés: Guía de Cuidados, Salud y Nutrición",
+              "datePublished": "2026-03-24T17:06:50-05:00",
+              "dateModified": "2026-03-24T17:06:50-05:00",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://origens.com.pe/wp-content/uploads/2026/03/funny-brown-english-bulldog-standing-park-scaled.jpg"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "Person",
+              "@id": "https://origens.com.pe/author/enovateam/",
+              "name": "enovateam",
+              "url": "https://origens.com.pe/author/enovateam/",
+              "image": {
+                "@type": "ImageObject",
+                "@id": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "url": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "caption": "enovateam",
+                "inLanguage": "es"
+              },
+              "sameAs": [
+                "https://origens.com.pe"
+              ],
+              "worksFor": {
+                "@id": "https://origens.com.pe/#organization"
+              }
+            },
+            {
+              "@type": "BlogPosting",
+              "headline": "Bulldog Inglés: Guía de Cuidados, Salud y Nutrición",
+              "keywords": "bulldog ingles",
+              "datePublished": "2026-03-24T17:06:50-05:00",
+              "dateModified": "2026-03-24T17:06:50-05:00",
+              "articleSection": "Artículos, Perros, Razas de perros",
+              "author": {
+                "@id": "https://origens.com.pe/author/enovateam/",
+                "name": "enovateam"
+              },
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "description": "Todo sobre el Bulldog Inglés: desde el manejo del síndrome braquicefálico y limpieza de arrugas hasta la dieta ideal para evitar la obesidad.",
+              "name": "Bulldog Inglés: Guía de Cuidados, Salud y Nutrición",
+              "@id": "https://origens.com.pe/blog/cuidados-bulldog-ingles-salud-nutricion/#richSnippet",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/blog/cuidados-bulldog-ingles-salud-nutricion/#webpage"
+              },
+              "image": {
+                "@id": "https://origens.com.pe/wp-content/uploads/2026/03/funny-brown-english-bulldog-standing-park-scaled.jpg"
+              },
+              "inLanguage": "es",
+              "mainEntityOfPage": {
+                "@id": "https://origens.com.pe/blog/cuidados-bulldog-ingles-salud-nutricion/#webpage"
+              }
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 23:20:16 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e21a52d4d954fad-MIA",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "br",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/posts/7029>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://origens.com.pe/?p=7029>; rel=shortlink",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-kinsta-cache": "HIT",
+        "x-pingback": "https://origens.com.pe/xmlrpc.php",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=8thTjN1PGZUbHIfu97fP1REiFq2oLUkAYiSEPQkrJcMvM8Rn2BIGgob7pbdi%2FwBIbys%2F7puhk%2FhNWkdb2XcWg5wgK0qrW3Gu6mwLndm1%2Bxpfb6xUa4SaM3UV0yYUBDEQ\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://origens.com.pe/c/perros/salud-e-higiene-perros/",
+    "cleaned_text": "# Higiene del perros | Origens\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Group-427323903.png)\n\n> En **Origens** potenciamos la **salud e higiene de perros en Perú** con soluciones de alta gama. Nuestra selección de antipulgas y productos para el bienestar canino asegura una protección integral, ofreciendo el mejor cuidado preventivo y salud dermatológica para mantener a tu mascota siempre protegida.\n\n## **Higiene del perro con productos efectivos y seguros**\n\nEn Origens ofrecemos todo lo necesario para cuidar integralmente la **higiene del perro**, con productos especializados como [antipulgas para perros](https://origens.com.pe/c/perros/salud-e-higiene-perros/antipulgas-perros/) y [nutrientes para perros](https://origens.com.pe/c/perros/salud-e-higiene-perros/nutraceuticos-perros/). Trabajamos exclusivamente con marcas líderes como **Frontline** y **Puppybost**, brindando protección diaria y eficaz para mantener la higiene de tu perro en perfecto estado.\n\n## **Antipulgas para perros: protección efectiva en múltiples formatos**\n\nProtege la higiene de tu perro con formatos efectivos y prácticos de antipulgas:\n\n*   [Pipeta antipulgas para perros](https://origens.com.pe/c/perros/salud-e-higiene-perros/antipulgas-perros/pipeta-antipulgas-para-perros/): sencilla y eficaz aplicación.\n*   [Spray antipulgas para perros](https://origens.com.pe/c/perros/salud-e-higiene-perros/antipulgas-perros/spray-antipulgas-para-perros/): protección rápida e integral.\n\nGarantiza una vida libre de pulgas y garrapatas con estas soluciones prácticas y seguras.\n\n## **Nutrientes para perros que fortalecen su bienestar**\n\nLos nutracéuticos de Puppybost refuerzan la salud general de tu mascota, mejoran la digestión y fortalecen defensas, ayudando así a mantener una óptima higiene interna de tu perro. Combinados con la alimentación adecuada, estos suplementos aseguran su vitalidad diaria.\n\n## **Complementa la higiene con nuestra comida para perros**\n\nAdemás del cuidado en la higiene externa, ofrecemos una amplia variedad de [comida para perros](https://origens.com.pe/c/perros/alimentos-perros/) que ayuda a mantener saludable a tu mascota desde el interior. Una dieta balanceada es esencial para complementar la higiene de tu perro, garantizando bienestar integral.\n\n## **Higiene completa con beneficios exclusivos online**\n\nCompra online los mejores productos para la **higiene del perro**, con envío gratis desde S/150 y un 15% de descuento en tu primera compra. Garantiza salud y comodidad para tu mascota con la facilidad de recibir todo directamente en casa.\n\n## Todo lo que debes saber sobre las mascotas\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\n*   Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n*   It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\nAll the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\n*   Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n*   It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Pedazo-de-pina.png)\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Group-427323957.png)\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Group-427323953.png)\n\n#### ÚNETE A LA FAMILIA ORIGENS\n\n¡Gracias por visitarnos! Si deseas estar al tanto de nuestras novedades y promociones exclusivas, suscríbete a nuestro boletín.\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/9006d4bfc7c57bf35385e03c35984113-1-PhotoRoom-1.png)",
+    "metadata": {
+      "canonicalUrl": "https://origens.com.pe/c/perros/salud-e-higiene-perros/",
+      "title": "Higiene del perros | Origens",
+      "description": "Productos de higiene de perros en Origens para mantener a tu mascota limpia y saludable. Descubre nuestra selección y compra ahora.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Higiene del perros | Origens"
+        },
+        {
+          "property": "og:description",
+          "content": "Productos de higiene de perros en Origens para mantener a tu mascota limpia y saludable. Descubre nuestra selección y compra ahora."
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/c/perros/salud-e-higiene-perros/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "CollectionPage",
+              "@id": "https://origens.com.pe/c/perros/salud-e-higiene-perros/#webpage",
+              "url": "https://origens.com.pe/c/perros/salud-e-higiene-perros/",
+              "name": "Higiene del perros | Origens",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 23:20:16 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e21a5313f704fad-MIA",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "br",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/product_cat/269>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-kinsta-cache": "HIT",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=mBec%2BDyFOjFvfDoMLZAcCrLPd6gLZ8deD23GeCQKPPe3fFPIgHIg0IICJAiQSA1RXkfHOGU%2BZLpeukIr6scszofKQUdNLpGzTFaaBppgXXG4%2BSIGVEOJ6YonPwZVp2u1\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://origens.com.pe/c/gatos/salud-e-higiene/",
+    "cleaned_text": "# Higiene para gatos | Origens\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Group-427323903.png)\n\n> En **Origens** potenciamos la **salud e higiene de gatos en Perú** con soluciones de alta gama. Nuestra selección de **arena para gatos** y antipulgas asegura una protección integral, ofreciendo el mejor cuidado preventivo y bienestar diario para mantener a tu mascota siempre sana y protegida.\n\n## **Higiene para gatos con productos seguros y premium**\n\nEn Origens encuentras todo en **higiene para gatos**, con productos especializados como [arena para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/arena-sanitaria/), [antipulgas para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/antipulgas/) y [nutrientes para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/nutraceuticos/). Ofrecemos calidad garantizada con marcas líderes como **Frontline** y **Puppybost**, asegurando un cuidado integral y seguro para tu mascota.\n\n## **Arena para gatos con opciones adaptadas a tu mascota**\n\nDisponemos de diferentes variedades de arena para gatos, que facilitan la limpieza diaria y brindan máxima comodidad a tu felino:\n\n*   [Arena con aroma para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/arena-sanitaria/arena-con-aroma-para-gatos/): control superior de olores. \n*   [Arena sin aroma para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/arena-sanitaria/arena-sin-aroma-para-gatos/): perfecta para gatos sensibles. \n*   [Arena biodegradable para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/arena-sanitaria/arena-biodegradable-para-gatos/): ecológica y segura. \n\n## **Antipulgas para gatos con protección efectiva**\n\nCuida a tu mascota con productos prácticos y altamente efectivos para protegerla de pulgas y otros parásitos externos:\n\n*   [Pipetas antipulgas para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/antipulgas/pipeta-antipulgas/): fácil aplicación y rápida acción. \n*   [Sprays antipulgas para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/antipulgas/spray-antipulgas/): protección inmediata y segura. \n\nConfía en la calidad Frontline para un cuidado integral y duradero.\n\n## **Nutrientes para gatos que refuerzan su bienestar**\n\nNuestros nutracéuticos Puppybost están especialmente formulados para aportar nutrientes esenciales, reforzar defensas, mejorar la digestión y mantener a tu gato saludable y activo por más tiempo. Son ideales para asegurar el bienestar integral de tu felino día a día.\n\n## **Compra online y recibe rápidamente en casa**\n\nEn Origens puedes comprar online con total confianza los mejores productos premium para la **higiene de gatos**. Realiza tu pedido cómodamente y recíbelo con entregas rápidas en todo el Perú. Simplifica el cuidado diario de tu mascota con nuestra propuesta integral pensada exclusivamente para ellos.\n\n## Todo lo que debes saber sobre las mascotas\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\n*   Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n*   It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\nAll the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\n*   Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n*   It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Pedazo-de-pina.png)\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Group-427323957.png)\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Group-427323953.png)\n\n#### ÚNETE A LA FAMILIA ORIGENS\n\n¡Gracias por visitarnos! Si deseas estar al tanto de nuestras novedades y promociones exclusivas, suscríbete a nuestro boletín.\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/9006d4bfc7c57bf35385e03c35984113-1-PhotoRoom-1.png)",
+    "metadata": {
+      "canonicalUrl": "https://origens.com.pe/c/gatos/salud-e-higiene/",
+      "title": "Higiene para gatos | Origens",
+      "description": "Descubre productos de higiene para gatos en Origens. Mantén a tu felino limpio y feliz con nuestra selección. ¡Compra ahora y cuida de tu gato!",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Higiene para gatos | Origens"
+        },
+        {
+          "property": "og:description",
+          "content": "Descubre productos de higiene para gatos en Origens. Mantén a tu felino limpio y feliz con nuestra selección. ¡Compra ahora y cuida de tu gato!"
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/c/gatos/salud-e-higiene/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "CollectionPage",
+              "@id": "https://origens.com.pe/c/gatos/salud-e-higiene/#webpage",
+              "url": "https://origens.com.pe/c/gatos/salud-e-higiene/",
+              "name": "Higiene para gatos | Origens",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 23:20:20 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e21a5456f334fad-MIA",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "br",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/product_cat/268>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-kinsta-cache": "HIT",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=sZ0GUjiQGcMQ0wKvQDeee9rVo3RJtHYA2W3y%2B36%2BVpln7xoTlpyQPxBTDOXSFwX87eiA4vVb09aElyQKCl9x6cbN3hWa%2FuHPqrA47wKY1Bzgfpyd1XxPPYrZJUfykcLK\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://origens.com.pe/tienda",
+    "cleaned_text": "# La mejor nutrición para tus peludos en cada bocado\n\n## Todo lo que debes saber sobre las mascotas\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\n*   Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n*   It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\nAll the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\n*   Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n*   It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "metadata": {
+      "canonicalUrl": "https://origens.com.pe/tienda/",
+      "title": "La mejor nutrición para tus peludos en cada bocado - Origens",
+      "description": "Delicioso, nutritivo y repleto de ingredientes de la más alta calidad. Desde el frigorífico hasta el bol, esto es lo más fresco posible.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "La mejor nutrición para tus peludos en cada bocado - Origens"
+        },
+        {
+          "property": "og:description",
+          "content": "Delicioso, nutritivo y repleto de ingredientes de la más alta calidad. Desde el frigorífico hasta el bol, esto es lo más fresco posible."
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/tienda/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens",
+              "url": "https://origens.com.pe"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "CollectionPage",
+              "@id": "https://origens.com.pe/tienda/#webpage",
+              "url": "https://origens.com.pe/tienda/",
+              "name": "La mejor nutrición para tus peludos en cada bocado - Origens",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 23:21:59 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e21a7ad3cea9ad2-MIA",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "br",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\"",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-kinsta-cache": "EXPIRED",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=btbvXe04HpJZslCV09NRurJjWeAHBa0qGEZ37ydH3xjZ4qUsSHyKA03x%2BFZBHHEvxqv7Q9fcR0lw%2FuW3YLwesklwduDtdQy8F2dh7pq0ZcthknxnEpf1SZy2PSQ5zc5R\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://origens.com.pe/c/gatos/alimentos/gatitos/",
+    "cleaned_text": "# Alimento para Gatitos: Crecimiento Sano y Fuerte\n\n## **Comida para gatos bebés desde el primer mes de vida**\n\nEn Origens, ofrecemos **comida para gatos bebés** especialmente formulada para sus primeras etapas. Desde el primer mes, los gatitos necesitan una nutrición específica que fortalezca su sistema inmune, huesos, digestión y desarrollo cognitivo. Nuestros alimentos están diseñados por veterinarios para cubrir esas necesidades desde el inicio.\n\n## **Comida húmeda y sólida según su etapa**\n\nDurante los primeros meses, los gatitos necesitan una dieta suave, rica en proteínas y fácil de digerir. En **Orígens** nos especializamos en [**comida húmeda para gatos bebés**](https://origens.com.pe/c/gatos/alimentos/alimento-humedo/) con textura suave, perfecta para la transición del destete. Formuladas con atún y frutas, nuestras recetas ofrecen nutrición completa en cada lata. Compra en línea **paté para gatos bebés** y recíbelo en casa en presentaciones listas para servir.\n\n## **Para gatitos recién nacidos y bebés de 1 mes**\n\nContamos con alimentos recomendados para **gatos bebés recién nacidos** o de tan solo 1 mes. Nuestras fórmulas no contienen subproductos, colorantes ni conservantes artificiales, y están enriquecidas con DHA, taurina, y proteínas de alta calidad para apoyar un crecimiento saludable.\n\n## **Compra comida para gatos bebés online con envío gratis**\n\nHaz tu compra desde casa y recibe packs especialmente pensados para gatitos. Obtén **15% de descuento en tu primera compra** y **envío gratis desde S/150**. Productos seguros, sabrosos y listos para acompañarlos en sus primeras etapas de vida\n\n## **Complementa su cuidado desde pequeños con Origens**\n\nAdemás de su alimentación, puedes explorar productos de [**salud e higiene para gatos**](https://origens.com.pe/c/gatos/salud-e-higiene/) para mantener limpio y protegido a tu felino. Encuentra también **arena para gatos**, **pipetas antipulgas** y **nutracéuticos** adecuados para su etapa temprana. Si ya tienes un gato adulto o mayor, también puedes explorar nuestras opciones de **[comida para gatos adultos](https://origens.com.pe/c/gatos/alimentos/adultos/)** y **[comida para gatos viejos](https://origens.com.pe/c/gatos/alimentos/senior/)****,** pensadas para cada etapa de vida.\n\n## **Origens no solo es para gatos**\n\nTambién contamos con una **línea especializada para tus caninos**. Si tienes perros en casa, visita nuestra [**tienda para mascotas**](https://origens.com.pe/c/perros/) y descubre **alimentos**, **antipulgas** y productos de higiene pensados para ellos. ¡Compra ahora y cuídalos como se merecen!\n\n## Preguntas frecuentes sobre comida para gatos bebés\n\n### [¿Qué tipo de comida para gatos bebés ofrece Origens?](https://origens.com.pe/c/gatos/alimentos/gatitos/#1758927308394-e54cfbda-b704)\n\nEn **Origens**, ofrecemos una variedad de opciones de **comida para gatos bebés** diseñadas para satisfacer sus necesidades nutricionales durante las primeras etapas de vida. Entre nuestros productos, encontrarás:\n\n*   **Comida húmeda para gatos bebés** en latas de 85g.  \n    \n*   **Pate para gatos bebés** con opciones deliciosas como atún, pollo y otras combinaciones saludables.  \n    \n\n### [¿Qué diferencia la comida para gatos bebés Origens de otras marcas?](https://origens.com.pe/c/gatos/alimentos/gatitos/#1759155697902-0d0cdd18-034a)\n\n**Origens** se distingue por usar **ingredientes naturales y frescos**, garantizando una **nutrición completa y equilibrada** para tu gatito. Nuestra **comida para gatos bebés** está formulada específicamente para apoyar su desarrollo, con **proteínas de alta calidad**, **grasas saludables** y **vitaminas esenciales**. Además, no usamos conservantes artificiales ni gluten, lo que hace que nuestros productos sean más saludables para tu gatito.\n\n### [¿Cuándo debo comenzar a darle comida para gatos bebés de Origens?](https://origens.com.pe/c/gatos/alimentos/gatitos/#1759165077388-8183693f-5fac)\n\nPuedes comenzar a ofrecer la **comida para gatos bebés** de **Origens** a partir de las **4 semanas de edad**. Inicialmente, puedes mezclarla con agua tibia para hacerla más fácil de consumir, especialmente si el gatito aún está acostumbrado a la leche materna o a un sustituto de leche para gatitos. A medida que el gatito crezca, puedes reducir gradualmente la cantidad de agua añadida hasta que esté listo para comer la comida sólida de forma regular.\n\n### [¿Es la comida para gatos bebés Origens adecuada para gatitos recién nacidos?](https://origens.com.pe/c/gatos/alimentos/gatitos/#1759165790936-4f3f3fc4-9247)\n\nPara los **gatitos recién nacidos**, la alimentación debe basarse principalmente en leche materna o un sustituto de leche formulado especialmente para ellos. **Origens** ofrece opciones como el **pate para gatos bebés**, que puede introducirse a partir de las **3-4 semanas de edad**. Sin embargo, es recomendable consultar con tu veterinario para determinar el mejor momento para introducir alimentos sólidos o húmedos, según las necesidades específicas de tu gatito.\n\n### [¿Puedo darle solo comida húmeda a mi gato bebé?](https://origens.com.pe/c/gatos/alimentos/gatitos/#1759440411714-5133d414-9545)\n\nSí, **la comida húmeda para gatos bebés** de **Origens** es una excelente opción para gatitos en crecimiento. Es fácil de masticar y digerir, lo que la hace ideal durante la transición de la leche materna a los alimentos sólidos. Sin embargo, muchos veterinarios recomiendan una dieta combinada de **comida húmeda y sólida** para asegurar una nutrición equilibrada y completa para el desarrollo de tu gatito.\n\n## **Compra comida para gatos bebés en Perú**\n\nEn Origens encuentras **comida para gatos bebés** ideal para gatitos de 1 mes o recién nacidos, cuidadosamente formulada para aportar los nutrientes que necesitan en su etapa más delicada. Nuestro **paté para gatos bebés** ofrece una textura suave y digestible que favorece su transición a alimentos sólidos, mientras que su fórmula balanceada asegura un crecimiento saludable.\n\n### **Artículos sobre comida para gatos** **bebés**",
+    "metadata": {
+      "canonicalUrl": "https://origens.com.pe/c/gatos/alimentos/gatitos/",
+      "title": "Alimento para Gatitos: Crecimiento Sano y Fuerte | Origens",
+      "description": "Nutrientes esenciales para los más pequeños. Encuentra la mejor comida para gatitos de las marcas más confiables para un desarrollo físico ideal.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Alimento para Gatitos: Crecimiento Sano y Fuerte | Origens"
+        },
+        {
+          "property": "og:description",
+          "content": "Nutrientes esenciales para los más pequeños. Encuentra la mejor comida para gatitos de las marcas más confiables para un desarrollo físico ideal."
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/c/gatos/alimentos/gatitos/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        },
+        {
+          "property": "og:image",
+          "content": "https://origens.com.pe/wp-content/uploads/2025/12/Mousse-gatos-baby-Atun-manzana-verde.jpg"
+        },
+        {
+          "property": "og:image:secure_url",
+          "content": "https://origens.com.pe/wp-content/uploads/2025/12/Mousse-gatos-baby-Atun-manzana-verde.jpg"
+        },
+        {
+          "property": "og:image:width",
+          "content": "2000"
+        },
+        {
+          "property": "og:image:height",
+          "content": "2000"
+        },
+        {
+          "property": "og:image:type",
+          "content": "image/jpeg"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "CollectionPage",
+              "@id": "https://origens.com.pe/c/gatos/alimentos/gatitos/#webpage",
+              "url": "https://origens.com.pe/c/gatos/alimentos/gatitos/",
+              "name": "Alimento para Gatitos: Crecimiento Sano y Fuerte | Origens",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 23:21:59 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e21a7acbc4c9ad2-MIA",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "br",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/product_cat/258>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-kinsta-cache": "EXPIRED",
+        "set-cookie": "__cf_bm=YBlG1YEOXgNkYoS5omMDtTyjmwRJhz3_VVRoSRXBwLo-1774480919-1.0.1.1-J6heL7XGHRZzrmG666XO.6bVMi4.UV9sltcaStX_hJHu43b.6NOPz7PT20ZVhIi0QsBMZ6BIpesPPJvb5kuij5hex72Rg33MfouVVwP1KM8; path=/; expires=Wed, 25-Mar-26 23:51:59 GMT; domain=.origens.com.pe; HttpOnly; Secure; SameSite=None",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=6Kp8hp3TcyDroeLo68bCKbkKqmh3aBi3u4ZczTu%2B1IEQntvvofKJTt5lEL3g8VvOCP1XcLquS7GJqIIXnCRhbWoMrXBXEUO%2FdTEFvUZHw1nf%2Fw2tQXrQ2u61DFHoO2hE\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://origens.com.pe/c/perros/alimentos-perros/",
+    "cleaned_text": "# Alimento para Perros: Marcas Premium y Precios 2026\n\n> En **Origens**, la mejor **tienda de perros** en **Perú**, te ofrecemos el mejor **alimento para perros** con calidad premium. Somos una de las principales **marcas de comida para perros**, con una selección completa que incluye **comida para perros cachorros**, **adultos**, **senior** y **comida húmeda para perros**. Consulta nuestros **precios** en formatos como la **Mousse (85g)** o los **Trozos (170g y 369g).** Lleva el alimento de perro ideal para tu mascota.\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Group-427323903.png)\n\n## **Compra comida para perros húmeda premium y 100% natural**\n\nEn **Origens** ofrecemos la **mejor comida para perros húmeda**, premium, balanceada y 100% natural. Nuestras recetas, sin gluten ni conservantes, han sido elaboradas por veterinarios especialistas para asegurar una nutrición óptima. Cada **alimento para perros** combina ingredientes de calidad superior como cerdo, cordero, pavo, pollo, res, res y pavo o salmón. Confía en nuestra marca Origens para cuidar integralmente la salud de tu mascota.\n\n## **Alimento para perros según su etapa de vida**\n\nEn nuestra línea de **alimentos premium para perros** contamos con presentaciones específicas según la etapa de vida de tu mascota:\n\n*   [Comida para perros cachorros](https://origens.com.pe/c/perros/alimentos-perros/perros-cachorros/)\n*   [Comida para perros adultos](https://origens.com.pe/c/perros/alimentos-perros/perros-adultos/)\n*   [Comida para perros senior](https://origens.com.pe/c/perros/alimentos-perros/perros-senior/)\n\nCada fórmula está especialmente diseñada para cubrir las necesidades nutricionales específicas según la edad de tu perro, ofreciendo beneficios visibles en su salud, vitalidad y bienestar.\n\n## **Comida para perros en variedad de sabores deliciosos**\n\nNuestra **comida húmeda para perros** viene en prácticos formatos con sabores irresistibles como cerdo, cordero, pavo, pollo, res, res y pavo, y salmón. Todos nuestros productos están hechos con ingredientes naturales de primera calidad y proporcionan una nutrición completa. Además, encuentra opciones específicas como [alimento húmedo para perros](https://origens.com.pe/c/perros/alimentos-perros/alimento-humedo-perros/) en diversas presentaciones y tamaños, incluyendo comida para perros de 25 kg.\n\n## **Beneficios claros en salud, digestión y pelaje**\n\nAl elegir **nuestras marcas de comida para perros**, notarás resultados reales en la salud integral de tu mascota: digestiones saludables, sistema inmune fortalecido y un pelaje brillante. Origens es garantía de alimento para perros premium en Perú, sin colorantes ni ingredientes artificiales.\n\n**Compra ahora la mejor comida para perros en Origens y descubre calidad superior al mejor precio.**\n\n## Preguntas frecuentes sobre comida para perros\n\n### [¿Cuál es la mejor comida para darle a los perros?](https://origens.com.pe/c/perros/alimentos-perros/#1758927308394-e54cfbda-b704)\n\nLa **mejor comida para perros** depende de varios factores, como la edad, el tamaño, la raza y las necesidades de salud específicas de tu mascota. Es importante elegir **comida para perros premium** que sea natural, libre de conservantes y con ingredientes de alta calidad como carne fresca, vegetales y cereales integrales. En **Orígens**, ofrecemos una variedad de opciones adaptadas a las necesidades nutricionales de tu perro.\n\n### [¿Mejor comida para perros en Perú?](https://origens.com.pe/c/perros/alimentos-perros/#1759155697902-0d0cdd18-034a)\n\nEn Perú, la **mejor comida para perros** debe ser aquella que combine ingredientes naturales y de calidad, adaptada a las diferentes etapas de vida de tu perro. Origens ofrece **comida para perros húmeda premium**, sin gluten ni conservantes, elaborada con ingredientes frescos como pollo, cordero, res y pescado. Nuestras opciones están diseñadas para satisfacer las necesidades nutricionales de tu mascota y asegurar su bienestar a largo plazo.\n\n### [¿Qué tipo de comida para perros ofrecemos?](https://origens.com.pe/c/perros/alimentos-perros/#1759165077388-8183693f-5fac)\n\nEn **Orígens**, ofrecemos una variedad de **comida para perros premium**, incluyendo opciones para cachorros, perros adultos y perros senior. Nuestra **comida húmeda para perros** se elabora con ingredientes naturales y frescos, como carne de cerdo, cordero, pollo y salmón. Además, contamos con diferentes presentaciones y tamaños, adaptados a las necesidades específicas de tu perro.\n\n### [¿Cómo puedo saber cuál es la mejor opción para mi perro?](https://origens.com.pe/c/perros/alimentos-perros/#1759165619192-4f352b1c-22fc)\n\nPara elegir la **mejor comida para perros**, debes considerar la etapa de vida de tu mascota, su tamaño, nivel de actividad y cualquier condición de salud especial que pueda tener. Si tienes dudas, te recomendamos consultar a un veterinario para determinar qué tipo de alimento es el más adecuado. En Orígens, te ofrecemos diferentes fórmulas adaptadas a cada etapa: **cachorros**, **adultos** y **senior**, para garantizar que tu perro reciba la nutrición adecuada en todo momento.\n\n### [¿Cuáles son los beneficios de elegir comida para perros Origens?](https://origens.com.pe/c/perros/alimentos-perros/#1759165790936-4f3f3fc4-9247)\n\nAl elegir **comida para perros Origens**, tu mascota disfrutará de una nutrición completa y balanceada. Nuestros productos ayudan a mejorar la digestión, fortalecer el sistema inmunológico y mantener un pelaje brillante y saludable. Además, al estar elaborados con ingredientes naturales y sin conservantes ni gluten, nuestros alimentos ofrecen beneficios visibles en la salud y vitalidad de tu perro.\n\n## **Compra comida para perros premium en Perú para la salud de tu mascota**\n\nEn Origens, ofrecemos **comida para perros** premium, elaborada con ingredientes frescos y naturales. Descubre nuestras opciones de **comida húmeda para perros** en presentaciones de **85 gramos**, **170 gramos** y **369 gramos**, ideales para todas las etapas de vida de tu mascota.\n\n### Artículos sobre comida para perros\n\n## Todo lo que debes saber sobre las mascotas\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\n*   Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n*   It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\nAll the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\n*   Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n*   It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Pedazo-de-pina.png)\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Group-427323957.png)\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Group-427323953.png)\n\n#### ÚNETE A LA FAMILIA ORIGENS\n\n¡Gracias por visitarnos! Si deseas estar al tanto de nuestras novedades y promociones exclusivas, suscríbete a nuestro boletín.\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/9006d4bfc7c57bf35385e03c35984113-1-PhotoRoom-1.png)",
+    "metadata": {
+      "canonicalUrl": "https://origens.com.pe/c/perros/alimentos-perros/",
+      "title": "Alimento para Perros: Marcas Premium y Precios 2026 | Origens",
+      "description": "Encuentra la mejor nutrición para tu perro. Marcas líderes, variedad de sabores y envío a domicilio rápido. ¡Cuida su salud con lo mejor del mercado!",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Alimento para Perros: Marcas Premium y Precios 2026 | Origens"
+        },
+        {
+          "property": "og:description",
+          "content": "Encuentra la mejor nutrición para tu perro. Marcas líderes, variedad de sabores y envío a domicilio rápido. ¡Cuida su salud con lo mejor del mercado!"
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/c/perros/alimentos-perros/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        },
+        {
+          "property": "og:image",
+          "content": "https://origens.com.pe/wp-content/uploads/2024/04/7756167000430-1.png"
+        },
+        {
+          "property": "og:image:secure_url",
+          "content": "https://origens.com.pe/wp-content/uploads/2024/04/7756167000430-1.png"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1000"
+        },
+        {
+          "property": "og:image:height",
+          "content": "1000"
+        },
+        {
+          "property": "og:image:type",
+          "content": "image/png"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Inicio",
+              "item": "https://origens.com.pe/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Perros",
+              "item": "https://origens.com.pe/c/perros/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Comida para perro",
+              "item": "https://origens.com.pe/c/perros/alimentos-perros/"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "CollectionPage",
+              "@id": "https://origens.com.pe/c/perros/alimentos-perros/#webpage",
+              "url": "https://origens.com.pe/c/perros/alimentos-perros/",
+              "name": "Alimento para Perros: Marcas Premium y Precios 2026 | Origens",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 23:22:00 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e21a7afef7f9ad2-MIA",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "br",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/product_cat/207>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-kinsta-cache": "EXPIRED",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=DIGOaC40TXVk%2FBNhiqs%2Bpndd4gIUdXF6IcKIgxtqHBmkbouEnDU8gSzt6sv2pFHAK6AOnDe%2FaDuTjr6mkfrVI%2FJTCD11D7JJozWHPmhNt91hRjJopqQGkvmqPdWNf46m\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://origens.com.pe/c/perros/alimentos-perros/perros-cachorros/",
+    "cleaned_text": "# Comida para Cachorros: El mejor inicio para tu Perro\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Group-427323903.png)\n\nLa comida para cachorros de Origens está formulada para promover un crecimiento saludable y un sistema inmunológico fuerte.\n\nOfrecemos alimentos ricos en proteínas y nutrientes esenciales para su desarrollo.\n\n## **Comida para cachorros: nutrición húmeda especial para su crecimiento**\n\nEn Origens ofrecemos **comida para cachorros** diseñada especialmente para asegurar un desarrollo saludable desde sus primeros meses. Elaborada por veterinarios con ingredientes premium, esta dieta húmeda posee una textura suave ideal para cachorros, facilitando su digestión y asegurando una óptima absorción de nutrientes esenciales. También puedes complementar su dieta explorando nuestra línea completa de [comida húmeda para perros](https://origens.com.pe/c/perros/alimentos-perros/alimento-humedo-perros/).\n\n## **Alimento de perro cachorro: equilibrio perfecto en nutrición y sabor**\n\nNuestra **comida cachorro** está formulada con ingredientes 100% naturales, incluyendo proteínas frescas de alta calidad, vitaminas, minerales y omega 3. Esta combinación fortalece el sistema inmune, promueve huesos fuertes y favorece un pelaje brillante, brindando vitalidad y energía desde el primer día. Cuando tu mascota crezca, continúa su cuidado con nuestra [comida para perro adulto](https://origens.com.pe/c/perros/alimentos-perros/perros-adultos/) o [comida especial para perros senior](https://origens.com.pe/c/perros/alimentos-perros/perros-senior/).\n\n## **Compra fácilmente comida húmeda para cachorro con Origens**\n\nEn Origens tienes acceso rápido y fácil a la mejor **comida para cachorro** con envíos a todo el Perú. Cada presentación está pensada para simplificar su alimentación diaria, garantizando nutrición premium adaptada específicamente a sus primeras etapas. Complementa su cuidado con nuestra gama especializada en [salud e higiene](https://origens.com.pe/c/perros/salud-e-higiene-perros/), incluyendo productos efectivos como [antipulgas](https://origens.com.pe/c/perros/salud-e-higiene-perros/antipulgas-perros/) y [nutracéuticos](https://origens.com.pe/c/perros/salud-e-higiene-perros/nutraceuticos-perros/).\n\n## **¿También tienes gatos en casa? Descubre más en Origens**\n\nSi además de tu cachorro compartes tu hogar con felinos, en Origens contamos con una sección exclusiva dedicada a [gatos](https://origens.com.pe/c/gatos/). Descubre productos especialmente creados para cuidar integralmente a tus mascotas con el mismo compromiso de calidad y bienestar que ofrecemos para tu cachorro.\n\n## Preguntas frecuentes sobre comida para cachorros\n\n### [¿Por qué mi cachorro necesita un alimento específico?](https://origens.com.pe/c/perros/alimentos-perros/perros-cachorros/#1758927308394-e54cfbda-b704)\n\nLos **cachorros** tienen necesidades nutricionales únicas porque están en pleno crecimiento. Nuestra **comida para cachorros Origens** aporta la cantidad adecuada de proteínas, grasas, vitaminas y minerales como calcio y fósforo para el desarrollo de **huesos, músculos y cerebro**. Al elegir Origens, le das a tu cachorro una nutrición premium para su salud y bienestar.\n\n### [¿Cuándo debo empezar a darle alimento sólido a mi cachorro?](https://origens.com.pe/c/perros/alimentos-perros/perros-cachorros/#1759155697902-0d0cdd18-034a)\n\nLa transición de la leche materna a **alimento sólido** empieza entre las **3 y 4 semanas**. Nuestra **comida húmeda para cachorros** facilita el destete: comienza mezclando con agua tibia para hacer una papilla y reduce el líquido gradualmente hasta que se acostumbre a la textura sólida.\n\n### [¿Cuántas veces al día debo alimentar a mi cachorro?](https://origens.com.pe/c/perros/alimentos-perros/perros-cachorros/#1759165077388-8183693f-5fac)\n\n*   Hasta los **3–4 meses**: 4 comidas diarias.\n*   Entre **4 y 6 meses**: 3 comidas diarias.\n*   A partir de los **6 meses**: 2 comidas diarias.\n\nNuestra **comida para cachorros Origens** aporta todos los nutrientes en cada etapa. Sigue las **porciones recomendadas** del envase para un crecimiento saludable.\n\n### [¿Es mejor el alimento seco o húmedo para cachorros?](https://origens.com.pe/c/perros/alimentos-perros/perros-cachorros/#1759165619192-4f352b1c-22fc)\n\nAmbos aportan beneficios. La **comida húmeda** es más apetitosa y **facilita el destete**; el **alimento seco** ayuda a la masticación y a una transición progresiva. Puedes combinarlos para ofrecer variedad y una dieta equilibrada.\n\n### [¿Qué hace diferente a la comida para cachorros Origens?](https://origens.com.pe/c/perros/alimentos-perros/perros-cachorros/#1759165790936-4f3f3fc4-9247)\n\nUsamos **ingredientes naturales de alta calidad**: proteínas como pollo y cordero y **grasas saludables de aceite de pescado**. Nuestras recetas están **libres de conservantes, colorantes y gluten**. Disponibles en **85 g, 170 g y 369 g** para adaptarse a su etapa de crecimiento.\n\n## **Compra comida para cachorros en Perú para un desarrollo saludable**\n\nEn Origens, ofrecemos **comida para cachorros** elaborada con ingredientes 100% naturales y de alta calidad. Nuestra **comida húmeda para cachorros** está formulada para apoyar el crecimiento y desarrollo de tu mascota, brindándole la energía y nutrientes esenciales desde sus primeros meses. Disponemos de presentaciones en **85 gramos**, **170 gramos** y **369 gramos**, adaptadas a las necesidades de tu cachorro. Confía en Origens para darle a tu cachorro una alimentación premium y saludable.\n\n### Artículos sobre cachorros\n\n## Todo lo que debes saber sobre las mascotas\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\n*   Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n*   It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\nAll the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\n*   Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n*   It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Pedazo-de-pina.png)\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Group-427323957.png)\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Group-427323953.png)\n\n#### ÚNETE A LA FAMILIA ORIGENS\n\n¡Gracias por visitarnos! Si deseas estar al tanto de nuestras novedades y promociones exclusivas, suscríbete a nuestro boletín.\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/9006d4bfc7c57bf35385e03c35984113-1-PhotoRoom-1.png)",
+    "metadata": {
+      "canonicalUrl": "https://origens.com.pe/c/perros/alimentos-perros/perros-cachorros/",
+      "title": "Comida para Cachorros: El mejor inicio para tu Perro | Origens",
+      "description": "Asegura un crecimiento óptimo con alimentos ricos en DHA y proteínas de alta calidad. Selección premium para cachorros de todas las razas y tamaños.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Comida para Cachorros: El mejor inicio para tu Perro | Origens"
+        },
+        {
+          "property": "og:description",
+          "content": "Asegura un crecimiento óptimo con alimentos ricos en DHA y proteínas de alta calidad. Selección premium para cachorros de todas las razas y tamaños."
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/c/perros/alimentos-perros/perros-cachorros/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        },
+        {
+          "property": "og:image",
+          "content": "https://origens.com.pe/wp-content/uploads/2024/04/7756167000409-1.png"
+        },
+        {
+          "property": "og:image:secure_url",
+          "content": "https://origens.com.pe/wp-content/uploads/2024/04/7756167000409-1.png"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1000"
+        },
+        {
+          "property": "og:image:height",
+          "content": "1000"
+        },
+        {
+          "property": "og:image:type",
+          "content": "image/png"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Inicio",
+              "item": "https://origens.com.pe/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Perros",
+              "item": "https://origens.com.pe/c/perros/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Alimentos para perros",
+              "item": "https://origens.com.pe/c/perros/alimentos-perros/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Comida para perros cachorros",
+              "item": "https://origens.com.pe/c/perros/alimentos-perros/perros-cachorros/"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "CollectionPage",
+              "@id": "https://origens.com.pe/c/perros/alimentos-perros/perros-cachorros/#webpage",
+              "url": "https://origens.com.pe/c/perros/alimentos-perros/perros-cachorros/",
+              "name": "Comida para Cachorros: El mejor inicio para tu Perro | Origens",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 23:22:36 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e21a895c9dc64ac-MIA",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "br",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/product_cat/240>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-kinsta-cache": "EXPIRED",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=%2FebEGPmG%2F%2BGR84So2YBSHPsWp%2FTDXc8iWsJeyFaucEWqwVY7er3MWrj1BMxX2q1nlRVojnXfGEOAbpqfPytgomLWzWMyG7YNpW32eKiPEv7wjtVBGiKmulRLEtQx8SAd\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://origens.com.pe/c/perros/alimentos-perros/snacks-para-perros/",
+    "cleaned_text": "# Snacks para perros - Origens\n\n## Todo lo que debes saber sobre las mascotas\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\n*   Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n*   It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\nAll the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\n*   Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n*   It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "metadata": {
+      "canonicalUrl": "https://origens.com.pe/c/perros/alimentos-perros/snacks-para-perros/",
+      "title": "Snacks para perros - Origens",
+      "description": "En Origens seleccionamos los mejores snacks para perros de alta gama en Perú, diseñados para fortalecer el vínculo con tu mascota. Encuentra variedades naturales, galletas crujientes y premios dentales funcionales, asegurando una recompensa saludable, deliciosa y variada con envío rápido a todo el país.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Snacks para perros - Origens"
+        },
+        {
+          "property": "og:description",
+          "content": "En Origens seleccionamos los mejores snacks para perros de alta gama en Perú, diseñados para fortalecer el vínculo con tu mascota. Encuentra variedades naturales, galletas crujientes y premios dentales funcionales, asegurando una recompensa saludable, deliciosa y variada con envío rápido a todo el país."
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/c/perros/alimentos-perros/snacks-para-perros/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "CollectionPage",
+              "@id": "https://origens.com.pe/c/perros/alimentos-perros/snacks-para-perros/#webpage",
+              "url": "https://origens.com.pe/c/perros/alimentos-perros/snacks-para-perros/",
+              "name": "Snacks para perros - Origens",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 23:23:10 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e21a967cbad6aed-BUF",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "br",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/product_cat/302>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-kinsta-cache": "EXPIRED",
+        "set-cookie": "__cf_bm=Y7JE04fYTj.ibvYhgmqQeEj.S5cOZUlxLn.uXQH4p0U-1774480990-1.0.1.1-ETjrtyK6qi.gy5.F6HuQZU8upf0y138mA16RCMM.UFbcr.MRk7EXMRAG5SfRHorAAHSkeRlvGno_y8hZLOrfU.ZazBTtDlNA9ovLAyRXZh8; path=/; expires=Wed, 25-Mar-26 23:53:10 GMT; domain=.origens.com.pe; HttpOnly; Secure; SameSite=None",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=GcrnBiMIBIeIW3Abtzvyt5oehF5S4h0gmpkw3Qahi9dY9VwngP2NS2SO24HtNxnJ9LMjLMyXa0IS3eV125UWAqBI43rCcZO%2FCAJN%2B2FfFDCjsUi0y59Sr0otCxgFdQvc\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://origens.com.pe/c/perros/alimentos-perros/perros-senior/",
+    "cleaned_text": "# Comida para Perros Senior: Calidad de Vida y Salud\n\n## **Comida para perros senior: nutrición húmeda adaptada para perros mayores**\n\nCuando tu perro alcanza la etapa senior, necesita cuidados específicos que protejan su salud. En Origens ofrecemos exclusivamente **comida para perros senior**, con fórmulas fáciles de digerir y altamente nutritivas. Complementa la dieta de tu perro mayor con nuestra [comida húmeda para perros](https://origens.com.pe/c/perros/alimentos-perros/alimento-humedo-perros/), diseñada especialmente para su fácil consumo diario.\n\n## **Alimento para perros viejos con ingredientes premium y beneficios específicos**\n\nEl **alimento para perros viejos** de Origens contiene proteínas suaves de fácil absorción, antioxidantes y nutrientes específicos para reforzar articulaciones, huesos y sistema inmunológico. Además, puedes mejorar aún más su calidad de vida usando nuestros [nutracéuticos](https://origens.com.pe/c/perros/salud-e-higiene-perros/nutraceuticos-perros/), que aportan nutrientes adicionales que tu perro senior necesita.\n\n## **Compra comida húmeda para perros senior fácilmente desde casa**\n\nEn Origens te facilitamos la compra online de **comida para perros senior**, con envíos rápidos y prácticos formatos para todo el Perú. Además, complementa su cuidado diario con nuestras efectivas soluciones [antipulgas para perros](https://origens.com.pe/c/perros/salud-e-higiene-perros/antipulgas-perros/), ideales para protegerlo integralmente.\n\n## **En Origens también pensamos en tus otras mascotas**\n\nSi además de tu perro senior tienes felinos en casa, descubre nuestra línea especializada en productos para [gatos](https://origens.com.pe/c/gatos/). Asimismo, ofrecemos opciones específicas según edad, como nuestra [comida para cachorros](https://origens.com.pe/c/perros/alimentos-perros/perros-cachorros/) y [comida para perro adulto](https://origens.com.pe/c/perros/alimentos-perros/perros-adultos/), para cubrir las necesidades nutricionales en cada etapa de vida de tus mascotas.\n\n## Preguntas frecuentes sobre comida para perros senior\n\n### [¿Qué alimento es mejor para un perro senior?](https://origens.com.pe/c/perros/alimentos-perros/perros-senior/#1758927308394-e54cfbda-b704)\n\nEl **mejor alimento para un perro senior** debe adaptarse a las necesidades específicas de los perros de edad avanzada. En **Origens**, nuestra **comida para perros senior** está formulada con **proteínas de alta calidad**, **glucosamina**, **condroitina** y **antioxidantes** para mantener la masa muscular, apoyar las articulaciones y fortalecer el sistema inmunológico. Además, nuestra comida está enriquecida con **fibra** para mejorar la digestión de tu perro senior.\n\n### [¿Cuándo debo cambiar la comida de mi perro a una fórmula para senior?](https://origens.com.pe/c/perros/alimentos-perros/perros-senior/#1759155697902-0d0cdd18-034a)\n\nGeneralmente, un perro se considera senior alrededor de los **7 años**, aunque los perros de razas grandes pueden necesitar una dieta **senior** a partir de los **5-6 años**. Si notas signos de envejecimiento, como pérdida de energía, cambios en el apetito o dificultad para moverse, es el momento de considerar una **comida para perros senior**. En **Origens**, ofrecemos **comida húmeda para perros senior**, adaptada a sus necesidades específicas.\n\n### [¿Qué ingredientes clave debe tener una buena comida para perros viejos?](https://origens.com.pe/c/perros/alimentos-perros/perros-senior/#1759165077388-8183693f-5fac)\n\nUna buena **comida para perros viejos** debe contener:\n\n*   **Proteínas de alta calidad** para mantener la masa muscular.  \n    \n*   **Glucosamina y condroitina** para apoyar la salud de las articulaciones.  \n    \n*   **Ácidos grasos Omega-3** para reducir la inflamación.  \n    \n*   **Antioxidantes** para fortalecer el sistema inmunológico.  \n    \n*   **Fibra** para una digestión saludable.\n\nEn **Origens**, cada fórmula de **comida húmeda para perros senior** está cuidadosamente diseñada con estos ingredientes para asegurar que tu perro mayor reciba la mejor nutrición posible.\n\n### [¿Cuánta comida debo darle a mi perro senior?](https://origens.com.pe/c/perros/alimentos-perros/perros-senior/#1759165790936-4f3f3fc4-9247)\n\nLa cantidad de **comida para perros senior** depende de su peso, raza, nivel de actividad y condición corporal. En **Origens**, te recomendamos seguir las instrucciones de porciones que se encuentran en el empaque de nuestros productos. Siempre puedes ajustar la cantidad según el estado de salud y las necesidades específicas de tu perro senior.\n\n### [¿Qué diferencia a la comida para perros senior de Origens de las demás?](https://origens.com.pe/c/perros/alimentos-perros/perros-senior/#1759440411714-5133d414-9545)\n\nLa **comida para perros senior de Origens** está formulada con ingredientes naturales de alta calidad, específicamente diseñados para los perros de edad avanzada. Nuestros productos incluyen **proteínas frescas**, **glucosamina**, **condroitina** y **antioxidantes**, lo que los hace perfectos para mantener la salud de las articulaciones, mejorar la digestión y fortalecer el sistema inmunológico de tu perro. Además, nuestra **comida húmeda** es fácil de masticar y digerir, ideal para perros senior con dientes sensibles.\n\n## **Compra comida para perros senior en Perú**\n\nEn Origens, puedes **comprar comida para perros senior en Perú** especialmente formulada para cuidar a tu mascota en su etapa de adultez mayor. Con una receta húmeda fácil de digerir y rica en nutrientes, ayuda a mantener la energía, proteger las articulaciones y fortalecer el sistema inmunológico. Disponible en prácticas presentaciones de 85 g, es la opción ideal para brindar sabor, salud y bienestar a tu perro senior.\n\n### **Artículos sobre comida para perros senior**",
+    "metadata": {
+      "canonicalUrl": "https://origens.com.pe/c/perros/alimentos-perros/perros-senior/",
+      "title": "Comida para Perros Senior: Calidad de Vida y Salud | Origens",
+      "description": "Protege a tu perro anciano con comida baja en calorías y rica en antioxidantes. Las mejores marcas para una vejez activa y muy saludable.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Comida para Perros Senior: Calidad de Vida y Salud | Origens"
+        },
+        {
+          "property": "og:description",
+          "content": "Protege a tu perro anciano con comida baja en calorías y rica en antioxidantes. Las mejores marcas para una vejez activa y muy saludable."
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/c/perros/alimentos-perros/perros-senior/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        },
+        {
+          "property": "og:image",
+          "content": "https://origens.com.pe/wp-content/uploads/2024/04/7756167000515-1.png"
+        },
+        {
+          "property": "og:image:secure_url",
+          "content": "https://origens.com.pe/wp-content/uploads/2024/04/7756167000515-1.png"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1000"
+        },
+        {
+          "property": "og:image:height",
+          "content": "1000"
+        },
+        {
+          "property": "og:image:type",
+          "content": "image/png"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Inicio",
+              "item": "https://origens.com.pe/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Perros",
+              "item": "https://origens.com.pe/c/perros/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Alimentos para perros",
+              "item": "https://origens.com.pe/c/perros/alimentos-perros/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Comida para perros senior",
+              "item": "https://origens.com.pe/c/perros/alimentos-perros/perros-senior/"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "CollectionPage",
+              "@id": "https://origens.com.pe/c/perros/alimentos-perros/perros-senior/#webpage",
+              "url": "https://origens.com.pe/c/perros/alimentos-perros/perros-senior/",
+              "name": "Comida para Perros Senior: Calidad de Vida y Salud | Origens",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 23:22:37 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e21a89a189c64ac-MIA",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "br",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/product_cat/242>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-kinsta-cache": "EXPIRED",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=fBytczMGqqr9uP3xGuQ1buhlfLjo22ZkMIg2G2qCelFuf%2BzYcdKyNoVNkrI5dM%2B%2FEZ2cGt2XTqM709KTAk4kWLOPEj4g72maPM%2BqeHErOYBDLEr5Ncz9Jpzj%2FkRuLr93\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://origens.com.pe/c/perros/alimentos-perros/snacks-para-perros/galletas",
+    "cleaned_text": "# Galletas para perros - Origens\n\n## Todo lo que debes saber sobre las mascotas\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\n*   Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n*   It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\nAll the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\n*   Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n*   It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "metadata": {
+      "canonicalUrl": "https://origens.com.pe/c/perros/alimentos-perros/snacks-para-perros/galletas/",
+      "title": "Galletas para perros - Origens",
+      "description": "En Origens contamos con las mejores galletas para perros en Perú, destacando nuestra línea Crazy Coins de cordero, salmón y pato. Estos snacks de alta gama son ideales para entrenar o premiar, ofreciendo texturas crujientes y proteínas de calidad superior que garantizan una recompensa saludable y deliciosa para tu mascota.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Galletas para perros - Origens"
+        },
+        {
+          "property": "og:description",
+          "content": "En Origens contamos con las mejores galletas para perros en Perú, destacando nuestra línea Crazy Coins de cordero, salmón y pato. Estos snacks de alta gama son ideales para entrenar o premiar, ofreciendo texturas crujientes y proteínas de calidad superior que garantizan una recompensa saludable y deliciosa para tu mascota."
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/c/perros/alimentos-perros/snacks-para-perros/galletas/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "CollectionPage",
+              "@id": "https://origens.com.pe/c/perros/alimentos-perros/snacks-para-perros/galletas/#webpage",
+              "url": "https://origens.com.pe/c/perros/alimentos-perros/snacks-para-perros/galletas/",
+              "name": "Galletas para perros - Origens",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 23:23:24 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e21a9c2dcf46aed-BUF",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "br",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/product_cat/304>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-kinsta-cache": "EXPIRED",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=hJY42ktCZ%2F7oTP6SSRHm4This7X%2FpDkVQIZV8NXsz5jXvZsQ09IrPHzpuNQh9V44SPoU9nSCm%2BX6nbd5ytkQaXzH8sjwT6orFAv%2FI9mt0BVI6d3WjFeKxeHnxewbjLvB\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://origens.com.pe/c/perros/alimentos-perros/perros-adultos/",
+    "cleaned_text": "# Energía y Salud Total |Origens\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Group-427323903.png)\n\nEn Origens, nuestra comida para perros adultos está diseñada para mantener la vitalidad, el pelaje y la salud general de tu perro.\n\nOfrecemos alimentos equilibrados para perros activos y con necesidades específicas.\n\n## **Comida para perro adulto: nutrición húmeda y balanceada**\n\n**¿Tu perro ya alcanzó su edad adulta?** Entonces necesita una alimentación especializada que cuide su salud integral. En Origens ofrecemos exclusivamente **comida para perro adulto**, con fórmulas completas, sabrosas y altamente digeribles. Es ideal para perros adultos con paladar exigente o sensibilidad digestiva. Su textura suave facilita la alimentación diaria y promueve una digestión saludable. Complementa sus cuidados explorando otras opciones como [comida para perros cachorros](https://origens.com.pe/c/perros/alimentos-perros/perros-cachorros/) y [comida para perros senior](https://origens.com.pe/c/perros/alimentos-perros/perros-senior/).\n\n## **Ingredientes premium, fácil digestión y vitalidad asegurada**\n\nNuestra [**comida húmeda para perros**](https://origens.com.pe/c/perros/alimentos-perros/alimento-humedo-perros/) contiene proteínas de alta calidad, antioxidantes y fibra natural para fortalecer sus defensas, mejorar su digestión y mantener un pelaje sano y brillante. Además, incorpora ácidos grasos omega 3 y vitaminas esenciales que ayudan a conservar su energía y vitalidad día tras día. Es nutrición especializada para asegurar el bienestar total de tu mascota adulta.\n\n## **Compra comida húmeda para perro adulto fácilmente online**\n\nEn Origens puedes comprar **comida para perro adulto** en formatos prácticos y económicos, con entrega rápida en todo el Perú. Ideal para perros adultos que necesitan una dieta equilibrada, sabrosa y altamente nutritiva. Si tienes más mascotas en casa, no olvides complementar su alimentación con nuestros productos de [salud e higiene](https://origens.com.pe/c/perros/salud-e-higiene-perros/), como [antipulgas para perros](https://origens.com.pe/c/perros/salud-e-higiene-perros/antipulgas-perros/) y [nutrientes para perros](https://origens.com.pe/c/perros/salud-e-higiene-perros/nutraceuticos-perros/).\n\n## **También cuidamos a tus otros compañeros**\n\nEn **Origens** nos preocupamos por todos los miembros de tu familia. Si compartes tu hogar con felinos, no olvides visitar nuestra sección dedicada a [gatos](https://origens.com.pe/c/gatos/), donde encontrarás productos especialmente diseñados con el mismo compromiso de calidad y nutrición integral que ofrecemos para tu perro adulto. Garantiza la felicidad y salud de todas tus mascotas con Origens.\n\n## Preguntas frecuentes sobre comida para perros adultos\n\n### [¿Qué alimento es mejor para un perro adulto?](https://origens.com.pe/c/perros/alimentos-perros/perros-adultos/#1758927308394-e54cfbda-b704)\n\nEl **mejor alimento para un perro adulto** es aquel que cubre todas sus necesidades nutricionales, adaptado a su tamaño y nivel de actividad. En **Origens**, ofrecemos **comida para perro adulto** con ingredientes naturales de alta calidad, en **comida húmeda (enlatada)**, formuladas para mantener la salud, energía y bienestar de tu mascota.\n\n### [¿Qué tipo de comida para perro adulto ofrece Origens?](https://origens.com.pe/c/perros/alimentos-perros/perros-adultos/#1759155697902-0d0cdd18-034a)\n\nEn **Origens**, ofrecemos varias opciones de **comida para perro adulto** para adaptarnos a las preferencias de tu mascota:\n\n*   **Comida húmeda**: Perfecta para perros que prefieren una textura más suave o tienen dificultades para masticar.  \n    \n*   **Comida fresca**: Opciones naturales y caseras, para quienes prefieren una dieta más personalizada para su perro adulto.  \n    \n\n### [¿Cuánta comida debe comer mi perro al día?](https://origens.com.pe/c/perros/alimentos-perros/perros-adultos/#1759165077388-8183693f-5fac)\n\nLa cantidad de **comida para perro adulto** de **Origens** depende del tamaño, la edad y el nivel de actividad de tu mascota. Puedes seguir las recomendaciones de porciones que aparecen en el envase de nuestros productos, o utilizar nuestra herramienta de calculadora de porciones en la página de cada producto para ajustar la cantidad a las necesidades de tu perro.\n\n### [¿Son seguros los productos de Origens para perros adultos?](https://origens.com.pe/c/perros/alimentos-perros/perros-adultos/#1759165790936-4f3f3fc4-9247)\n\nSí, todos los productos de **Origens** cumplen con los estándares de seguridad y están formulados para proporcionar una nutrición completa y equilibrada. Nos aseguramos de que cada producto de **comida para perro adulto** esté libre de conservantes artificiales, utilizando solo ingredientes naturales para promover la salud a largo plazo de tu perro.\n\n## **Compra comida para perros adultos en Perú**\n\nEn Origens, puedes **comprar comida para perros adultos en Perú** con sabores que les encantarán: desde cordero y pollo hasta res, res y pavo, o salmón. Nuestra **comida para perro adulto** premium combina estos ingredientes frescos con fórmulas balanceadas para ofrecer una nutrición completa, energía saludable y digestión óptima. Disponible en formatos de 85 g, 170 g y 369 g, nuestras opciones se adaptan a las necesidades de tu mascota con sabor y calidad excepcionales.\n\n### **Artículos sobre comida para perros adultos**\n\n## Todo lo que debes saber sobre las mascotas\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\n*   Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n*   It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\nAll the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\n*   Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n*   It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Pedazo-de-pina.png)\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Group-427323957.png)\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Group-427323953.png)\n\n#### ÚNETE A LA FAMILIA ORIGENS\n\n¡Gracias por visitarnos! Si deseas estar al tanto de nuestras novedades y promociones exclusivas, suscríbete a nuestro boletín.\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/9006d4bfc7c57bf35385e03c35984113-1-PhotoRoom-1.png)",
+    "metadata": {
+      "canonicalUrl": "https://origens.com.pe/c/perros/alimentos-perros/perros-adultos/",
+      "title": "Alimento para Perros Adultos: Energía y Salud Total |Origens",
+      "description": "Mantén a tu mejor amigo en su peso ideal con nutrición balanceada. Selección de marcas premium con ingredientes naturales para perros.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Alimento para Perros Adultos: Energía y Salud Total |Origens"
+        },
+        {
+          "property": "og:description",
+          "content": "Mantén a tu mejor amigo en su peso ideal con nutrición balanceada. Selección de marcas premium con ingredientes naturales para perros."
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/c/perros/alimentos-perros/perros-adultos/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        },
+        {
+          "property": "og:image",
+          "content": "https://origens.com.pe/wp-content/uploads/2024/04/7756167000423-1.png"
+        },
+        {
+          "property": "og:image:secure_url",
+          "content": "https://origens.com.pe/wp-content/uploads/2024/04/7756167000423-1.png"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1000"
+        },
+        {
+          "property": "og:image:height",
+          "content": "1000"
+        },
+        {
+          "property": "og:image:type",
+          "content": "image/png"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Inicio",
+              "item": "https://origens.com.pe/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Perros",
+              "item": "https://origens.com.pe/c/perros/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Alimentos para perros",
+              "item": "https://origens.com.pe/c/perros/alimentos-perros/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Comida para perros adultos",
+              "item": "https://origens.com.pe/c/perros/alimentos-perros/perros-adultos/"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "CollectionPage",
+              "@id": "https://origens.com.pe/c/perros/alimentos-perros/perros-adultos/#webpage",
+              "url": "https://origens.com.pe/c/perros/alimentos-perros/perros-adultos/",
+              "name": "Alimento para Perros Adultos: Energía y Salud Total |Origens",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 23:22:38 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e21a8a2f81564ac-MIA",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "br",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/product_cat/241>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-kinsta-cache": "EXPIRED",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=9QCYf8z1zRK2KerUCrjQDpou4DaUdQQDGN2MMH%2F1PEl0KKecVjMqvCpBVjQIiserH1f%2BUKoPnSSmHYeCv7WbhZYKBFhwlt7h8lFvryfoZ62QosIhHpys2G1rQi7v5ocB\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://origens.com.pe/c/perros/alimentos-perros/alimento-humedo-perros/",
+    "cleaned_text": "# Comida Húmeda para Perros: Sabor y Nutrición 2026\n\n## **Comida húmeda para perros con ingredientes naturales y saludables**\n\nLa **comida húmeda para perros** de Origens está elaborada con ingredientes premium, sin conservantes artificiales, gluten ni subproductos. Su textura suave facilita la digestión y es perfecta para perros de todas las razas y tamaños. Es un **alimento de perro** completo y balanceado, formulado por veterinarios para brindar beneficios desde la primera comida.\n\n## **Paté para perros con deliciosas combinaciones de carne fresca**\n\nNuestro **paté de perro** combina proteínas frescas como pollo, res, pavo, cordero, cerdo o salmón, creando sabores irresistibles y nutritivos. Su aroma natural es ideal para perros con paladar exigente. Disponible en packs prácticos, este **paté para perros** es la opción perfecta para una dieta diaria saludable y deliciosa.\n\n## **Comida húmeda especial para perros cachorros, adultos y senior**\n\nEn Origens contamos con recetas específicas según la etapa de tu mascota:\n\n*   [**Comida para perros cachorros**](https://origens.com.pe/c/perros/alimentos-perros/perros-cachorros/), rica en nutrientes para su desarrollo.\n*   [**Alimento para perros adultos**](https://origens.com.pe/c/perros/alimentos-perros/perros-adultos/), equilibrado para mantener vitalidad.\n*   [**Comida para perros senior**](https://origens.com.pe/c/perros/alimentos-perros/perros-senior/), especialmente adaptada para mascotas mayores.\n\nCada presentación garantiza nutrición adecuada según las necesidades de edad.\n\n## **Alimento húmedo para perros con envíos rápidos y seguros**\n\nHaz tu compra online con total confianza en Origens. Nuestra selección de **comida húmeda para perros** tiene precios competitivos y está disponible en prácticos formatos con entregas rápidas en todo el Perú. Descubre la mejor calidad en alimentación para tu perro desde la comodidad de tu hogar.\n\n## **Complementa su dieta con productos para salud e higiene canina**\n\nPara un cuidado integral visita nuestra sección de [salud e higiene para perros](https://origens.com.pe/c/perros/salud-e-higiene-perros/). Encontrarás [antipulgas para perros](https://origens.com.pe/c/perros/salud-e-higiene-perros/antipulgas-perros/) y [nutracéuticos](https://origens.com.pe/c/perros/salud-e-higiene-perros/nutraceuticos-perros/) naturales, ideales para reforzar su bienestar diario.\n\n## **¿También tienes gatos en casa?**\n\nEn Origens **cuidamos a todas tus mascotas**. Visita nuestra tienda dedicada a [gatos](https://origens.com.pe/c/gatos/) y encuentra alimentos, soluciones antipulgas y suplementos nutricionales pensados especialmente para su salud y felicidad.\n\n## Preguntas frecuentes sobre comida húmeda para perros\n\n### [¿Qué tan bueno es darle comida húmeda a un perro?](https://origens.com.pe/c/perros/alimentos-perros/alimento-humedo-perros/#1758927308394-e54cfbda-b704)\n\nLa **comida húmeda para perros Origens** es una excelente opción para tu mascota. Está formulada con ingredientes naturales de alta calidad que proporcionan hidratación adicional, ya que contiene un alto porcentaje de agua. Además, es muy palatable, lo que la hace ideal para perros con apetito reducido o exigentes con su comida. También es más fácil de masticar y digerir, perfecta para perros con problemas dentales o digestivos.\n\n### [¿Qué alimento húmedo es bueno para perros?](https://origens.com.pe/c/perros/alimentos-perros/alimento-humedo-perros/#1759155697902-0d0cdd18-034a)\n\nEn **Origens**, ofrecemos **comida húmeda para perros** elaborada con **ingredientes frescos y naturales**. Nuestras opciones incluyen **paté de perro** y trozos en salsa, diseñados para satisfacer las necesidades nutricionales de tu perro, asegurando que reciba una dieta completa y balanceada. Ya sea que tu perro prefiera **paté para perros** o trozos, tenemos la opción perfecta para él.\n\n### [¿Cuántas veces hay que dar comida húmeda a un perro?](https://origens.com.pe/c/perros/alimentos-perros/alimento-humedo-perros/#1759165077388-8183693f-5fac)\n\nLa cantidad de veces que debes darle **comida húmeda a un perro** depende de su edad, tamaño y nivel de actividad. En **Origens**, generalmente recomendamos:\n\n*   **Cachorros**: 3-4 veces al día.  \n    \n*   **Perros adultos**: 2 veces al día.  \n    \n*   **Perros senior**: 2-3 veces al día, según las necesidades de cada perro.\n\nRevisa las recomendaciones específicas de porciones en el envase de nuestros productos o consulta nuestra página para ajustar la cantidad de acuerdo con las necesidades de tu mascota.\n\n### [¿Es la comida húmeda más saludable para los perros?](https://origens.com.pe/c/perros/alimentos-perros/alimento-humedo-perros/#1759165790936-4f3f3fc4-9247)\n\nLa **comida húmeda para perros Origens** es una opción muy saludable, ya que está hecha con ingredientes naturales y nutritivos. Ofrece beneficios adicionales como mayor hidratación, mejor digestibilidad y mayor palatabilidad. Es ideal para perros con dificultades para masticar o que tienen apetito reducido. Sin embargo, lo más importante es que cada perro tiene necesidades nutricionales específicas, por lo que siempre es recomendable consultar con un veterinario sobre la mejor opción para tu mascota.\n\n### [¿El paté es bueno para los perros?](https://origens.com.pe/c/perros/alimentos-perros/alimento-humedo-perros/#1759440411714-5133d414-9545)\n\nSí, el **paté para perros** es una excelente opción para tu mascota. Es fácil de masticar y digerir, lo que lo convierte en una opción ideal para perros con problemas dentales o para aquellos que prefieren una textura más suave. Nuestros **patés de perro** están elaborados con ingredientes frescos y naturales, garantizando que tu perro reciba una nutrición completa y deliciosa. Además, puedes darle **paté para perros** todos los días como parte de su dieta regular.\n\n## **Compra comida húmeda para perros en Perú**\n\nEn Origens encuentras **comida húmeda para perros** premium, hecha con ingredientes frescos y naturales en sabores irresistibles como pollo, res, pavo, cordero, cerdo y salmón. Nuestro **paté de perro** tiene una textura suave y apetitosa que favorece una digestión fácil y aporta nutrición de calidad. Si buscas un **paté para perros** que combine sabor y salud, esta es la mejor elección.\n\n### **Artículos sobre comida húmeda para perros**",
+    "metadata": {
+      "canonicalUrl": "https://origens.com.pe/c/perros/alimentos-perros/alimento-humedo-perros/",
+      "title": "Comida Húmeda para Perros: Sabor y Nutrición 2026 | Origens",
+      "description": "Mejora la hidratación de tu can con sabores irresistibles. Variedad de latas y sobres con ingredientes naturales para una dieta balanceada.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Comida Húmeda para Perros: Sabor y Nutrición 2026 | Origens"
+        },
+        {
+          "property": "og:description",
+          "content": "Mejora la hidratación de tu can con sabores irresistibles. Variedad de latas y sobres con ingredientes naturales para una dieta balanceada."
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/c/perros/alimentos-perros/alimento-humedo-perros/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        },
+        {
+          "property": "og:image",
+          "content": "https://origens.com.pe/wp-content/uploads/2024/04/7756167000409-2.png"
+        },
+        {
+          "property": "og:image:secure_url",
+          "content": "https://origens.com.pe/wp-content/uploads/2024/04/7756167000409-2.png"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1000"
+        },
+        {
+          "property": "og:image:height",
+          "content": "1000"
+        },
+        {
+          "property": "og:image:type",
+          "content": "image/png"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Inicio",
+              "item": "https://origens.com.pe/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Perros",
+              "item": "https://origens.com.pe/c/perros/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Alimentos para perros",
+              "item": "https://origens.com.pe/c/perros/alimentos-perros/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Comida Humeda para perros",
+              "item": "https://origens.com.pe/c/perros/alimentos-perros/alimento-humedo-perros/"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "CollectionPage",
+              "@id": "https://origens.com.pe/c/perros/alimentos-perros/alimento-humedo-perros/#webpage",
+              "url": "https://origens.com.pe/c/perros/alimentos-perros/alimento-humedo-perros/",
+              "name": "Comida Húmeda para Perros: Sabor y Nutrición 2026 | Origens",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 23:22:40 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e21a8afac6a64ac-MIA",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "br",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/product_cat/196>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-kinsta-cache": "EXPIRED",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=khgBvhU9l53E3s54M%2FP2XCBfG%2FIfajPlu9dzb6dijfxTQGdU47u4IY33bI7Fx5mUTkrIC8ZBi28pToEOToY3M0T5MosvNJFyni6VV7ZPYxNvkgiJ8ErS5nZ87ne%2Fo1Gg\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "agent": "grafo:app",
+    "business_analysis": "grafo:app"
+  }
+}

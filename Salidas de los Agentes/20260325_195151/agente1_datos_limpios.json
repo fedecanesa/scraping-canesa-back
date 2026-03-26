@@ -1,0 +1,1424 @@
+[
+  {
+    "url": "https://origens.com.pe/",
+    "cleaned_text": "# Tienda de mascotas online | Origens\n\n## **Tienda de mascotas online en Perú con productos premium**\n\nEn Origens somos una **tienda de mascotas online en Perú** especializada en productos premium para el cuidado integral de tus animales. Descubre nuestra exclusiva selección en **[comida para perros](https://origens.com.pe/c/perros/alimentos-perros/)** y **[comida para gatos](https://origens.com.pe/c/gatos/alimentos/)**, así como todo lo necesario en productos de **[higiene para perros](https://origens.com.pe/c/perros/salud-e-higiene-perros/)** e **[higiene para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/)**. Somos la opción ideal para quienes buscan una **tienda de mascotas en Lima**, con entregas rápidas en todo el país.\n\n## **Tienda de productos para mascotas especializada en perros**\n\nNuestra **tienda de productos para mascotas** cuenta con opciones completas para perros de todas las edades y necesidades. Encuentra alimentos balanceados y opciones específicas para cada etapa de vida. Además, protege su salud con nuestros efectivos **[antipulgas para perros](https://origens.com.pe/c/perros/salud-e-higiene-perros/antipulgas-perros/)** y refuerza su bienestar con **[nutrientes para perros](https://origens.com.pe/c/perros/salud-e-higiene-perros/nutraceuticos-perros/)** de calidad superior.\n\n## **Tienda para mascotas con productos especializados para gatos**\n\nEn Origens también somos expertos en gatos. En nuestra **tienda para mascotas** encuentras alimentos especializados y opciones en **[arena para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/arena-sanitaria/)** que aseguran su comodidad diaria. Complementa su cuidado integral con productos efectivos de **[antipulgas para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/antipulgas/)** y suplementos nutricionales seleccionados cuidadosamente.\n\n## **Origens, tu tienda de animales confiable**\n\nSi buscas calidad garantizada, Origens es tu mejor opción. Somos una **tienda de animales** confiable que ofrece productos cuidadosamente seleccionados para asegurar la salud y felicidad de tus mascotas. **Facilitamos tu compra con envío gratis desde S/150 y un descuento del 15% en tu primera compra online.**\n\n## **Compra fácil y segura en tu tienda mascotas preferida**\n\nOrigens simplifica tu experiencia de compra en nuestra **tienda de mascotas** online, ofreciendo **entregas rápidas en Lima y todo el Perú**. Garantizamos la mejor atención y productos premium para el cuidado y bienestar de tus mascotas. Descubre por qué somos la opción favorita para quienes aman cuidar integralmente a sus compañeros.",
+    "metadata": {
+      "canonicalUrl": "https://origens.com.pe/",
+      "title": "Tienda de mascotas online | Origens",
+      "description": "Tienda de mascotas online en Perú con comida, higiene y nutrición para mascotas y animales. Compra en Origens. ¡Delivery rápido, ordena hoy!",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "property": "og:title",
+          "content": "Tienda de mascotas online | Origens"
+        },
+        {
+          "property": "og:description",
+          "content": "Tienda de mascotas online en Perú con comida, higiene y nutrición para mascotas y animales. Compra en Origens. ¡Delivery rápido, ordena hoy!"
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        },
+        {
+          "property": "og:updated_time",
+          "content": "2025-12-01T10:49:45-05:00"
+        },
+        {
+          "property": "article:published_time",
+          "content": "2023-03-30T04:10:16-05:00"
+        },
+        {
+          "property": "article:modified_time",
+          "content": "2025-12-01T10:49:45-05:00"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens",
+              "url": "https://origens.com.pe"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es",
+              "potentialAction": {
+                "@type": "SearchAction",
+                "target": "https://origens.com.pe/?s={search_term_string}",
+                "query-input": "required name=search_term_string"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://origens.com.pe/#webpage",
+              "url": "https://origens.com.pe/",
+              "name": "Tienda de mascotas online | Origens",
+              "datePublished": "2023-03-30T04:10:16-05:00",
+              "dateModified": "2025-12-01T10:49:45-05:00",
+              "about": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "Person",
+              "@id": "https://origens.com.pe/author/enovateam/",
+              "name": "enovateam",
+              "url": "https://origens.com.pe/author/enovateam/",
+              "image": {
+                "@type": "ImageObject",
+                "@id": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "url": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "caption": "enovateam",
+                "inLanguage": "es"
+              },
+              "sameAs": [
+                "https://origens.com.pe"
+              ],
+              "worksFor": {
+                "@id": "https://origens.com.pe/#organization"
+              }
+            },
+            {
+              "@type": "Article",
+              "headline": "Tienda de mascotas online | Origens",
+              "keywords": "tienda de mascotas",
+              "datePublished": "2023-03-30T04:10:16-05:00",
+              "dateModified": "2025-12-01T10:49:45-05:00",
+              "author": {
+                "@id": "https://origens.com.pe/author/enovateam/",
+                "name": "enovateam"
+              },
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "description": "Tienda de mascotas online en Perú con comida, higiene y nutrición para mascotas y animales. Compra en Origens. ¡Delivery rápido, ordena hoy!",
+              "name": "Tienda de mascotas online | Origens",
+              "@id": "https://origens.com.pe/#richSnippet",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#webpage"
+              },
+              "inLanguage": "es",
+              "mainEntityOfPage": {
+                "@id": "https://origens.com.pe/#webpage"
+              }
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 22:52:02 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e217bd18afb48d0-ARN",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "br",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/pages/2>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://origens.com.pe/>; rel=shortlink",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-kinsta-cache": "HIT",
+        "set-cookie": "__cf_bm=JjpPJlMn4IqT_jKHCjYYNMEolncdWKR1Xz4KfL3gG_g-1774479122-1.0.1.1-2APDjuRDLmSIXHHrwfr5dM53e5FPX1PEraheTHCJMNoaie3ZcisPItXciWanJuWn8iNrUB2dWrQv.SScuOs0GsaGeI_dmey9uZUBRfMU89Y; path=/; expires=Wed, 25-Mar-26 23:22:02 GMT; domain=.origens.com.pe; HttpOnly; Secure; SameSite=None",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=BHg1HuHOAt8lkmD%2FvEhpbE4COd7dZtSGbAnR6KZ9v%2FUGu1VdM%2BKqI5UH1t4lh%2FbDwiUMAmz%2FR9a91RP%2BtKFV%2BMihyTSiKPgGXU5k0J46p9gyz5AfyVVM5NnUYBDh1FsH\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://origens.com.pe/blog/cuidados-bulldog-ingles-salud-nutricion/",
+    "cleaned_text": "# Guía de Cuidados, Salud y Nutrición\n\n¿Alguna vez te has quedado mirando esa **cara arrugada** y te has preguntado si realmente cubres todas sus necesidades? El **Bulldog Inglés**, con su caminar oscilante y mirada tierna, es un compañero leal pero biológicamente complejo. Con un peso de entre **22 y 25 kg** y una esperanza de vida de **8 a 10 años**, esta **raza de perro** requiere un dueño informado y comprometido.\n\n### **Ficha Técnica del Bulldog Inglés**\n\n|     |     |\n| --- | --- |\n| **Característica** | **Detalle** |\n| **Esperanza de vida** | 8 a 10 años |\n| **Peso adulto** | 22 – 25 kg |\n| **Nivel de energía** | Bajo – Moderado |\n| **Clima ideal** | Templado (sensible al calor) |\n| **Carácter** | Leal, testarudo y muy afectuoso |\n\n## **Personalidad del bulldog inglés: el alma dulce tras la expresión seria**\n\n![bull dog ingles](https://origens.com.pe/wp-content/uploads/2026/03/white-american-bully-dog-standing-green-grass-300x218.jpg)\n\nNo dejes que su ceño fruncido te engañe. El **Bulldog Inglés** es un alma tierna que necesita la compañía humana tanto como respirar. Son perros que forman vínculos profundos, aunque presentan desafíos de **comportamiento** únicos.\n\n### **El guerrero dormido que llevan dentro**\n\nEse **bulldog cachorro** que parece un peluche puede ser extremadamente **testarudo**. Su **adiestramiento** requiere paciencia y **refuerzo positivo**, ya que son sensibles al trato injusto. Además, poseen un **instinto de mordida** natural; para mantener tus muebles a salvo, es vital ofrecerles [**snacks para perros**](https://origens.com.pe/c/perros/alimentos-perros/snacks-para-perros/) resistentes y juguetes adecuados que canalicen su mandíbula.\n\n## **La realidad de su salud: problemas que puedes prevenir**\n\nLa anatomía del **Bulldog Inglés** es su mayor reto. La **prevención** es la diferencia entre una vida plena y una llena de complicaciones médicas.\n\n### **Síndrome braquicefálico: entendiendo su respiración única**\n\nSu **cara achatada** causa el **síndrome braquicefálico** (narinas estrechas y paladar elongado). No ignores los **ronquidos** excesivos o el **jadeo constante**; son señales de esfuerzo respiratorio que un veterinario debe evaluar.\n\n### **Las arrugas: más que una característica adorable**\n\nLos **pliegues faciales** son refugios para bacterias y hongos. Limpiar y secar sus **arrugas** a diario es obligatorio para evitar **dermatitis** e **infecciones cutáneas**.\n\n### **El peso: el factor que determina todo lo demás**\n\nEl **sobrepeso** es el peor enemigo del Bulldog. Agrava los **problemas respiratorios** y destruye sus articulaciones (**displasia**). Mantener un **peso óptimo** no es estética, es medicina preventiva.\n\n### **La clave nutricional que puede cambiar la vida de tu bulldog inglés**\n\nLa **alimentación** es la base de su **salud cutánea** y respiratoria. Una dieta incorrecta produce **gases** excesivos y **obesidad**.\n\n### **¿Por qué su mandíbula determina cómo debe comer?**\n\nSu **mandíbula braquicéfala** dificulta la prensión del alimento. Necesitan croquetas con una forma que les permita masticar correctamente. El [**alimento para perros**](https://origens.com.pe/c/perros/alimentos-perros/) de alta calidad, basado en **proteínas magras**, previene la inflamación abdominal.\n\n### **Las diferencias que importan según su edad**\n\nUn **bulldog cachorro** requiere energía controlada para no crecer demasiado rápido; por ello, elige siempre un [**alimento para perros cachorros**](https://origens.com.pe/c/perros/alimentos-perros/perros-cachorros/) de alta gama.\n\nAl alcanzar la madurez, la transición al [**alimento para perros adultos**](https://origens.com.pe/c/perros/alimentos-perros/perros-adultos/) debe enfocarse en mantener la **masa muscular** sin ganar grasa. Para los ejemplares que sufren por el calor o tienen poco apetito, el [**alimento húmedo para perros**](https://origens.com.pe/c/perros/alimentos-perros/alimento-humedo-perros/) es una excelente opción para hidratarlos.\n\n### **El enemigo silencioso: las porciones incorrectas**\n\nA medida que envejecen, es vital cambiar a un [**alimento para perros senior**](https://origens.com.pe/c/perros/alimentos-perros/perros-senior/) que proteja su corazón y riñones, controlando estrictamente las raciones para evitar que el sedentarismo afecte su **longevidad**.\n\n## **¿Vale la pena tener un bulldog inglés?**\n\nCuidar a un Bulldog es una demostración de amor constante. Si estás dispuesto a limpiar sus **arrugas**, vigilar su **respiración** y elegir la mejor **nutrición**, tendrás al compañero más leal y gracioso del mundo.\n\n## **FAQs**\n\n### **¿Cuál es la esperanza de vida promedio de un bulldog inglés?**\n\n El bulldog inglés tiene una esperanza de vida de 8 a 10 años. Para maximizar su longevidad, es fundamental proporcionarle cuidados preventivos constantes, controlar su peso, realizar revisiones veterinarias regulares y mantener una alimentación equilibrada.\n\n### **¿Por qué los bulldogs ingleses tienen problemas respiratorios?**\n\n Los bulldogs ingleses sufren del síndrome braquicefálico debido a su estructura facial achatada, que incluye narinas estrechas, paladar blando alargado y vías respiratorias obstruidas. Esto causa respiración ruidosa, intolerancia al ejercicio y jadeo excesivo. En casos graves, la cirugía correctiva puede mejorar significativamente su calidad de vida.\n\n### **¿Cuántas veces al día debo alimentar a mi bulldog inglés?**\n\n Los cachorros de bulldog inglés necesitan entre tres y cuatro comidas diarias para satisfacer sus necesidades energéticas durante el crecimiento. Los adultos requieren dos comidas al día. Es fundamental controlar las porciones según el peso y edad para prevenir la obesidad, a la cual esta raza es genéticamente propensa.\n\n### **¿Son los bulldogs ingleses buenos con los niños?**\n\nSí, los bulldogs ingleses son excelentes compañeros para familias con niños. Son extremadamente leales, afectuosos y muestran especial paciencia y tolerancia con los más pequeños. Su temperamento tranquilo y dulce los convierte en mascotas ideales para el hogar, aunque siempre se recomienda supervisión durante las interacciones.\n\n### **¿Cómo debo cuidar las arrugas faciales de mi bulldog inglés?**\n\n Las arrugas faciales del bulldog inglés deben limpiarse y secarse diariamente para prevenir infecciones. Los pliegues acumulan humedad, bacterias y hongos que pueden causar dermatitis, enrojecimiento, mal olor y pioderma. Una higiene minuciosa de estas áreas es esencial para mantener la salud cutánea de tu mascota.",
+    "metadata": {
+      "canonicalUrl": "https://origens.com.pe/blog/cuidados-bulldog-ingles-salud-nutricion/",
+      "title": "Bulldog Inglés: Guía de Cuidados, Salud y Nutrición",
+      "description": "Todo sobre el Bulldog Inglés: desde el manejo del síndrome braquicefálico y limpieza de arrugas hasta la dieta ideal para evitar la obesidad.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Bulldog Inglés: Guía de Cuidados, Salud y Nutrición"
+        },
+        {
+          "property": "og:description",
+          "content": "Todo sobre el Bulldog Inglés: desde el manejo del síndrome braquicefálico y limpieza de arrugas hasta la dieta ideal para evitar la obesidad."
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/blog/cuidados-bulldog-ingles-salud-nutricion/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        },
+        {
+          "property": "article:section",
+          "content": "Artículos"
+        },
+        {
+          "property": "og:image",
+          "content": "https://origens.com.pe/wp-content/uploads/2026/03/funny-brown-english-bulldog-standing-park-1024x680.jpg"
+        },
+        {
+          "property": "og:image:secure_url",
+          "content": "https://origens.com.pe/wp-content/uploads/2026/03/funny-brown-english-bulldog-standing-park-1024x680.jpg"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1024"
+        },
+        {
+          "property": "og:image:height",
+          "content": "680"
+        },
+        {
+          "property": "og:image:alt",
+          "content": "bull dog ingles"
+        },
+        {
+          "property": "og:image:type",
+          "content": "image/jpeg"
+        },
+        {
+          "property": "article:published_time",
+          "content": "2026-03-24T17:06:50-05:00"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens",
+              "url": "https://origens.com.pe"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "ImageObject",
+              "@id": "https://origens.com.pe/wp-content/uploads/2026/03/funny-brown-english-bulldog-standing-park-scaled.jpg",
+              "url": "https://origens.com.pe/wp-content/uploads/2026/03/funny-brown-english-bulldog-standing-park-scaled.jpg",
+              "width": "2560",
+              "height": "1700",
+              "caption": "bull dog ingles",
+              "inLanguage": "es"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://origens.com.pe/blog/cuidados-bulldog-ingles-salud-nutricion/#webpage",
+              "url": "https://origens.com.pe/blog/cuidados-bulldog-ingles-salud-nutricion/",
+              "name": "Bulldog Inglés: Guía de Cuidados, Salud y Nutrición",
+              "datePublished": "2026-03-24T17:06:50-05:00",
+              "dateModified": "2026-03-24T17:06:50-05:00",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://origens.com.pe/wp-content/uploads/2026/03/funny-brown-english-bulldog-standing-park-scaled.jpg"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "Person",
+              "@id": "https://origens.com.pe/author/enovateam/",
+              "name": "enovateam",
+              "url": "https://origens.com.pe/author/enovateam/",
+              "image": {
+                "@type": "ImageObject",
+                "@id": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "url": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "caption": "enovateam",
+                "inLanguage": "es"
+              },
+              "sameAs": [
+                "https://origens.com.pe"
+              ],
+              "worksFor": {
+                "@id": "https://origens.com.pe/#organization"
+              }
+            },
+            {
+              "@type": "BlogPosting",
+              "headline": "Bulldog Inglés: Guía de Cuidados, Salud y Nutrición",
+              "keywords": "bulldog ingles",
+              "datePublished": "2026-03-24T17:06:50-05:00",
+              "dateModified": "2026-03-24T17:06:50-05:00",
+              "articleSection": "Artículos, Perros, Razas de perros",
+              "author": {
+                "@id": "https://origens.com.pe/author/enovateam/",
+                "name": "enovateam"
+              },
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "description": "Todo sobre el Bulldog Inglés: desde el manejo del síndrome braquicefálico y limpieza de arrugas hasta la dieta ideal para evitar la obesidad.",
+              "name": "Bulldog Inglés: Guía de Cuidados, Salud y Nutrición",
+              "@id": "https://origens.com.pe/blog/cuidados-bulldog-ingles-salud-nutricion/#richSnippet",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/blog/cuidados-bulldog-ingles-salud-nutricion/#webpage"
+              },
+              "image": {
+                "@id": "https://origens.com.pe/wp-content/uploads/2026/03/funny-brown-english-bulldog-standing-park-scaled.jpg"
+              },
+              "inLanguage": "es",
+              "mainEntityOfPage": {
+                "@id": "https://origens.com.pe/blog/cuidados-bulldog-ingles-salud-nutricion/#webpage"
+              }
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 22:52:22 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e217c4ead9548d0-ARN",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "br",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/posts/7029>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://origens.com.pe/?p=7029>; rel=shortlink",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-kinsta-cache": "HIT",
+        "x-pingback": "https://origens.com.pe/xmlrpc.php",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=btI7aB4yObBiwWRIVtw3USaGE6vYj0%2FPl0ejUjTurCFSISU9mieQeT4zCmWyCfTjNqw8hdoN9OvNX8JPFnI9D%2FEgAicBeGwWa4JX6ZnKyoRUMBX2wwKM6rWK%2FEDKpGW0\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://origens.com.pe/c/gatos/salud-e-higiene/",
+    "cleaned_text": "# Higiene para gatos | Origens\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Group-427323903.png)\n\n> En **Origens** potenciamos la **salud e higiene de gatos en Perú** con soluciones de alta gama. Nuestra selección de **arena para gatos** y antipulgas asegura una protección integral, ofreciendo el mejor cuidado preventivo y bienestar diario para mantener a tu mascota siempre sana y protegida.\n\n## **Higiene para gatos con productos seguros y premium**\n\nEn Origens encuentras todo en **higiene para gatos**, con productos especializados como [arena para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/arena-sanitaria/), [antipulgas para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/antipulgas/) y [nutrientes para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/nutraceuticos/). Ofrecemos calidad garantizada con marcas líderes como **Frontline** y **Puppybost**, asegurando un cuidado integral y seguro para tu mascota.\n\n## **Arena para gatos con opciones adaptadas a tu mascota**\n\nDisponemos de diferentes variedades de arena para gatos, que facilitan la limpieza diaria y brindan máxima comodidad a tu felino:\n\n*   [Arena con aroma para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/arena-sanitaria/arena-con-aroma-para-gatos/): control superior de olores. \n*   [Arena sin aroma para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/arena-sanitaria/arena-sin-aroma-para-gatos/): perfecta para gatos sensibles. \n*   [Arena biodegradable para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/arena-sanitaria/arena-biodegradable-para-gatos/): ecológica y segura. \n\n## **Antipulgas para gatos con protección efectiva**\n\nCuida a tu mascota con productos prácticos y altamente efectivos para protegerla de pulgas y otros parásitos externos:\n\n*   [Pipetas antipulgas para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/antipulgas/pipeta-antipulgas/): fácil aplicación y rápida acción. \n*   [Sprays antipulgas para gatos](https://origens.com.pe/c/gatos/salud-e-higiene/antipulgas/spray-antipulgas/): protección inmediata y segura. \n\nConfía en la calidad Frontline para un cuidado integral y duradero.\n\n## **Nutrientes para gatos que refuerzan su bienestar**\n\nNuestros nutracéuticos Puppybost están especialmente formulados para aportar nutrientes esenciales, reforzar defensas, mejorar la digestión y mantener a tu gato saludable y activo por más tiempo. Son ideales para asegurar el bienestar integral de tu felino día a día.\n\n## **Compra online y recibe rápidamente en casa**\n\nEn Origens puedes comprar online con total confianza los mejores productos premium para la **higiene de gatos**. Realiza tu pedido cómodamente y recíbelo con entregas rápidas en todo el Perú. Simplifica el cuidado diario de tu mascota con nuestra propuesta integral pensada exclusivamente para ellos.\n\n## Todo lo que debes saber sobre las mascotas\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\n*   Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n*   It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\nAll the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\n*   Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n*   It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Pedazo-de-pina.png)\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Group-427323957.png)\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Group-427323953.png)\n\n#### ÚNETE A LA FAMILIA ORIGENS\n\n¡Gracias por visitarnos! Si deseas estar al tanto de nuestras novedades y promociones exclusivas, suscríbete a nuestro boletín.\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/9006d4bfc7c57bf35385e03c35984113-1-PhotoRoom-1.png)",
+    "metadata": {
+      "canonicalUrl": "https://origens.com.pe/c/gatos/salud-e-higiene/",
+      "title": "Higiene para gatos | Origens",
+      "description": "Descubre productos de higiene para gatos en Origens. Mantén a tu felino limpio y feliz con nuestra selección. ¡Compra ahora y cuida de tu gato!",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Higiene para gatos | Origens"
+        },
+        {
+          "property": "og:description",
+          "content": "Descubre productos de higiene para gatos en Origens. Mantén a tu felino limpio y feliz con nuestra selección. ¡Compra ahora y cuida de tu gato!"
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/c/gatos/salud-e-higiene/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "CollectionPage",
+              "@id": "https://origens.com.pe/c/gatos/salud-e-higiene/#webpage",
+              "url": "https://origens.com.pe/c/gatos/salud-e-higiene/",
+              "name": "Higiene para gatos | Origens",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 22:52:23 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e217c51e9d148d0-ARN",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "br",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/product_cat/268>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-kinsta-cache": "HIT",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=gIh0z%2Bp80svT32yHjteNBZjpadjXe%2FYHzLn%2BTnmPMsXxduI1JWQVBdieIlWUupu6pCWB3h9m%2Bbg3JQZ0aoqfl0p%2BhsOMUkJbffZkIH1%2FWe45wFNd9yF3KN7tohGeNFob\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://origens.com.pe/c/perros/salud-e-higiene-perros/",
+    "cleaned_text": "# Higiene del perros | Origens\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Group-427323903.png)\n\n> En **Origens** potenciamos la **salud e higiene de perros en Perú** con soluciones de alta gama. Nuestra selección de antipulgas y productos para el bienestar canino asegura una protección integral, ofreciendo el mejor cuidado preventivo y salud dermatológica para mantener a tu mascota siempre protegida.\n\n## **Higiene del perro con productos efectivos y seguros**\n\nEn Origens ofrecemos todo lo necesario para cuidar integralmente la **higiene del perro**, con productos especializados como [antipulgas para perros](https://origens.com.pe/c/perros/salud-e-higiene-perros/antipulgas-perros/) y [nutrientes para perros](https://origens.com.pe/c/perros/salud-e-higiene-perros/nutraceuticos-perros/). Trabajamos exclusivamente con marcas líderes como **Frontline** y **Puppybost**, brindando protección diaria y eficaz para mantener la higiene de tu perro en perfecto estado.\n\n## **Antipulgas para perros: protección efectiva en múltiples formatos**\n\nProtege la higiene de tu perro con formatos efectivos y prácticos de antipulgas:\n\n*   [Pipeta antipulgas para perros](https://origens.com.pe/c/perros/salud-e-higiene-perros/antipulgas-perros/pipeta-antipulgas-para-perros/): sencilla y eficaz aplicación.\n*   [Spray antipulgas para perros](https://origens.com.pe/c/perros/salud-e-higiene-perros/antipulgas-perros/spray-antipulgas-para-perros/): protección rápida e integral.\n\nGarantiza una vida libre de pulgas y garrapatas con estas soluciones prácticas y seguras.\n\n## **Nutrientes para perros que fortalecen su bienestar**\n\nLos nutracéuticos de Puppybost refuerzan la salud general de tu mascota, mejoran la digestión y fortalecen defensas, ayudando así a mantener una óptima higiene interna de tu perro. Combinados con la alimentación adecuada, estos suplementos aseguran su vitalidad diaria.\n\n## **Complementa la higiene con nuestra comida para perros**\n\nAdemás del cuidado en la higiene externa, ofrecemos una amplia variedad de [comida para perros](https://origens.com.pe/c/perros/alimentos-perros/) que ayuda a mantener saludable a tu mascota desde el interior. Una dieta balanceada es esencial para complementar la higiene de tu perro, garantizando bienestar integral.\n\n## **Higiene completa con beneficios exclusivos online**\n\nCompra online los mejores productos para la **higiene del perro**, con envío gratis desde S/150 y un 15% de descuento en tu primera compra. Garantiza salud y comodidad para tu mascota con la facilidad de recibir todo directamente en casa.\n\n## Todo lo que debes saber sobre las mascotas\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\n*   Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n*   It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\nAll the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.\n\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.\n\n*   Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.\n*   It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Pedazo-de-pina.png)\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Group-427323957.png)\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/Group-427323953.png)\n\n#### ÚNETE A LA FAMILIA ORIGENS\n\n¡Gracias por visitarnos! Si deseas estar al tanto de nuestras novedades y promociones exclusivas, suscríbete a nuestro boletín.\n\n![](https://origens.com.pe/wp-content/uploads/2024/01/9006d4bfc7c57bf35385e03c35984113-1-PhotoRoom-1.png)",
+    "metadata": {
+      "canonicalUrl": "https://origens.com.pe/c/perros/salud-e-higiene-perros/",
+      "title": "Higiene del perros | Origens",
+      "description": "Productos de higiene de perros en Origens para mantener a tu mascota limpia y saludable. Descubre nuestra selección y compra ahora.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Higiene del perros | Origens"
+        },
+        {
+          "property": "og:description",
+          "content": "Productos de higiene de perros en Origens para mantener a tu mascota limpia y saludable. Descubre nuestra selección y compra ahora."
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/c/perros/salud-e-higiene-perros/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "CollectionPage",
+              "@id": "https://origens.com.pe/c/perros/salud-e-higiene-perros/#webpage",
+              "url": "https://origens.com.pe/c/perros/salud-e-higiene-perros/",
+              "name": "Higiene del perros | Origens",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "inLanguage": "es"
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 22:52:22 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e217c51998548d0-ARN",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "br",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/product_cat/269>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-kinsta-cache": "HIT",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=LqFDLqa%2Fag5bTVnNbbYbN0BgGfo5w3fUMmImzOqemo4tunP9qAelklil0D1%2F%2FxErrOiahErauWAigJxx0%2BNInDV5%2Bhlbnd3KmimIchwUsBjkKe7u%2Bl9ZikaSohQ9VBX%2F\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://origens.com.pe/preguntas-frecuentes",
+    "cleaned_text": "# Preguntas frecuentes - Origens\n\n#### ¿Es origens Premium cat food y Origens Premiun Dog Food un alimento completo, balanceado, nutracéutico y 100% natural ?\n\nSi, Origens premium ces 100% natural, a base de proteínas de carnes súper premium (ave, carne de res o pescado) con verduras o frutas\n\nEs un alimento 100% completo: sin subproductos\n\nEs balanceado: rico en vitaminas, ácidos grasos esenciales, proteínas y minerales.\n\nY es nutracéutico porque más allá de su valor nutricional, es un alimento funcional  que ayuda a la prevención de enfermedades,  mejora de la salud y brinda bienestar a las mascotas.\n\n#### ¿Puedo alimentar a mi gato o perro de manera exclusiva con Origens?\n\nSi, Origens por su formulación completa y balanceada puede darse como alimento todos los días con seguridad tanto a perros como a gatos, siendo una opción muy nutritiva y saludable.\n\n#### ¿Cuál es la ciencia detrás de Origens que lo hace un alimento único en el mundo?\n\nSu departamento de desarrollo conformado por veterinarios nutricionistas, que entienden las necesidades específicas tanto de perros como de gatos.\n\n#### ¿Qué presentación de Origens PREMIUM CAT FOOD favorece la salud digestiva?\n\nOrigens atún con papaya favorece la salud digestiva, incrementando el tránsito intestinal, esto colabora en evitar el estreñimiento por bolas de pelo y heces retenidas.\n\n#### ¿Mi gato es muy difícil para comer, que presentación de ORIGENS PREMIUM CAT FOOD lo ayudaría a estimular su apetito?\n\nLos gatos son de costumbres rígidas y disciplinados, los cambios de alimentación, ambiente o la visita no frecuente generan estrés y ansiedad en ellos, esto se traduce en desinterés por la comida, Origens Atún con Aceituna ayuda a resolver este problema por su intenso sabor que logrará convencer al más difícil de los gatos.\n\n#### ¿Origens premium cat food favorece la salud urinaria y renal de los gatos y gatitos?\n\nOrigens Premium Cat food favorece la salud urinaria y renal de los gatos, esto por la gran cantidad de líquido en sus presentaciones que favorecen la HIDRATACION INDIRECTA, manteniendo los riñones con un correcto funcionamiento, la incorporación de piña en unas de sus presentaciones permite estimular la diuresis y acidificar la orina favoreciendo la salud urinaria y previniendo la formación cálculos.",
+    "metadata": {
+      "canonicalUrl": "https://origens.com.pe/preguntas-frecuentes/",
+      "title": "Preguntas frecuentes - Origens",
+      "description": "Si, Origens premium ces 100% natural, a base de proteínas de carnes súper premium (ave, carne de res o pescado) con verduras o frutas",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Preguntas frecuentes - Origens"
+        },
+        {
+          "property": "og:description",
+          "content": "Si, Origens premium ces 100% natural, a base de proteínas de carnes súper premium (ave, carne de res o pescado) con verduras o frutas"
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/preguntas-frecuentes/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        },
+        {
+          "property": "og:updated_time",
+          "content": "2024-04-22T17:21:48-05:00"
+        },
+        {
+          "property": "article:published_time",
+          "content": "2023-07-03T11:41:50-05:00"
+        },
+        {
+          "property": "article:modified_time",
+          "content": "2024-04-22T17:21:48-05:00"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens",
+              "url": "https://origens.com.pe"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://origens.com.pe/preguntas-frecuentes/#webpage",
+              "url": "https://origens.com.pe/preguntas-frecuentes/",
+              "name": "Preguntas frecuentes - Origens",
+              "datePublished": "2023-07-03T11:41:50-05:00",
+              "dateModified": "2024-04-22T17:21:48-05:00",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "Person",
+              "@id": "https://origens.com.pe/author/enovateam/",
+              "name": "enovateam",
+              "url": "https://origens.com.pe/author/enovateam/",
+              "image": {
+                "@type": "ImageObject",
+                "@id": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "url": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "caption": "enovateam",
+                "inLanguage": "es"
+              },
+              "sameAs": [
+                "https://origens.com.pe"
+              ],
+              "worksFor": {
+                "@id": "https://origens.com.pe/#organization"
+              }
+            },
+            {
+              "@type": "Article",
+              "headline": "Preguntas frecuentes - Origens",
+              "datePublished": "2023-07-03T11:41:50-05:00",
+              "dateModified": "2024-04-22T17:21:48-05:00",
+              "author": {
+                "@id": "https://origens.com.pe/author/enovateam/",
+                "name": "enovateam"
+              },
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "description": "Si, Origens premium ces 100% natural, a base de proteínas de carnes súper premium (ave, carne de res o pescado) con verduras o frutas",
+              "name": "Preguntas frecuentes - Origens",
+              "@id": "https://origens.com.pe/preguntas-frecuentes/#richSnippet",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/preguntas-frecuentes/#webpage"
+              },
+              "inLanguage": "es",
+              "mainEntityOfPage": {
+                "@id": "https://origens.com.pe/preguntas-frecuentes/#webpage"
+              }
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 22:52:28 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e217c785ea348d0-ARN",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "br",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/pages/514>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://origens.com.pe/?p=514>; rel=shortlink",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-kinsta-cache": "HIT",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=9bQa47abZ90FXw2rHnXkKDX3yw9vlaLC8OaG9tPMJBehh%2Bw2z%2Bts4b18mlP4Avyhl6eD9%2BrJH9Y%2BGqggevnUODAHTN1l1I4SdF%2BhQP6aaftbX89IKpIllWZhoUlSKzSX\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://origens.com.pe/mi-cuenta/editar-direccion/",
+    "cleaned_text": "# Mi cuenta - Origens\n\nO\n\n## Registro\n\nIniciar sesión en este sitio le permite acceder al estado e historial de su pedido. Simplemente complete los campos a continuación y estará en su cuenta en un abrir y cerrar de ojos. Solo le pediremos la información necesaria para hacer el proceso de compra más rápido y sencillo.\n\nRegistrarse en este sitio le permite acceder al estado e historial de su pedido. Simplemente complete los campos a continuación y configuraremos una nueva cuenta para usted en un abrir y cerrar de ojos. Solo te pediremos la información necesaria para que el proceso de compra sea más rápido y sencillo.\n\n[Registrarse](https://origens.com.pe/mi-cuenta/editar-direccion/#)",
+    "metadata": {
+      "title": "Mi cuenta - Origens",
+      "description": "Mi cuenta",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Mi cuenta - Origens"
+        },
+        {
+          "property": "og:description",
+          "content": "Mi cuenta"
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/mi-cuenta/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        },
+        {
+          "property": "og:updated_time",
+          "content": "2024-02-16T18:17:31-05:00"
+        },
+        {
+          "property": "article:published_time",
+          "content": "2023-03-30T04:14:24-05:00"
+        },
+        {
+          "property": "article:modified_time",
+          "content": "2024-02-16T18:17:31-05:00"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens",
+              "url": "https://origens.com.pe"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://origens.com.pe/mi-cuenta/#webpage",
+              "url": "https://origens.com.pe/mi-cuenta/",
+              "name": "Mi cuenta - Origens",
+              "datePublished": "2023-03-30T04:14:24-05:00",
+              "dateModified": "2024-02-16T18:17:31-05:00",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "Person",
+              "@id": "https://origens.com.pe/author/enovateam/",
+              "name": "enovateam",
+              "url": "https://origens.com.pe/author/enovateam/",
+              "image": {
+                "@type": "ImageObject",
+                "@id": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "url": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "caption": "enovateam",
+                "inLanguage": "es"
+              },
+              "sameAs": [
+                "https://origens.com.pe"
+              ],
+              "worksFor": {
+                "@id": "https://origens.com.pe/#organization"
+              }
+            },
+            {
+              "@type": "Article",
+              "headline": "Mi cuenta - Origens",
+              "datePublished": "2023-03-30T04:14:24-05:00",
+              "dateModified": "2024-02-16T18:17:31-05:00",
+              "author": {
+                "@id": "https://origens.com.pe/author/enovateam/",
+                "name": "enovateam"
+              },
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "description": "Mi cuenta",
+              "name": "Mi cuenta - Origens",
+              "@id": "https://origens.com.pe/mi-cuenta/#richSnippet",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/mi-cuenta/#webpage"
+              },
+              "inLanguage": "es",
+              "mainEntityOfPage": {
+                "@id": "https://origens.com.pe/mi-cuenta/#webpage"
+              }
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 22:52:54 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e217d14bbaf5cf6-ARN",
+        "cf-cache-status": "DYNAMIC",
+        "cache-control": "no-cache, must-revalidate, max-age=0, private",
+        "content-encoding": "br",
+        "expires": "Wed, 11 Jan 1984 05:00:00 GMT",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/pages/9>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://origens.com.pe/?p=9>; rel=shortlink",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "content-security-policy": "frame-ancestors 'self';",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-frame-options": "SAMEORIGIN",
+        "x-kinsta-cache": "HIT",
+        "x-robots-tag": "noindex",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=qVFd9FX2I6Q4QQ2gJoi0boB1pgNMT4LxN0L7NLbnPDRM5JuXLHILaPaS0we5kFaWHqFU0OXTqQCY5bvwX%2BkSw19BeMhkmC%2BunogzJBcMXmYq8WfsnJZC9CMJz6%2FGAKZc\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://origens.com.pe/politica-de-envios/",
+    "cleaned_text": "# Política de envíos - Origens\n\n**Horario de Entrega**\n\n– El horario de entrega es de lunes a viernes de 9:00 am a 5:00 pm. No se consideran feriados ni días no laborables para las entregas. (Solo días hábiles)\n\n– Ante cualquier hecho de fuerza mayor o restricciones impuestas por el gobierno que impidan la entrega en la fecha solicitada, se informará al cliente a través de correo electrónico o llamada telefónica.\n\n**Entrega del Producto**\n\n– La entrega de los pedidos se programa una vez que LA EMPRESA confirme que la transacción se haya realizado correctamente y el dinero se encuentre en las cuentas de LA EMPRESA.\n\n– La entrega de los pedidos puede ser a través de reparto o recojo en tienda.  \n– Horario de recojo en tienda: Lunes a Viernes 10:00 am a 5:00 pm.\n\n– Para la recepción de su pedido, es necesario portar su DNI o documento de identificación.\n\n– El repartidor validará el DNI o documento de identificación de EL USUARIO antes de realizar la entrega del pedido.\n\n– El repartidor solicitará la firma de la guía de entrega como prueba de entrega a EL USUARIO y tomará fotografías de los productos entregados. Si EL USUARIO no desea firmar la guía de entrega, el repartidor solicitará tomar una fotografía del DNI como sustento. De no poder tener ninguno de los dos sustentos, el repartidor no podrá realizar la entrega del pedido.\n\n– En caso EL USUARIO no pueda recibir el pedido directamente, podrá indicar mediante una llamada telefónica o correo electrónico quién recibirá el pedido. Esta persona deberá mostrar la foto del DNI de EL USUARIO y firmar las guías de entrega o se tomará foto de su DNI para realizar la entrega tal como se indica en el punto anterior.\n\n– Las entregas se realizan en el domicilio de EL USUARIO, puerta a calle o zona de recepción del condominio. No se ingresará a ningún edificio o vivienda.\n\n– Por favor, revise sus productos al momento de recibirlos a fin de validar que todo esté conforme.\n\n– Si no hay alguna persona que reciba el producto o si la dirección informada por EL USUARIO es errónea y no se puede realizar la entrega del producto, LA EMPRESA procederá a ponerse en contacto con EL USUARIO. De no tener éxito, es importante conocer que en caso desee realizar la reprogramación del envío de los productos, esta tendrá un costo adicional de S/7 soles. De necesitar una tercera reprogramación, esta tendrá nuevamente un costo adicional de S/7 soles. Finalmente, de no tener éxito en la entrega por ausencia o dirección errónea, EL USUARIO deberá acercarse a recoger su pedido en tienda previa coordinación vía correo electrónico o llamada telefónica.\n\nEsta política de envío ha sido establecida para asegurar que nuestros clientes reciban sus productos de manera eficiente y segura, garantizando la satisfacción de cada uno de ustedes. Agradecemos su comprensión y colaboración en el cumplimiento de estos términos.",
+    "metadata": {
+      "canonicalUrl": "https://origens.com.pe/politica-de-envios/",
+      "title": "Política de envíos - Origens",
+      "description": "Horario de Entrega",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Política de envíos - Origens"
+        },
+        {
+          "property": "og:description",
+          "content": "Horario de Entrega"
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/politica-de-envios/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        },
+        {
+          "property": "og:updated_time",
+          "content": "2025-11-17T15:41:08-05:00"
+        },
+        {
+          "property": "article:published_time",
+          "content": "2023-11-26T01:58:57-05:00"
+        },
+        {
+          "property": "article:modified_time",
+          "content": "2025-11-17T15:41:08-05:00"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens",
+              "url": "https://origens.com.pe"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://origens.com.pe/politica-de-envios/#webpage",
+              "url": "https://origens.com.pe/politica-de-envios/",
+              "name": "Política de envíos - Origens",
+              "datePublished": "2023-11-26T01:58:57-05:00",
+              "dateModified": "2025-11-17T15:41:08-05:00",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "Person",
+              "@id": "https://origens.com.pe/author/enovateam/",
+              "name": "enovateam",
+              "url": "https://origens.com.pe/author/enovateam/",
+              "image": {
+                "@type": "ImageObject",
+                "@id": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "url": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "caption": "enovateam",
+                "inLanguage": "es"
+              },
+              "sameAs": [
+                "https://origens.com.pe"
+              ],
+              "worksFor": {
+                "@id": "https://origens.com.pe/#organization"
+              }
+            },
+            {
+              "@type": "Article",
+              "headline": "Política de envíos - Origens",
+              "datePublished": "2023-11-26T01:58:57-05:00",
+              "dateModified": "2025-11-17T15:41:08-05:00",
+              "author": {
+                "@id": "https://origens.com.pe/author/enovateam/",
+                "name": "enovateam"
+              },
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "description": "Horario de Entrega",
+              "name": "Política de envíos - Origens",
+              "@id": "https://origens.com.pe/politica-de-envios/#richSnippet",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/politica-de-envios/#webpage"
+              },
+              "inLanguage": "es",
+              "mainEntityOfPage": {
+                "@id": "https://origens.com.pe/politica-de-envios/#webpage"
+              }
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 22:52:57 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e217d29cd7a5cf6-ARN",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "br",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/pages/2294>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://origens.com.pe/?p=2294>; rel=shortlink",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-kinsta-cache": "HIT",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=9sU%2BWrzcoEl6lO8obgjnLMZEcTGNCZb%2FzX2xQOnXIkY2N0oLt9IUOKNNv6FoFiH%2FbHTowFhztcf1qKNmzQxUq7zErlGZ6JVa0LmsUJfi1P%2F7JHCvlkLJRI7zMmd12EKj\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://origens.com.pe/mi-cuenta/pedidos/",
+    "cleaned_text": "# Mi cuenta - Origens\n\nO\n\n## Registro\n\nIniciar sesión en este sitio le permite acceder al estado e historial de su pedido. Simplemente complete los campos a continuación y estará en su cuenta en un abrir y cerrar de ojos. Solo le pediremos la información necesaria para hacer el proceso de compra más rápido y sencillo.\n\nRegistrarse en este sitio le permite acceder al estado e historial de su pedido. Simplemente complete los campos a continuación y configuraremos una nueva cuenta para usted en un abrir y cerrar de ojos. Solo te pediremos la información necesaria para que el proceso de compra sea más rápido y sencillo.\n\n[Registrarse](https://origens.com.pe/mi-cuenta/pedidos/#)",
+    "metadata": {
+      "title": "Mi cuenta - Origens",
+      "description": "Mi cuenta",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Mi cuenta - Origens"
+        },
+        {
+          "property": "og:description",
+          "content": "Mi cuenta"
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/mi-cuenta/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        },
+        {
+          "property": "og:updated_time",
+          "content": "2024-02-16T18:17:31-05:00"
+        },
+        {
+          "property": "article:published_time",
+          "content": "2023-03-30T04:14:24-05:00"
+        },
+        {
+          "property": "article:modified_time",
+          "content": "2024-02-16T18:17:31-05:00"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens",
+              "url": "https://origens.com.pe"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://origens.com.pe/mi-cuenta/#webpage",
+              "url": "https://origens.com.pe/mi-cuenta/",
+              "name": "Mi cuenta - Origens",
+              "datePublished": "2023-03-30T04:14:24-05:00",
+              "dateModified": "2024-02-16T18:17:31-05:00",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "Person",
+              "@id": "https://origens.com.pe/author/enovateam/",
+              "name": "enovateam",
+              "url": "https://origens.com.pe/author/enovateam/",
+              "image": {
+                "@type": "ImageObject",
+                "@id": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "url": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "caption": "enovateam",
+                "inLanguage": "es"
+              },
+              "sameAs": [
+                "https://origens.com.pe"
+              ],
+              "worksFor": {
+                "@id": "https://origens.com.pe/#organization"
+              }
+            },
+            {
+              "@type": "Article",
+              "headline": "Mi cuenta - Origens",
+              "datePublished": "2023-03-30T04:14:24-05:00",
+              "dateModified": "2024-02-16T18:17:31-05:00",
+              "author": {
+                "@id": "https://origens.com.pe/author/enovateam/",
+                "name": "enovateam"
+              },
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "description": "Mi cuenta",
+              "name": "Mi cuenta - Origens",
+              "@id": "https://origens.com.pe/mi-cuenta/#richSnippet",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/mi-cuenta/#webpage"
+              },
+              "inLanguage": "es",
+              "mainEntityOfPage": {
+                "@id": "https://origens.com.pe/mi-cuenta/#webpage"
+              }
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 22:52:54 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e217d16de525cf6-ARN",
+        "cf-cache-status": "DYNAMIC",
+        "cache-control": "no-cache, must-revalidate, max-age=0, private",
+        "content-encoding": "br",
+        "expires": "Wed, 11 Jan 1984 05:00:00 GMT",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/pages/9>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://origens.com.pe/?p=9>; rel=shortlink",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "content-security-policy": "frame-ancestors 'self';",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-frame-options": "SAMEORIGIN",
+        "x-kinsta-cache": "HIT",
+        "x-robots-tag": "noindex",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=O1mIsiAcCYB0AMNbKGp%2FCV9uRU5mo4%2B1jyACZ87HciHzM9Ivv6RUdBnXafDAtCfP9skAxUJPIq0qUPfoQaX7nnQKytI4PrQpV25LtOMkeKZGu4CmFbqFFH8DLg6tNdlf\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://origens.com.pe/politica-de-privacidad/",
+    "cleaned_text": "# Política de privacidad - Origens\n\n**Políticas de privacidad de datos**\n\n**Aspectos generales**\n\nEl acceso a este sitio web y a sus funcionalidades es responsabilidad exclusiva de los usuarios. El simple acceso a este sitio web no supone entablar ningún tipo de relación de carácter comercial entre Origens y el usuario. El acceso y navegación en este sitio web supone aceptar y conocer las advertencias legales, condiciones y términos de uso contenidas en ella. La información que aparece en este sitio web es la vigente en la fecha de su última actualización. Por regla general, el sitio web es solamente informativo, y las relaciones contractuales que deriven de la información que recibe el usuario requerirán de su confirmación por escrito por parte de Origens, todo ello de conformidad con la Ley de Protección de Datos Personales (Ley Nº 29733).\n\n**Alcance**\n\nLa presente “Política de Tratamiento de Datos Personales” se aplica a toda actividad de tratamiento de datos personales realizada por parte de ORIGENS (en adelante “Origens”). Asimismo, será aplicable a todos los colaboradores, proveedores, clientes, socios, visitantes o personas naturales cuyos datos sean tratados en el marco de nuestras actividades.\n\n**Informacion general**\n\nOrigens es una marca dedicada a la comercialización de productos para mascotas, incluyendo la venta a través de su tienda online. Como parte de nuestras actividades, tratamos datos personales en cumplimiento de lo dispuesto en la Ley N.° 29733, Ley de Protección de Datos Personales, su Reglamento aprobado por Decreto Supremo N.° 016-2024-JUS, y sus normas complementarias y modificatorias (en adelante, la “Normativa de Protección de Datos Personales”). Los datos personales cuyo tratamiento realizamos son almacenados en bancos de datos personales de titularidad de Origens.\n\n**Objetivo**\n\nLa presente Política tiene por objeto hacer de conocimiento del público nuestro compromiso con la protección de datos personales, así como los lineamientos bajo los cuales realizamos el tratamiento de los mismos en ejercicio de nuestras actividades comerciales, la finalidad para la que lo hacemos, así como los procedimientos para que los titulares de los mismos puedan ejercer los derechos de acceso, rectificación, cancelación y oposición previstos en la Normativa de Protección de Datos Personales.\n\n**Finalidad del tratamiento de los datos personales**\n\nORIGENS realiza el tratamiento de datos personales con las siguientes finalidades:\n\n*   Cumplir con obligaciones legales, contractuales y reglamentarias aplicables.\n*   Ejecutar y administrar relaciones contractuales con socios, clientes, proveedores o terceros vinculados.\n*   Gestionar servicios, solicitudes, reclamos o consultas.\n*   Cumplir políticas internas de seguridad, auditoría, control y gestión de riesgos.\n*   Realizar comunicaciones comerciales, institucionales o informativas, cuando corresponda.\n*   Atender requerimientos de autoridades competentes conforme a ley.\n\nEl tratamiento se efectuará únicamente para los fines legítimos, explícitos e informados al titular.\n\n**Principios rectores**\n\nOrigens se compromete a respetar los principios rectores establecidos en la Normativa de Protección de Datos Personales. Estos son:\n\n*   **Principio de legalidad**: El tratamiento de los datos personales se hace conforme a lo establecido en la Ley, estando prohibida la recopilación de los datos personales por medios fraudulentos, desleales o ilícitos.\n*   **Principio de consentimiento**: Para el tratamiento de los datos personales debe mediar el consentimiento de su titular.\n*   **Principio de finalidad**: Los datos personales deben ser recopilados para una finalidad determinada, explícita y lícita, y su tratamiento no debe extenderse a otra finalidad distinta a aquella para la cual fueron recopilados.\n*   **Principio de proporcionalidad**: El tratamiento de datos personales debe ser adecuado, relevante y no excesivo a la finalidad para la que estos hubiesen sido recopilados.\n*   **Principio de calidad**: Los datos personales que vayan a ser tratados deben ser veraces, exactos y, en la medida de lo posible, actualizada, necesaria, pertinente y adecuada respecto de la finalidad para la que fueron recopilados.\n*   **Principio de seguridad**: El titular del banco de datos personales y el encargado de su tratamiento deben adoptar las medidas técnicas, organizativas y legales necesarias para garantizar la seguridad de los datos personales.\n*   **Principio de disposición de recurso**: El titular de datos personales debe contar con las vías administrativas o jurisdiccionales necesarias para reclamar y hacer valer sus derechos, cuando estos sean vulnerados por el tratamiento de sus datos personales.\n*   **Principio de nivel de protección adecuado**: Para el flujo transfronterizo de datos personales, se debe garantizar un nivel suficiente de protección para los datos personales que se vayan a tratar o, por lo menos, equiparable a lo previsto por la Ley de Protección de Datos Personales o por los estándares internacionales en la materia.\n\n**Consentimiento**\n\nOrigens requiere del consentimiento libre, previo, expreso, inequívoco e informado del titular de los datos personales para el tratamiento de los mismos, salvo en los casos de excepción expresamente establecidos por Ley. Origens no requiere consentimiento para tratar sus datos personales obtenidos de fuentes accesibles al público, gratuitas o no; así mismo, podrá tratar sus datos personales o de fuentes no públicas, siempre que dichas fuentes cuenten con su consentimiento para tratar y transferir dichos datos personales.\n\n**Transferencia de datos personales y Encargo de Tratamiento**\n\n*   ORIGENS podrá **transferir** datos personales a entidades públicas o privadas, nacionales o extranjeras, únicamente cuando exista base legal o contractual que lo autorice.\n*   Las **transferencias internacionales** se realizarán garantizando un nivel de protección adecuado conforme al artículo 11 de la Ley.\n*   Cualquier **encargo de tratamiento** será formalizado mediante contrato escrito, que garantice la confidencialidad y las medidas de seguridad exigidas por la normativa vigente.\n*   Origens no puede encargar parte del tratamiento de datos personales de los cuales es responsable del tratamiento o que forman parte de los bancos de datos personales de los cuales es titular, a proveedores legítimos.\n\n**Derechos de los titulares**\n\nDe acuerdo con la Ley, los titulares de datos personales tienen los siguientes derechos:\n\n*   **Derecho de Acceso e información:** El titular de datos personales tiene derecho a obtener la información que sobre sí mismo sea objeto de tratamiento en bancos de datos de titularidad de Origens.\n*   **Derecho de rectificación, actualización e inclusión**: El titular de datos personales tiene derecho a la actualización, inclusión y rectificación de sus datos personales materia de tratamiento por parte de Origens cuando estos sean parcial o totalmente inexactos, incompletos o cuando se hubiere advertido omisión, error o falsedad.\n*   **Derecho de Cancelación o Supresión:** El titular de datos personales podrá solicitar la cancelación o supresión de sus datos personales no relacionados o necesarios para la ejecución de las obligaciones de cargo de Origens previstas en los contratos suscritos o las dispuestas por la normativa vigente.\n*   **Derecho de Oposición**: El titular de datos personales puede oponerse al tratamiento de sus datos personales en cualquier momento. La oposición procederá en la medida que el tratamiento no tenga justificación contractual o legal.\n\n**Procedimiento para el ejercicio de los derechos del titular de los datos personales**\n\nLos titulares podrán revocar su consentimiento o ejercer sus derechos de Ley, mediante la presentación de su DNI u otro documento oficial de identidad y enviando su solicitud y/o consultas a:\n\nCorreo electrónico: info@origens.com.pe\n\nSede Central: Av. Paseo de la República 6223, Miraflores.\n\nEn caso que el titular del dato personal requiera ejercer sus derechos mediante un representante, éste deberá presentar carta poder legalizada por notario público que lo faculte como tal y su documento de identidad.\n\n**Plazo del tratamiento de datos personales y seguridad de los Datos**\n\nEn cumplimiento de la normativa vigente, Origens adopta las medidas jurídicas, organizativas y técnicas apropiadas para garantizar la seguridad de los datos personales, evitando su alteración, pérdida, tratamiento indebido o acceso no autorizado.\n\nPara este propósito, pone a disposición todos los recursos humanos y tecnológicos necesarios, aplicándolos en proporción a la naturaleza de los datos almacenados y los riesgos a los que se encuentran expuestos. Origens sólo realizará tratamiento sobre datos personales que estén almacenados en repositorios que reúnan las condiciones de seguridad exigidas por la normativa vigente en protección de datos personales.\n\n**Derechos de propiedad intelectual, industrial e imagen:**\n\nLos Clientes – entiéndase con esto, cualquier persona que acceda a los servicios ofrecidos por Origens, sea de manera presencial o virtual, adquiriendo o, solo visitando nuestro portal web y establecimientos físicos, declaran y reconocen que todas las marcas comerciales, nombres comerciales, modelos industriales, patentes y logotipos que protegen e identifican a todos los productos utilizados por Origens en el desempeño de su actividad comercial, así como aquellos que se puedan observar en anuncios, publicidad, redes sociales y cualquier medio o formato, son propios y de exclusivo derecho y uso de Origens.  \n\n**Navegación, acceso y seguridad**\n\nEl acceso y navegación en este sitio web supone aceptar y conocer las advertencias legales, condiciones y términos de uso contenidas en ella. Origens realiza los máximos esfuerzos para que la navegación se realice en las mejores condiciones y evitar los perjuicios de cualquier tipo que pudiesen ocasionarse durante la misma; sin perjuicio de ello, no se responsabiliza ni garantiza que el acceso a este sitio web sea ininterrumpido o que esté libre de error, ni por las fallas en rendimiento, omisiones, interrupciones de servicio o fallas en las líneas de conexión. Tampoco se responsabiliza o garantiza que el contenido o software al que pueda accederse a través de este sitio web, esté libre de error o cause un daño, eximiéndose, por adelantado, de cualquier responsabilidad por las pérdidas, daños o perjuicios de cualquier tipo que surjan por el acceso y el uso de la red de Internet abierta, incluyéndose, pero no limitándose, a los ocasionados a los sistemas informáticos o los provocados por la introducción de virus. \n\n**Aceptación y cambios**\n\nEl mero hecho de acceder a los servicios ofrecidos por Origens implica la aceptación íntegra de las presentes Bases, así como la aceptación expresa a las decisiones interpretativas que de las mismas realice Origens, así como cualquier modificatoria, agregado o delimitación a las mismas que pueda realizar Origens en su calidad de propietaria de las mismas.\n\n**Solución de controversias**\n\nEstas bases legales se regirán de conformidad con la ley peruana. Todo litigio, controversia, desavenencia o reclamación resultante, relacionada o derivada de este acto jurídico o que guarde relación con él, incluida las referidas a su validez, eficacia o terminación, incluso las del convenio arbitral, serán resueltas mediante los juzgados civiles del Poder Judicial de Lima.\n\n**Modificaciones**\n\nLa presente Política ha sido actualizada al 10 de octubre del 2025 y podrá ser modificada por Origens de manera unilateral y sin previo aviso. De producirse cualquier cambio o modificación de la presente Política, el texto vigente de la misma será publicado en nuestro portal web.",
+    "metadata": {
+      "canonicalUrl": "https://origens.com.pe/politica-de-privacidad/",
+      "title": "Política de privacidad - Origens",
+      "description": "Políticas de privacidad de datos",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Política de privacidad - Origens"
+        },
+        {
+          "property": "og:description",
+          "content": "Políticas de privacidad de datos"
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/politica-de-privacidad/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        },
+        {
+          "property": "og:updated_time",
+          "content": "2026-02-27T12:56:38-05:00"
+        },
+        {
+          "property": "article:published_time",
+          "content": "2023-03-30T04:10:16-05:00"
+        },
+        {
+          "property": "article:modified_time",
+          "content": "2026-02-27T12:56:38-05:00"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens",
+              "url": "https://origens.com.pe"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://origens.com.pe/politica-de-privacidad/#webpage",
+              "url": "https://origens.com.pe/politica-de-privacidad/",
+              "name": "Política de privacidad - Origens",
+              "datePublished": "2023-03-30T04:10:16-05:00",
+              "dateModified": "2026-02-27T12:56:38-05:00",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "Person",
+              "@id": "https://origens.com.pe/author/enovateam/",
+              "name": "enovateam",
+              "url": "https://origens.com.pe/author/enovateam/",
+              "image": {
+                "@type": "ImageObject",
+                "@id": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "url": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "caption": "enovateam",
+                "inLanguage": "es"
+              },
+              "sameAs": [
+                "https://origens.com.pe"
+              ],
+              "worksFor": {
+                "@id": "https://origens.com.pe/#organization"
+              }
+            },
+            {
+              "@type": "Article",
+              "headline": "Política de privacidad - Origens",
+              "datePublished": "2023-03-30T04:10:16-05:00",
+              "dateModified": "2026-02-27T12:56:38-05:00",
+              "author": {
+                "@id": "https://origens.com.pe/author/enovateam/",
+                "name": "enovateam"
+              },
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "description": "Políticas de privacidad de datos",
+              "name": "Política de privacidad - Origens",
+              "@id": "https://origens.com.pe/politica-de-privacidad/#richSnippet",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/politica-de-privacidad/#webpage"
+              },
+              "inLanguage": "es",
+              "mainEntityOfPage": {
+                "@id": "https://origens.com.pe/politica-de-privacidad/#webpage"
+              }
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 22:52:56 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e217d20fae85cf6-ARN",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "br",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/pages/3>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://origens.com.pe/?p=3>; rel=shortlink",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-kinsta-cache": "HIT",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=zR33vsE57nVn0EZcaoaX97gDNiep105Lv4E4ViF%2F7%2BmBEHEe2rqoLnGdYG9sEF6yvUAuwd8MLzb6dVD9LLI633grxbJk%2FQnn0xA7zGTpABC3edpQu6uH6A%2BqoKStO38G\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  },
+  {
+    "url": "https://origens.com.pe/politica-de-cambios-y-devoluciones/",
+    "cleaned_text": "# Política de cambios y devoluciones\n\nEsta política aplica a todas las compras realizadas a través de [www.origens.com.pe](http://www.origens.com.pe/). Las compras realizadas en supermercados, petshops u otros canales externos se rigen por las políticas de cada establecimiento.\n\n1.  **Condiciones generales**\n\n1.1. Solo se aceptan cambios o devoluciones de productos:\n\n*   Adquiridos en [www.origens.com.pe](http://www.origens.com.pe/) y con comprobante de pago (boleta o factura).\n*   Que se encuentren sin abrir, con sellos de seguridad intactos, en su empaque original y en óptimas condiciones (sin golpes, manchas, roturas o signos de uso).\n*   Dentro de los plazos establecidos en esta política.\n\n1.2. Por tratarse de alimentos y productos de higiene para mascotas, por razones de salud e inocuidad no se aceptan cambios o devoluciones de productos abiertos, usados o con el empaque alterado, salvo que presenten fallas de calidad, defectos de fabricación o errores atribuibles a Origens.\n\n1.3. Origens se reserva el derecho de evaluar físicamente el producto antes de aprobar cualquier cambio o devolución.\n\n2.  **Plazos para cambios y devoluciones**\n\n**2.1. Cambios por disconformidad (sabor, formato, cantidad, etc.)**\n\n*   Plazo máximo: 7 días calendario contados desde la fecha de recepción del pedido.\n*   Aplica solo a productos sin uso y sin abrir, en perfecto estado y con su empaque original.\n\n**2.2. Devoluciones o cambios por producto defectuoso o en mal estado**\n\nSi el producto presenta alguno de los siguientes casos:\n\n*   Envase o empaque dañado o con signos de deterioro.\n*   Producto en mal estado (olor, textura o aspecto inusual).\n*   Error en el despacho (producto distinto al solicitado, sabor o presentación diferente, cantidad incorrecta).\n\nEl cliente debe:\n\n*   Reportar el caso en un plazo máximo de 7 días calendario desde la entrega.\n*   Enviar fotos del producto, número de lote y fecha de vencimiento, además del comprobante de pago.\n\nTras la evaluación del caso, Origens podrá ofrecer, según corresponda:\n\n*   Cambio por el mismo producto en buen estado.\n*   Cambio por otro producto de valor similar (con pago o reembolso de la diferencia, si aplica).\n*   Devolución del dinero a través del mismo medio de pago utilizado en la compra.\n\n3.  **Costos de envío en cambios y devoluciones**\n\n3.1. Cuando el cambio o devolución sea por error de Origens o por producto defectuoso, Origens asumirá los costos de recojo y reenvío del producto (en Lima/Callao y provincias).\n\n3.2. Cuando el cambio sea por disconformidad del cliente (por ejemplo, no era el sabor o formato esperado, se equivocó al elegir el producto, etc.):\n\n*   El costo de envío y recojo corre por cuenta del cliente.\n*   Si el cliente envía el producto por su cuenta desde provincia, debe usar un servicio de transporte confiable y conservar el cargo de envío.\n\n4.  **Productos excluidos**\n\nNo aplican cambios ni devoluciones en los siguientes casos:\n\n*   Productos abiertos, usados o manipulados.\n*   Productos con empaque original dañado, sin etiquetas o sin código de lote/fecha de vencimiento.\n*   Productos adquiridos en liquidación, ofertas especiales, promociones o con stock limitado, cuando así se indique expresamente en la oferta.\n*   Productos que hayan sido almacenados de manera incorrecta por el cliente (exposición al sol, humedad, calor excesivo, etc.).\n\n5.  **Procedimiento para solicitar un cambio o devolución**\n\nPara iniciar un proceso de cambio o devolución, el cliente debe:\n\n1.  Escribir a info@origens.com.pe o vía WhatsApp/llamada al (+51) 989 156 202 indicando: nombre completo, número de pedido, fecha de compra, producto(s) a cambiar/devolver, motivo del cambio o devolución y fotos del producto y del empaque (en caso de defectos o daños).\n2.  El equipo de Origens revisará la solicitud y responderá con la aprobación o rechazo del cambio/devolución, instrucciones para el recojo o envío del producto y plazos estimados para la entrega del nuevo producto o el reembolso, según corresponda.\n3.  Una vez recibido el producto en nuestro almacén y verificado su estado, se procederá al envío del producto de reemplazo o al procesamiento del reembolso.\n\n6.  **Reembolsos**\n\n*   Los reembolsos, cuando correspondan, se realizarán a través del mismo medio de pago utilizado en la compra (tarjeta de crédito/débito, transferencia, etc.).\n*   El tiempo de acreditación dependerá de la entidad financiera del cliente.\n*   En caso de cambios por disconformidad del cliente, se descontarán los costos de envío que correspondan.\n\n7.  **Compras en otros canales**\n\nSi adquiriste productos Origens a través de supermercados, petshops o plataformas de terceros, los cambios y devoluciones deberán gestionarse directamente con el establecimiento donde se realizó la compra, siguiendo sus propias políticas internas.\n\n8.  **Libro de Reclamaciones y autoridad competente**\n\nSi luego de seguir nuestro procedimiento aún no estás conforme con la solución brindada, puedes registrar tu reclamo en nuestro Libro de Reclamaciones (físico o virtual, según corresponda) y/o acudir a Indecopi, de acuerdo con el Código de Protección y Defensa del Consumidor (Ley N.° 29571) y normas vigentes en el Perú.\n\n9.  **Actualizaciones de esta política**\n\nOrigens/Imexvet podrá modificar esta Política de Cambios y Devoluciones en cualquier momento para adecuarla a cambios normativos o mejoras en el servicio. La versión vigente será siempre la publicada en [www.origens.com.pe](http://www.origens.com.pe/).",
+    "metadata": {
+      "canonicalUrl": "https://origens.com.pe/politica-de-cambios-y-devoluciones/",
+      "title": "Política de cambios y devoluciones - Origens",
+      "description": "Esta política aplica a todas las compras realizadas a través de www.origens.com.pe. Las compras realizadas en supermercados, petshops u otros canales externos",
+      "author": null,
+      "keywords": null,
+      "languageCode": "es",
+      "openGraph": [
+        {
+          "property": "og:locale",
+          "content": "es_ES"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Política de cambios y devoluciones - Origens"
+        },
+        {
+          "property": "og:description",
+          "content": "Esta política aplica a todas las compras realizadas a través de www.origens.com.pe. Las compras realizadas en supermercados, petshops u otros canales externos"
+        },
+        {
+          "property": "og:url",
+          "content": "https://origens.com.pe/politica-de-cambios-y-devoluciones/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Origens"
+        },
+        {
+          "property": "og:updated_time",
+          "content": "2025-11-17T10:54:58-05:00"
+        },
+        {
+          "property": "article:published_time",
+          "content": "2023-05-03T06:29:16-05:00"
+        },
+        {
+          "property": "article:modified_time",
+          "content": "2025-11-17T10:54:58-05:00"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://origens.com.pe/#organization",
+              "name": "Origens",
+              "url": "https://origens.com.pe"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://origens.com.pe/#website",
+              "url": "https://origens.com.pe",
+              "name": "Origens",
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://origens.com.pe/politica-de-cambios-y-devoluciones/#webpage",
+              "url": "https://origens.com.pe/politica-de-cambios-y-devoluciones/",
+              "name": "Política de cambios y devoluciones - Origens",
+              "datePublished": "2023-05-03T06:29:16-05:00",
+              "dateModified": "2025-11-17T10:54:58-05:00",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/#website"
+              },
+              "inLanguage": "es"
+            },
+            {
+              "@type": "Person",
+              "@id": "https://origens.com.pe/author/enovateam/",
+              "name": "enovateam",
+              "url": "https://origens.com.pe/author/enovateam/",
+              "image": {
+                "@type": "ImageObject",
+                "@id": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "url": "https://secure.gravatar.com/avatar/3d766fe5809ffa7a9999d3c39d570728e676175452e876ef00750ece0a69c3ad?s=96&amp;d=mm&amp;r=g",
+                "caption": "enovateam",
+                "inLanguage": "es"
+              },
+              "sameAs": [
+                "https://origens.com.pe"
+              ],
+              "worksFor": {
+                "@id": "https://origens.com.pe/#organization"
+              }
+            },
+            {
+              "@type": "Article",
+              "headline": "Política de cambios y devoluciones - Origens",
+              "datePublished": "2023-05-03T06:29:16-05:00",
+              "dateModified": "2025-11-17T10:54:58-05:00",
+              "author": {
+                "@id": "https://origens.com.pe/author/enovateam/",
+                "name": "enovateam"
+              },
+              "publisher": {
+                "@id": "https://origens.com.pe/#organization"
+              },
+              "description": "Esta política aplica a todas las compras realizadas a través de www.origens.com.pe. Las compras realizadas en supermercados, petshops u otros canales externos",
+              "name": "Política de cambios y devoluciones - Origens",
+              "@id": "https://origens.com.pe/politica-de-cambios-y-devoluciones/#richSnippet",
+              "isPartOf": {
+                "@id": "https://origens.com.pe/politica-de-cambios-y-devoluciones/#webpage"
+              },
+              "inLanguage": "es",
+              "mainEntityOfPage": {
+                "@id": "https://origens.com.pe/politica-de-cambios-y-devoluciones/#webpage"
+              }
+            }
+          ]
+        }
+      ],
+      "headers": {
+        "date": "Wed, 25 Mar 2026 22:53:20 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "server": "cloudflare",
+        "cf-ray": "9e217db93cdc5cf6-ARN",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "br",
+        "link": "<https://origens.com.pe/wp-json/>; rel=\"https://api.w.org/\", <https://origens.com.pe/wp-json/wp/v2/pages/365>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://origens.com.pe/?p=365>; rel=shortlink",
+        "vary": "Accept-Encoding",
+        "ki-cf-cache-status": "BYPASS",
+        "x-content-type-options": "nosniff",
+        "x-edge-location-klb": "1",
+        "ki-cache-type": "None",
+        "ki-edge": "v=27.0.5;mv=99.9.9",
+        "ki-origin": "g1p",
+        "x-kinsta-cache": "HIT",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=uDvtRMbiWPyBEvcMeQCLw5134C9P2m9bBThAX%2FwjmXX8dGQ6Do7TCIzUpfUJwefLmM1AhxNVnv8G5qo%2FcEpq5%2BwvRcGbBmF9PhoLXGNdpzsYCKnY%2B1MP2JWpqzj9jgI7\"}], \"group\":\"cf-nel\", \"max_age\":604800}",
+        "nel": "{\"success_fraction\":0.01, \"report_to\":\"cf-nel\", \"max_age\":604800}",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    }
+  }
+]
