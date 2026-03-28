@@ -1,29 +1,42 @@
-"""
-API FastAPI para el pipeline de Cold Email.
-Recibe URL desde el frontend y ejecuta el grafo de agentes.
-"""
+# main.py
 
 from datetime import datetime
-from dotenv import load_dotenv
-load_dotenv()  # Carga .env antes de importar el grafo/agentes
-
 import logging
-logging.basicConfig(level=logging.INFO, format="%(message)s")
 
-from fastapi import FastAPI, HTTPException
+from dotenv import load_dotenv
+from fastapi import BackgroundTasks, FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-from pydantic import BaseModel, Field
 
 from grafo import app as pipeline
+from schemas.process import (
+    ProcessRequest,
+    ProcessStartResponse,
+    ProcessStatusResponse,
+)
+from services.run_manager import (
+    complete_run,
+    create_run,
+    fail_run,
+    get_run,
+    update_step,
+)
 
+
+load_dotenv()
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s | %(levelname)s | %(name)s | %(message)s",
+)
+
+logger = logging.getLogger(__name__)
 
 app = FastAPI(
     title="Cold Email Scraper API",
     description="Pipeline: Scrape → Profile → Copywriter",
-    version="1.0.0",
+    version="2.0.0",
 )
 
-# CORS: Frontend en Vercel + localhost para desarrollo
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
@@ -40,63 +53,59 @@ app.add_middleware(
 )
 
 
-class ProcessRequest(BaseModel):
-    target_url: str = Field(..., description="URL del sitio web a analizar")
-    max_crawl_pages: int = Field(10, ge=1, le=50, description="Máximo de páginas a rastrear")
-    max_crawl_depth: int = Field(3, ge=1, le=10, description="Profundidad del crawl (1-10). Default: 3")
-    skip_cleaning: bool = Field(True, description="Si True, salta limpieza LLM (más rápido). Si False, limpia con OpenAI")
-    my_service_info: str | None = Field(
-        None,
-        description="Descripción de tu servicio (para el email). Default: 'Soluciones de IA para empresas'",
-    )
-    company_tone: str | None = Field(
-        None,
-        description="Tono deseado (ej: 'profesional y cercano'). Default: 'profesional y cercano'",
-    )
-
-
-class ProcessResponse(BaseModel):
-    final_email: str
-    profile_data: str | None = None
-    target_url: str
-    run_id: str | None = None
-
-
-@app.post("/process", response_model=ProcessResponse)
-def process_url(request: ProcessRequest):
-    """
-    Recibe la URL del frontend y ejecuta el pipeline completo:
-    DataEngineer (scrape + limpieza) → Profiler (análisis) → Copywriter (cold email).
-    """
+def run_pipeline(run_id: str, inputs: dict) -> None:
     try:
-        run_id = datetime.now().strftime("%Y%m%d_%H%M%S")
-        inputs = {
-            "run_id": run_id,
-            "target_url": request.target_url,
-            "max_crawl_pages": request.max_crawl_pages,
-            "max_crawl_depth": request.max_crawl_depth,
-            "skip_cleaning": request.skip_cleaning,
-        }
-        if request.my_service_info:
-            inputs["my_service_info"] = request.my_service_info
-        if request.company_tone:
-            inputs["company_tone"] = request.company_tone
+        logger.info("[%s] Pipeline iniciado", run_id)
 
+        update_step(run_id, "DataEngineer", "running")
         result = pipeline.invoke(inputs)
+        update_step(run_id, "DataEngineer", "completed")
 
-        return ProcessResponse(
-            final_email=result.get("final_email", ""),
-            profile_data=result.get("profile_data"),
-            target_url=result.get("target_url", request.target_url),
-            run_id=run_id,
-        )
-    except ValueError as e:
-        raise HTTPException(status_code=400, detail=str(e))
+        # Como LangGraph resuelve toda la cadena internamente,
+        # acá dejamos los pasos siguientes como completados al final.
+        update_step(run_id, "Profiler", "completed")
+        update_step(run_id, "Copywriter", "completed")
+
+        complete_run(run_id, result)
+        logger.info("[%s] Pipeline completado", run_id)
+
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Error en el pipeline: {str(e)}")
+        logger.exception("[%s] Error ejecutando pipeline", run_id)
+        fail_run(run_id, str(e))
+
+
+@app.post("/process", response_model=ProcessStartResponse)
+def process_url(
+    request: ProcessRequest,
+    background_tasks: BackgroundTasks,
+) -> ProcessStartResponse:
+    run_id = datetime.now().strftime("%Y%m%d_%H%M%S")
+
+    inputs = {
+        "run_id": run_id,
+        "target_url": str(request.target_url),
+        "max_crawl_pages": request.max_crawl_pages,
+        "max_crawl_depth": request.max_crawl_depth,
+        "skip_cleaning": request.skip_cleaning,
+        "my_service_info": request.my_service_info or "Soluciones de IA para empresas",
+        "company_tone": request.company_tone or "profesional y cercano",
+    }
+
+    create_run(run_id, str(request.target_url))
+    background_tasks.add_task(run_pipeline, run_id, inputs)
+
+    return ProcessStartResponse(run_id=run_id, status="started")
+
+
+@app.get("/process/{run_id}", response_model=ProcessStatusResponse)
+def get_process_status(run_id: str) -> ProcessStatusResponse:
+    run = get_run(run_id)
+    if not run:
+        raise HTTPException(status_code=404, detail="Run not found")
+
+    return ProcessStatusResponse(**run)
 
 
 @app.get("/health")
-def health():
-    """Health check para el frontend."""
+def health() -> dict[str, str]:
     return {"status": "ok"}
