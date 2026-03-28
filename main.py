@@ -5,15 +5,19 @@
 from dotenv import load_dotenv
 load_dotenv()
 
+import asyncio
+import json
 import logging
 import uuid
 from concurrent.futures import ThreadPoolExecutor, TimeoutError as FuturesTimeoutError
 
 from fastapi import BackgroundTasks, Depends, FastAPI, Header, HTTPException, Request
+from fastapi.encoders import jsonable_encoder
 from fastapi.middleware.cors import CORSMiddleware
 from slowapi import Limiter, _rate_limit_exceeded_handler
 from slowapi.errors import RateLimitExceeded
 from slowapi.util import get_remote_address
+from sse_starlette.sse import EventSourceResponse
 
 from config import settings
 from grafo import app as pipeline
@@ -176,6 +180,30 @@ async def get_process_status(run_id: str) -> ProcessStatusResponse:
         raise HTTPException(status_code=404, detail="Run not found")
 
     return ProcessStatusResponse(**run)
+
+
+@app.get("/process/{run_id}/stream")
+async def stream_run_status(run_id: str, request: Request) -> EventSourceResponse:
+    """Pushes run state as SSE events every 500ms until completed or failed."""
+    async def event_generator():
+        while True:
+            if await request.is_disconnected():
+                logger.info("[%s] SSE client disconnected", run_id)
+                break
+
+            run = get_run(run_id)
+            if run is None:
+                yield {"data": json.dumps({"error": "Run not found", "status": "failed"})}
+                break
+
+            yield {"data": json.dumps(jsonable_encoder(run))}
+
+            if run["status"] in ("completed", "failed"):
+                break
+
+            await asyncio.sleep(0.5)
+
+    return EventSourceResponse(event_generator())
 
 
 @app.get("/health")
