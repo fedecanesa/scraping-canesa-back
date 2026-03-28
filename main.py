@@ -34,7 +34,7 @@ logger = logging.getLogger(__name__)
 app = FastAPI(
     title="Cold Email Scraper API",
     description="Pipeline: Scrape → Profile → Copywriter",
-    version="2.2.0",
+    version="2.2.1",
 )
 
 app.add_middleware(

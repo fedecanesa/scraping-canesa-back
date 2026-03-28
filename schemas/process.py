@@ -1,35 +1,31 @@
-# utils/file_storage.py
-
-import json
-import os
-from typing import Any
+from pydantic import BaseModel
+from typing import Optional, Dict, Any
 
 
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-OUTPUTS_DIR = os.path.join(BASE_DIR, "Salidas de los Agentes")
+class ProcessRequest(BaseModel):
+    target_url: str
+    skip_cleaning: bool = True
 
 
-def ensure_run_dir(run_id: str) -> str:
-    run_dir = os.path.join(OUTPUTS_DIR, run_id)
-    os.makedirs(run_dir, exist_ok=True)
-    return run_dir
+class ProcessStartResponse(BaseModel):
+    run_id: str
+    status: str
 
 
-def save_text_output(run_id: str, filename: str, content: str) -> str:
-    run_dir = ensure_run_dir(run_id)
-    out_path = os.path.join(run_dir, filename)
-
-    with open(out_path, "w", encoding="utf-8") as f:
-        f.write(content)
-
-    return out_path
+class ProcessResult(BaseModel):
+    final_email: Optional[str] = None
+    profile_data: Optional[Dict[str, Any]] = None
+    target_url: Optional[str] = None
+    run_id: Optional[str] = None
 
 
-def save_json_output(run_id: str, filename: str, data: Any) -> str:
-    run_dir = ensure_run_dir(run_id)
-    out_path = os.path.join(run_dir, filename)
-
-    with open(out_path, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2, default=str)
-
-    return out_path
+class ProcessStatusResponse(BaseModel):
+    run_id: str
+    target_url: str
+    status: str
+    current_step: str
+    steps: Dict[str, str]
+    created_at: str
+    finished_at: Optional[str]
+    result: Optional[ProcessResult]
+    error: Optional[str]
