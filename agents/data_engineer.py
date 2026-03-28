@@ -17,9 +17,13 @@ from typing import Any
 
 from apify_client import ApifyClient
 
-SALIDAS_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "Salidas de los Agentes")
 from langchain_openai import ChatOpenAI
 from langchain.messages import HumanMessage, SystemMessage
+SALIDAS_DIR = os.path.join(
+    os.path.dirname(os.path.abspath(__file__)), 
+    "..", 
+    "Salidas de los Agentes"
+    )
 
 
 # --- Configuración ---
