@@ -16,6 +16,7 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI
 
+from config import settings
 from utils.file_storage import save_json_output
 
 
@@ -28,9 +29,7 @@ class ProfilerState(TypedDict, total=False):
     profile_data: dict[str, Any]
 
 
-llm = ChatOpenAI(model="gpt-4o-mini", temperature=0.0)
-
-prompt_profiler = ChatPromptTemplate.from_template(
+_PROMPT = ChatPromptTemplate.from_template(
     """Analiza el siguiente contenido extraído de una website y devuelve JSON válido con esta estructura exacta:
 
 {{
@@ -52,7 +51,11 @@ Contenido del sitio:
 """
 )
 
-profiler_chain = prompt_profiler | llm | StrOutputParser()
+
+def _get_chain():
+    """Instancia el LLM en tiempo de ejecución, leyendo la key desde settings."""
+    llm = ChatOpenAI(model="gpt-4o-mini", temperature=0.0, api_key=settings.openai_api_key)
+    return _PROMPT | llm | StrOutputParser()
 
 
 def _format_cleaned_data_for_prompt(cleaned_data: list[dict[str, Any]]) -> str:
@@ -95,7 +98,7 @@ def profiler_node(state: ProfilerState) -> dict[str, Any]:
     website_content = _format_cleaned_data_for_prompt(cleaned_data)
 
     logger.info("[Agente 2] Profiler ejecutando análisis...")
-    raw_result = profiler_chain.invoke({"website_content": website_content})
+    raw_result = _get_chain().invoke({"website_content": website_content})
     profile_result = _safe_parse_profile(raw_result)
     logger.info("[Agente 2] Profiler completado")
 

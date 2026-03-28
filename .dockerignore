@@ -1,33 +1,33 @@
 # Secrets y configuración local
 .env
 .env.*
- 
+
 # Cache de Python
-_pycache_/
+__pycache__/
 *.py[cod]
 *.pyo
 *.pyd
 .Python
- 
+
 # Entornos virtuales
 venv/
 .venv/
 env/
 ENV/
- 
+
 # Metadatos del sistema
 .DS_Store
 Thumbs.db
- 
+
 # Editor / IDE
 .vscode/
 .idea/
 *.code-workspace
- 
+
 # Git
 .git/
 .gitignore
- 
+
 # Notebooks y archivos de desarrollo
 *.ipynb
 .ipynb_checkpoints/
@@ -35,8 +35,11 @@ Thumbs.db
 # Logs
 *.log
 logs/
- 
+
 # Tests
 tests/
 test_*.py
 *_test.py
+
+# Salidas de agentes (archivos grandes, no van en imagen Docker)
+"Salidas de los Agentes"/

@@ -14,6 +14,7 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI
 
+from config import settings
 from utils.file_storage import save_text_output
 
 
@@ -28,9 +29,7 @@ class CopywriterState(TypedDict, total=False):
     final_email: str
 
 
-llm = ChatOpenAI(model="gpt-4o", temperature=0.7)
-
-prompt_copywriter = ChatPromptTemplate.from_template(
+_PROMPT = ChatPromptTemplate.from_template(
     """Eres un experto Copywriter de ventas B2B especializado en cold emailing.
 
 Tienes esta información del prospecto:
@@ -64,7 +63,11 @@ Escribe un email al CEO o responsable comercial. Reglas:
 """
 )
 
-copywriter_chain = prompt_copywriter | llm | StrOutputParser()
+
+def _get_chain():
+    """Instancia el LLM en tiempo de ejecución, leyendo la key desde settings."""
+    llm = ChatOpenAI(model="gpt-4o", temperature=0.7, api_key=settings.openai_api_key)
+    return _PROMPT | llm | StrOutputParser()
 
 
 def _as_bullets(value: Any) -> str:
@@ -80,7 +83,7 @@ def copywriter_node(state: CopywriterState) -> dict[str, str]:
 
     logger.info("[Agente 3] Copywriter generando email...")
 
-    email_result = copywriter_chain.invoke(
+    email_result = _get_chain().invoke(
         {
             "business_summary": profile_data.get("business_summary", ""),
             "pain_points": _as_bullets(profile_data.get("pain_points", [])),
