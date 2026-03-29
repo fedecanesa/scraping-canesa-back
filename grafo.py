@@ -15,12 +15,15 @@ class SalesState(TypedDict, total=False):
     max_crawl_pages: int
     max_crawl_depth: int
     skip_cleaning: bool
+    objective: str          # "sell" | "partnership" | "recruit"
+    user_type: str          # "marketing_agency" | "dev_agency" | "other"
 
     cleaned_data: list[dict[str, Any]]
     profile_data: dict[str, Any]
     my_service_info: str
     company_tone: str
     final_email: str
+    message_variants: list[dict[str, str]]
 
 
 workflow = StateGraph(SalesState)

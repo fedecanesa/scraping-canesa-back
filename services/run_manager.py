@@ -3,7 +3,6 @@
 """
 In-memory run store para el pipeline de agentes.
 
-Guarda el estado de cada run en memoria (dict), indexado por run_id.
 Thread-safe: usa un lock para proteger acceso concurrente desde background tasks.
 
 Limitación conocida: los runs se pierden al reiniciar el servidor.
@@ -62,10 +61,6 @@ def complete_run(run_id: str, pipeline_output: dict[str, Any]) -> None:
     Marca el run como completado y extrae el resultado del output del pipeline.
 
     No sobreescribe si el run ya está en estado 'failed' (ej: por timeout).
-
-    Args:
-        run_id: ID del run.
-        pipeline_output: Output final de LangGraph (SalesState completo).
     """
     with _lock:
         run = _runs.get(run_id)
@@ -75,6 +70,7 @@ def complete_run(run_id: str, pipeline_output: dict[str, Any]) -> None:
             run["finished_at"] = _now_iso()
             run["result"] = {
                 "final_email": pipeline_output.get("final_email"),
+                "message_variants": pipeline_output.get("message_variants"),
                 "profile_data": pipeline_output.get("profile_data"),
                 "target_url": pipeline_output.get("target_url"),
                 "run_id": run_id,

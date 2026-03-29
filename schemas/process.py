@@ -1,6 +1,6 @@
-from typing import Any, Dict, Optional
+from typing import Any, Dict, List, Optional
 
-from pydantic import AnyHttpUrl, BaseModel, field_validator
+from pydantic import BaseModel, field_validator
 
 
 class ProcessRequest(BaseModel):
@@ -10,6 +10,8 @@ class ProcessRequest(BaseModel):
     skip_cleaning: bool = True
     my_service_info: Optional[str] = None
     company_tone: Optional[str] = None
+    objective: Optional[str] = "sell"       # "sell" | "partnership"
+    user_type: Optional[str] = "other"      # "marketing_agency" | "dev_agency" | "other"
 
     @field_validator("target_url")
     @classmethod
@@ -25,8 +27,15 @@ class ProcessStartResponse(BaseModel):
     status: str
 
 
+class MessageVariant(BaseModel):
+    id: str       # "main" | "variant_a" | "variant_b"
+    label: str
+    content: str
+
+
 class ProcessResult(BaseModel):
     final_email: Optional[str] = None
+    message_variants: Optional[List[MessageVariant]] = None
     profile_data: Optional[Dict[str, Any]] = None
     target_url: Optional[str] = None
     run_id: Optional[str] = None
