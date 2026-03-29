@@ -19,7 +19,6 @@ class Settings(BaseSettings):
     # --- APIs externas ---
     openai_api_key: str = ""
     apify_api_token: str = ""
-    google_maps_api_key: str = ""
 
     # --- Seguridad ---
     # Si se define, el header X-Api-Key es obligatorio en POST /process.

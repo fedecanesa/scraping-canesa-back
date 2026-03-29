@@ -198,9 +198,9 @@ async def search_businesses(
     request: Request,
     body: SearchRequest,
 ) -> SearchResponse:
-    """Busca empresas por categoría + ciudad usando Google Places API."""
-    if not settings.google_maps_api_key:
-        raise HTTPException(status_code=503, detail="Google Maps API no configurada")
+    """Busca empresas por categoría + ciudad usando Apify Google Maps."""
+    if not settings.apify_api_token:
+        raise HTTPException(status_code=503, detail="APIFY_API_TOKEN no configurado")
 
     try:
         results = search_places(

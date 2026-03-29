@@ -1,16 +1,16 @@
 # services/places_search.py
 
 """
-Búsqueda de empresas por categoría + ciudad usando Google Places API v1 (New).
+Búsqueda de empresas por categoría + ciudad usando Apify
+actor: compass/crawler-google-places
 
-Usa un solo request con field mask para obtener nombre, website, dirección,
-rating y cantidad de reviews en una sola llamada.
+Reutiliza el token de Apify ya configurado en settings.
 """
 
 import logging
 from typing import Any
 
-import httpx
+from apify_client import ApifyClient
 
 from config import settings
 from schemas.search import PlaceResult
@@ -18,76 +18,71 @@ from schemas.search import PlaceResult
 
 logger = logging.getLogger(__name__)
 
-PLACES_SEARCH_URL = "https://places.googleapis.com/v1/places:searchText"
-
-# Campos que pedimos — solo los necesarios para minimizar costo
-FIELD_MASK = ",".join([
-    "places.id",
-    "places.displayName",
-    "places.websiteUri",
-    "places.formattedAddress",
-    "places.rating",
-    "places.userRatingCount",
-])
+APIFY_ACTOR_ID = "compass/crawler-google-places"
 
 
 def search_places(category: str, city: str, max_results: int = 20) -> list[PlaceResult]:
     """
-    Busca empresas en Google Places usando la API v1 (New).
+    Busca empresas en Google Maps vía Apify.
 
     Args:
-        category: Tipo de negocio a buscar (ej: "agencias de marketing")
+        category: Tipo de negocio (ej: "agencias de marketing")
         city: Ciudad o región (ej: "Buenos Aires")
-        max_results: Máximo de resultados a devolver (máx 20 por la API)
+        max_results: Máximo de resultados a devolver
 
     Returns:
         Lista de PlaceResult con name, website, address, rating
     """
-    api_key = settings.google_maps_api_key
-    if not api_key:
-        raise ValueError("GOOGLE_MAPS_API_KEY no está configurado")
+    token = settings.apify_api_token
+    if not token:
+        raise ValueError("APIFY_API_TOKEN no está configurado")
 
     query = f"{category} en {city}"
-    logger.info("[Places] Buscando: %s", query)
+    logger.info("[Places] Buscando en Apify Google Maps: %s", query)
 
-    payload: dict[str, Any] = {
-        "textQuery": query,
-        "pageSize": min(max_results, 20),
-        "languageCode": "es",
+    client = ApifyClient(token)
+
+    run_input: dict[str, Any] = {
+        "searchStringsArray": [query],
+        "maxCrawledPlacesPerSearch": min(max_results, 20),
+        "language": "es",
+        "countryCode": "",
+        "includeWebResults": False,
     }
 
-    headers = {
-        "Content-Type": "application/json",
-        "X-Goog-Api-Key": api_key,
-        "X-Goog-FieldMask": FIELD_MASK,
-    }
-
-    with httpx.Client(timeout=15.0) as client:
-        response = client.post(PLACES_SEARCH_URL, json=payload, headers=headers)
-
-    if response.status_code != 200:
-        logger.error("[Places] Error %s: %s", response.status_code, response.text)
-        raise RuntimeError(f"Google Places API error {response.status_code}: {response.text}")
-
-    data = response.json()
-    places_raw = data.get("places", [])
+    run = client.actor(APIFY_ACTOR_ID).call(run_input=run_input)
+    dataset = client.dataset(run["defaultDatasetId"])
 
     results: list[PlaceResult] = []
-    for place in places_raw:
-        website = place.get("websiteUri")
 
-        # Ignorar resultados sin website — no tienen caso en DeepReacher
+    for item in dataset.iterate_items():
+        website = item.get("website")
+
+        # Sin website no tiene caso en DeepReacher
         if not website:
             continue
 
+        # Normalizar website — a veces viene sin esquema
+        if website and not website.startswith("http"):
+            website = f"https://{website}"
+
+        place_id = item.get("placeId") or item.get("id") or ""
+        name = item.get("title") or item.get("name") or ""
+        address = item.get("address") or item.get("street") or ""
+        rating = item.get("totalScore") or item.get("rating")
+        rating_count = item.get("reviewsCount") or item.get("userRatingsTotal")
+
         results.append(PlaceResult(
-            place_id=place.get("id", ""),
-            name=place.get("displayName", {}).get("text", ""),
+            place_id=place_id,
+            name=name,
             website=website,
-            address=place.get("formattedAddress"),
-            rating=place.get("rating"),
-            rating_count=place.get("userRatingCount"),
+            address=address if address else None,
+            rating=float(rating) if rating else None,
+            rating_count=int(rating_count) if rating_count else None,
         ))
 
-    logger.info("[Places] %s resultados con website (de %s totales)", len(results), len(places_raw))
+        if len(results) >= max_results:
+            break
+
+    logger.info("[Places] %s resultados con website", len(results))
     return results
