@@ -1,7 +1,5 @@
 # main.py
 
-# config.py usa pydantic-settings y lee .env directamente.
-# load_dotenv() se mantiene como fallback para compatibilidad con os.environ.
 from dotenv import load_dotenv
 load_dotenv()
 
@@ -26,6 +24,8 @@ from schemas.process import (
     ProcessStartResponse,
     ProcessStatusResponse,
 )
+from schemas.search import SearchRequest, SearchResponse
+from services.places_search import search_places
 from services.run_manager import (
     PIPELINE_STEPS,
     complete_run,
@@ -50,9 +50,9 @@ limiter = Limiter(key_func=get_remote_address)
 
 # --- App ---
 app = FastAPI(
-    title="Cold Email Scraper API",
-    description="Pipeline: Scrape → Profile → Copywriter",
-    version="2.4.0",
+    title="DeepReacher API",
+    description="Pipeline de inteligencia comercial: Scrape → Análisis profundo → Mensajes personalizados",
+    version="3.0.0",
 )
 
 app.state.limiter = limiter
@@ -76,20 +76,12 @@ app.add_middleware(
 
 # --- Auth dependency ---
 def verify_api_key(x_api_key: str = Header(default="")) -> None:
-    """
-    Valida el header X-Api-Key si API_KEY está configurado en el entorno.
-    Si API_KEY está vacío, el endpoint es público (útil para desarrollo).
-    """
     if settings.api_key and x_api_key != settings.api_key:
         raise HTTPException(status_code=401, detail="Invalid API key")
 
 
 # --- Pipeline execution ---
 def _execute_pipeline_sync(run_id: str, inputs: dict) -> dict:
-    """
-    Ejecuta el pipeline LangGraph de forma síncrona.
-    Corre en un thread separado para poder aplicar timeout.
-    """
     update_step(run_id, PIPELINE_STEPS[0], "running")
     final_state: dict = {}
 
@@ -109,14 +101,6 @@ def _execute_pipeline_sync(run_id: str, inputs: dict) -> dict:
 
 
 def run_pipeline(run_id: str, inputs: dict) -> None:
-    """
-    Background task: ejecuta el pipeline con timeout configurable.
-
-    Usa un ThreadPoolExecutor interno para poder interrumpir la espera
-    si el pipeline supera pipeline_timeout_seconds. El thread subyacente
-    puede continuar corriendo (no cancelable en Python), pero el run
-    queda marcado como 'failed' para el usuario.
-    """
     executor = ThreadPoolExecutor(max_workers=1, thread_name_prefix=f"pl_{run_id}")
     try:
         logger.info("[%s] Pipeline iniciado (timeout=%ss)", run_id, settings.pipeline_timeout_seconds)
@@ -151,7 +135,7 @@ async def process_url(
     body: ProcessRequest,
     background_tasks: BackgroundTasks,
 ) -> ProcessStartResponse:
-    """Inicia el pipeline en background y devuelve el run_id para polling."""
+    """Inicia el pipeline de análisis en background y devuelve el run_id."""
     run_id = uuid.uuid4().hex[:12]
 
     inputs = {
@@ -162,12 +146,11 @@ async def process_url(
         "skip_cleaning": body.skip_cleaning,
         "my_service_info": body.my_service_info or "Soluciones de IA para empresas",
         "company_tone": body.company_tone or "profesional y cercano",
+        "objective": body.objective or "sell",
+        "user_type": body.user_type or "other",
     }
 
     create_run(run_id, str(body.target_url))
-
-    # BackgroundTasks de FastAPI corre en el thread pool de uvicorn.
-    # Para alta concurrencia, reemplazar por Celery/ARQ + Redis.
     background_tasks.add_task(run_pipeline, run_id, inputs)
 
     return ProcessStartResponse(run_id=run_id, status="started")
@@ -178,7 +161,6 @@ async def get_process_status(run_id: str) -> ProcessStatusResponse:
     run = get_run(run_id)
     if not run:
         raise HTTPException(status_code=404, detail="Run not found")
-
     return ProcessStatusResponse(**run)
 
 
@@ -206,6 +188,35 @@ async def stream_run_status(run_id: str, request: Request) -> EventSourceRespons
     return EventSourceResponse(event_generator())
 
 
+@app.post(
+    "/search",
+    response_model=SearchResponse,
+    dependencies=[Depends(verify_api_key)],
+)
+@limiter.limit("20/minute")
+async def search_businesses(
+    request: Request,
+    body: SearchRequest,
+) -> SearchResponse:
+    """Busca empresas por categoría + ciudad usando Google Places API."""
+    if not settings.google_maps_api_key:
+        raise HTTPException(status_code=503, detail="Google Maps API no configurada")
+
+    try:
+        results = search_places(
+            category=body.category,
+            city=body.city,
+            max_results=body.max_results,
+        )
+    except ValueError as e:
+        raise HTTPException(status_code=503, detail=str(e))
+    except RuntimeError as e:
+        raise HTTPException(status_code=502, detail=str(e))
+
+    query = f"{body.category} en {body.city}"
+    return SearchResponse(results=results, total=len(results), query=query)
+
+
 @app.get("/health")
 async def health() -> dict[str, str]:
-    return {"status": "ok"}
+    return {"status": "ok", "service": "DeepReacher API"}
