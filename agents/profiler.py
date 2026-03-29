@@ -3,9 +3,9 @@
 """
 Agente 2 - The Profiler (DeepReacher edition)
 
-Analiza el contenido limpio del Agente 1 y devuelve inteligencia comercial
-profunda: resumen del negocio, modelo, issues estructurados, oportunidades
-accionables y lead score.
+Dos modos completamente diferenciados:
+- sell: detecta brechas, urgencias y señales de compra
+- partnership: detecta complementariedad, reputación y potencial de alianza
 """
 
 import json
@@ -31,65 +31,131 @@ class ProfilerState(TypedDict, total=False):
     user_type: str
 
 
-_OBJECTIVE_LABELS = {
-    "sell": "Vender nuestros servicios al prospecto",
-    "partnership": "Explorar una alianza o colaboración",
-}
-
 _USER_TYPE_LABELS = {
     "marketing_agency": "Agencia de marketing digital",
     "dev_agency": "Agencia de desarrollo web",
     "other": "Profesional / empresa de servicios",
 }
 
-_PROMPT = ChatPromptTemplate.from_template(
-    """Eres un analista de negocios senior especializado en inteligencia comercial B2B.
+# ─── Prompt SELL ──────────────────────────────────────────────────────────────
+# Foco: brechas, urgencias, señales de compra, potencial de ROI
 
-Contexto del análisis:
-- Tipo de usuario: {user_type_label}
-- Objetivo del contacto: {objective_label}
+_PROMPT_SELL = ChatPromptTemplate.from_template(
+    """Eres un analista de inteligencia comercial B2B especializado en identificar oportunidades de venta.
 
-Analiza el contenido extraído del sitio web y devuelve SOLO JSON válido con esta estructura exacta:
+Contexto del analizador:
+- Tipo de negocio: {user_type_label}
+- Objetivo: Vender servicios a este prospecto
+
+Tu misión: analizar la web del prospecto con ojos de vendedor experto. Detectá brechas reales, señales de urgencia y oportunidades concretas donde nuestros servicios pueden generar valor inmediato.
+
+Devuelve SOLO JSON válido con esta estructura exacta:
 
 {{
-  "business_summary": "Resumen ejecutivo del negocio en 2-3 oraciones concretas",
-  "what_they_do": "¿A qué se dedica realmente esta empresa? Core del negocio en 1-2 oraciones",
-  "business_model": "¿Cómo genera ingresos? Describe brevemente su modelo de negocio",
-  "what_doing_well": ["cosa positiva 1", "cosa positiva 2", "cosa positiva 3"],
-  "pain_points": ["punto de dolor 1", "punto de dolor 2"],
-  "technology": ["tecnología detectada 1", "tecnología detectada 2"],
+  "business_summary": "Resumen ejecutivo del negocio en 2-3 oraciones. Quién son, a qué se dedican, a quién le venden.",
+  "what_they_do": "Core del negocio en 1 oración muy concreta. Sin rodeos.",
+  "business_model": "Cómo generan dinero. Servicios, productos, suscripciones, etc.",
+  "what_doing_well": ["fortaleza real 1", "fortaleza real 2"],
+  "pain_points": ["dolor específico 1", "dolor específico 2", "dolor específico 3"],
+  "technology": ["tech detectada 1", "tech detectada 2"],
   "issues": [
     {{
-      "title": "Nombre corto del problema detectado",
-      "description": "Impacto concreto de este problema en el negocio"
+      "title": "Nombre corto del problema (max 6 palabras)",
+      "description": "Impacto concreto en su negocio. No genérico. Qué están perdiendo HOY por esto."
     }}
   ],
   "opportunities": [
     {{
-      "title": "Nombre corto de la oportunidad",
-      "explanation": "Por qué existe esta oportunidad y por qué es relevante ahora",
-      "impact": "Qué pierde o deja de ganar el negocio si no lo resuelve",
-      "solution": "Propuesta concreta de solución alineada con el objetivo del analizador"
+      "title": "Oportunidad concreta (max 6 palabras)",
+      "explanation": "Por qué existe esta brecha ahora. Señales específicas que la evidencian.",
+      "impact": "Cuánto les cuesta no resolverlo: clientes perdidos, tiempo, dinero, reputación.",
+      "solution": "Cómo nuestro tipo de servicio lo resuelve. Concreto, no genérico."
     }}
   ],
-  "ideal_customer": "¿A quién le vende este negocio? Descripción del cliente ideal",
+  "ideal_customer": "A quién le vende esta empresa. Su buyer persona.",
+  "buying_signals": ["señal de compra 1", "señal de compra 2"],
   "lead_score": 72,
-  "lead_score_reason": "Una oración explicando el score asignado"
+  "lead_score_reason": "Una oración justificando el score: qué tan urgente es el dolor y qué tan probable es que compren."
 }}
 
-Criterios para lead_score (0-100):
-- 80-100: Múltiples oportunidades claras y concretas, negocio activo y en crecimiento, alta alineación con el objetivo del analizador
-- 60-79: Algunas oportunidades identificables, negocio establecido, alineación media
-- 40-59: Pocas oportunidades claras, negocio básico o muy genérico
-- 0-39: Sitio precario, pocas señales de negocio real, muy fuera de target o sin información suficiente
+Criterios del lead_score para VENTA (0-100):
+- 80-100: Dolor urgente y evidente, señales claras de crecimiento o presión, brecha grande entre donde están y donde podrían estar, alta alineación con nuestro tipo de servicio
+- 60-79: Oportunidades identificables pero menos urgentes, negocio activo, alineación media
+- 40-59: Pocas señales claras, negocio genérico o sin brechas evidentes
+- 0-39: Sin información suficiente, sitio precario, o empresa claramente fuera de target
+
+Señales de compra a buscar: sitio desactualizado, sin blog o contenido reciente, sin pixel de tracking, sin chat, formularios rotos, sin testimonios, stack tecnológico viejo, ausencia de herramientas modernas, crecimiento visible sin infraestructura digital acorde.
 
 Reglas:
-- Usa únicamente la información presente en el contenido extraído
-- No inventes datos ni supongas cosas que no estén en el texto
-- Genera entre 2 y 4 issues y entre 2 y 4 oportunidades concretas y accionables
-- Las oportunidades deben estar orientadas al objetivo del analizador
-- Si el sitio tiene poco contenido, ajusta el score hacia abajo y sé conservador
-- Devuelve SOLO JSON válido, sin markdown, sin texto adicional
+- Usá SOLO información presente en el contenido. No inventes.
+- Generá entre 2 y 4 issues y entre 2 y 4 oportunidades.
+- Sé específico. "No tienen automatización" no sirve. "No tienen flujo automatizado post-compra, lo que les genera abandono de clientes en los primeros 30 días" sí sirve.
+- Devuelve SOLO JSON válido, sin markdown, sin texto adicional.
+
+Contenido del sitio:
+{website_content}
+"""
+)
+
+# ─── Prompt PARTNERSHIP ───────────────────────────────────────────────────────
+# Foco: complementariedad, reputación, fit para colaborar, modelo de alianza
+
+_PROMPT_PARTNERSHIP = ChatPromptTemplate.from_template(
+    """Eres un analista de desarrollo de negocios especializado en identificar oportunidades de alianzas estratégicas B2B.
+
+Contexto del analizador:
+- Tipo de negocio del analizador: {user_type_label}
+- Objetivo: Explorar si esta empresa es un buen candidato para una alianza, joint venture, referidos mutuos o colaboración en proyectos
+
+Tu misión: analizar la web con ojos de potencial socio de negocios. No buscás venderles algo — buscás entender si tienen lo que a vos te falta y si vos tenés lo que a ellos les falta. La pregunta clave es: ¿nos complementamos?
+
+Devuelve SOLO JSON válido con esta estructura exacta:
+
+{{
+  "business_summary": "Resumen ejecutivo: qué hacen, a quién le sirven, en qué mercado operan.",
+  "what_they_do": "Su especialidad principal en 1 oración. El núcleo de su propuesta de valor.",
+  "business_model": "Cómo generan ingresos y a qué tipo de clientes atienden.",
+  "what_doing_well": ["fortaleza 1 (relevante para una alianza)", "fortaleza 2", "fortaleza 3"],
+  "pain_points": ["brecha o limitación que un socio podría cubrir 1", "brecha 2"],
+  "technology": ["tech detectada 1", "tech detectada 2"],
+  "issues": [
+    {{
+      "title": "Limitación o brecha detectada (max 6 palabras)",
+      "description": "Qué les falta o qué no pueden hacer solos, que un socio podría complementar."
+    }}
+  ],
+  "opportunities": [
+    {{
+      "title": "Tipo de alianza posible (max 6 palabras)",
+      "explanation": "Por qué esta alianza tiene sentido. Qué se complementa entre ambas empresas.",
+      "impact": "Qué gana cada parte. Clientes compartidos, capacidad adicional, mercados nuevos.",
+      "solution": "Formato concreto de la alianza: referidos, white-label, co-ejecución de proyectos, joint venture, etc."
+    }}
+  ],
+  "ideal_customer": "A quién le vende esta empresa. Esto ayuda a ver si hay solapamiento o complemento de audiencias.",
+  "buying_signals": ["señal de apertura a colaborar 1", "señal 2"],
+  "lead_score": 72,
+  "lead_score_reason": "Una oración: qué tan complementarios son y qué tan probable es que una alianza funcione."
+}}
+
+Criterios del lead_score para PARTNERSHIP (0-100):
+- 80-100: Servicios altamente complementarios (no compiten, se complementan), cliente ideal similar o adyacente, tamaño y reputación compatibles, señales de apertura a colaborar
+- 60-79: Complementariedad parcial, algo de solapamiento de clientes, posible pero requiere más conversación
+- 40-59: Complementariedad débil o competencia directa, fit dudoso
+- 0-39: Competidores directos, sin fit, o información insuficiente para evaluar
+
+Tipos de alianzas a considerar:
+- Referidos mutuos: se mandan clientes que el otro puede atender mejor
+- White-label: uno ejecuta bajo la marca del otro
+- Co-ejecución: proyectos grandes que requieren ambas especialidades
+- Joint venture: oferta conjunta al mercado
+- Subcontratación: uno es proveedor del otro en áreas específicas
+
+Reglas:
+- Evaluá complementariedad, NO oportunidades de venta. Cambio de mentalidad total.
+- Generá entre 2 y 3 issues y entre 2 y 3 oportunidades de alianza concretas.
+- Sé específico sobre el formato de alianza. No digas "podrían colaborar" — decí exactamente cómo.
+- Devuelve SOLO JSON válido, sin markdown, sin texto adicional.
 
 Contenido del sitio:
 {website_content}
@@ -97,9 +163,10 @@ Contenido del sitio:
 )
 
 
-def _get_chain():
+def _get_chain(objective: str):
     llm = ChatOpenAI(model="gpt-4o-mini", temperature=0.0, api_key=settings.openai_api_key)
-    return _PROMPT | llm | StrOutputParser()
+    prompt = _PROMPT_SELL if objective == "sell" else _PROMPT_PARTNERSHIP
+    return prompt | llm | StrOutputParser()
 
 
 def _format_cleaned_data_for_prompt(cleaned_data: list[dict[str, Any]]) -> str:
@@ -125,23 +192,17 @@ def _safe_parse_profile(raw: str) -> dict[str, Any]:
             "issues": parsed.get("issues", []),
             "opportunities": parsed.get("opportunities", []),
             "ideal_customer": parsed.get("ideal_customer", ""),
+            "buying_signals": parsed.get("buying_signals", []),
             "lead_score": int(parsed.get("lead_score", 0)),
             "lead_score_reason": parsed.get("lead_score_reason", ""),
         }
     except Exception:
         logger.exception("[Agente 2] No se pudo parsear el JSON del profiler")
         return {
-            "business_summary": "",
-            "what_they_do": "",
-            "business_model": "",
-            "what_doing_well": [],
-            "pain_points": [],
-            "technology": [],
-            "issues": [],
-            "opportunities": [],
-            "ideal_customer": "",
-            "lead_score": 0,
-            "lead_score_reason": "",
+            "business_summary": "", "what_they_do": "", "business_model": "",
+            "what_doing_well": [], "pain_points": [], "technology": [],
+            "issues": [], "opportunities": [], "ideal_customer": "",
+            "buying_signals": [], "lead_score": 0, "lead_score_reason": "",
         }
 
 
@@ -151,14 +212,12 @@ def profiler_node(state: ProfilerState) -> dict[str, Any]:
     user_type = state.get("user_type", "other")
 
     website_content = _format_cleaned_data_for_prompt(cleaned_data)
-    objective_label = _OBJECTIVE_LABELS.get(objective, _OBJECTIVE_LABELS["sell"])
     user_type_label = _USER_TYPE_LABELS.get(user_type, _USER_TYPE_LABELS["other"])
 
     logger.info("[Agente 2] Profiler ejecutando análisis (objetivo=%s)...", objective)
 
-    raw_result = _get_chain().invoke({
+    raw_result = _get_chain(objective).invoke({
         "website_content": website_content,
-        "objective_label": objective_label,
         "user_type_label": user_type_label,
     })
 
