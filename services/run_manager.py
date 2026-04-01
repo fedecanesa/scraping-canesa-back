@@ -17,7 +17,7 @@ from typing import Any
 _runs: dict[str, dict[str, Any]] = {}
 _lock = threading.Lock()
 
-PIPELINE_STEPS = ["DataEngineer", "Profiler", "Copywriter"]
+PIPELINE_STEPS = ["DataEngineer", "ReviewsAgent", "JobsAgent", "Profiler", "Copywriter"]
 
 
 def _now_iso() -> str:

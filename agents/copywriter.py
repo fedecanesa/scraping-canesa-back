@@ -26,6 +26,7 @@ logger = logging.getLogger(__name__)
 class CopywriterState(TypedDict, total=False):
     run_id: str
     profile_data: dict[str, Any]
+    jobs_data: dict[str, Any]
     my_service_info: str
     company_tone: str
     objective: str
@@ -46,6 +47,8 @@ Oportunidades:
 {opportunities_list}
 Señales de compra: {buying_signals}
 Tecnología: {technology}
+Reseña destacada de clientes: {top_review_quote}
+Señales de contratación: {hiring_signals}
 
 NOSOTROS OFRECEMOS: {my_service_info}
 TONO: {company_tone}
@@ -61,20 +64,22 @@ Generá 3 mensajes de venta B2B. Devuelve SOLO JSON válido:
 ESTRATEGIA DE CADA VARIANTE:
 
 **main — El equilibrado que convierte:**
-- Icebreaker genuino: mencioná algo MUY específico del negocio del prospecto (algo que viste en su web, no genérico)
+- Icebreaker genuino: mencioná algo MUY específico del negocio (podés usar la reseña destacada o una señal de contratación como gancho si es relevante)
 - Conectá directamente con el problema más urgente detectado
 - Presentá nuestro servicio como la solución natural, no como una venta forzada
 - CTA de bajo compromiso: "¿Tiene 15 minutos esta semana?" o similar
 - Máximo 100 palabras
 
 **variant_a — El directo orientado a resultado:**
-- Empieza con el impacto/resultado concreto que podemos generar (ej: "Empresas como la tuya aumentan un 30% sus leads en 60 días con...")
+- Empieza con el impacto/resultado concreto que podemos generar
+- Si hay señal de contratación relevante, úsala: "Vi que están buscando [rol] — nosotros podemos resolver eso sin la complejidad de contratar"
 - Muy corto, muy al grano
 - CTA proactivo: proponé una fecha o un demo específico
 - Máximo 80 palabras
 
 **variant_b — El consultivo que genera confianza:**
-- Empieza con una pregunta de diagnóstico inteligente que demuestra que entendés su negocio (ej: "¿Cuánto tiempo invierte tu equipo en X sin resultados claros?")
+- Empieza con una pregunta de diagnóstico inteligente que demuestra que entendés su negocio
+- Si hay reseñas negativas, podés hacer referencia indirecta al problema que evidencian ("Vi que algunos clientes mencionan X...")
 - Posicionarte como experto que puede ayudar, no como vendedor
 - CTA de consulta gratuita o conversación sin compromiso
 - Máximo 100 palabras
@@ -83,7 +88,7 @@ REGLAS PARA LOS 3 MENSAJES:
 - NUNCA empieces con "Hola, espero que estés bien" o frases genéricas de spam
 - NUNCA digas "Me permito escribirte" o "Mi nombre es X de empresa Y"
 - El prospecto tiene que sentir que este mensaje fue escrito SOLO para él
-- Referenciá algo específico de su negocio o web en cada mensaje
+- Usá la reseña o señal de contratación SOLO si añade valor real al mensaje, no la fuerces
 - Tono: {company_tone}
 - Devuelve SOLO JSON, sin markdown, sin explicaciones
 """
@@ -102,6 +107,8 @@ Oportunidades de alianza detectadas:
 Sus brechas (donde nosotros podríamos complementar):
 {issues_list}
 Tecnología: {technology}
+Reseña destacada de sus clientes: {top_review_quote}
+Señales de contratación: {hiring_signals}
 
 NOSOTROS SOMOS: {my_service_info}
 TONO: {company_tone}
@@ -117,7 +124,7 @@ Generá 3 mensajes de propuesta de alianza. Devuelve SOLO JSON válido:
 ESTRATEGIA DE CADA VARIANTE:
 
 **main — La propuesta de alianza directa:**
-- Icebreaker: algo concreto que admirás o reconocés de su trabajo (genuino, basado en lo que viste)
+- Icebreaker: algo concreto que admirás o reconocés de su trabajo (podés usar una reseña positiva de sus clientes como evidencia de su reputación)
 - Explicá brevemente quiénes somos y qué hacemos
 - Identificá el punto de complementariedad específico: "Vos hacés X, nosotros hacemos Y. Juntos podríamos..."
 - Proponé un formato concreto de colaboración (referidos, co-ejecución, white-label)
@@ -127,6 +134,7 @@ ESTRATEGIA DE CADA VARIANTE:
 **variant_a — El enfoque en cliente compartido:**
 - Empieza identificando el tipo de cliente que ambos atendemos (sin revelar datos de clientes)
 - Planteá la oportunidad de generar más valor juntos para ese cliente
+- Si hay señales de contratación, podés sugerir que en vez de contratar ese rol internamente, podrían cubrirlo con la alianza
 - Proponé un acuerdo de referidos o co-ejecución específico
 - CTA: una llamada corta o un café virtual
 - Máximo 100 palabras
@@ -142,7 +150,8 @@ REGLAS PARA LOS 3 MENSAJES:
 - El tono es de IGUAL A IGUAL. No sos un proveedor buscando clientes, sos un potencial socio
 - NUNCA uses lenguaje de ventas: "oferta", "servicio", "precio", "propuesta comercial"
 - Usá "colaborar", "construir juntos", "sumar fuerzas", "complementarnos"
-- El prospecto tiene que sentir que los elegiste a ellos específicamente, no que mandaste esto a 100 empresas
+- Usá reseñas y señales de contratación SOLO si añaden valor genuino, no las fuerces
+- El prospecto tiene que sentir que los elegiste a ellos específicamente
 - Tono: {company_tone}
 - Devuelve SOLO JSON, sin markdown, sin explicaciones
 """
@@ -176,16 +185,38 @@ def _parse_variants(raw: str) -> list[dict[str, str]]:
         return [{"id": "main", "label": "Principal", "content": raw.strip()}]
 
 
+def _format_hiring_signals(jobs_data: dict[str, Any] | None) -> str:
+    """Formatea señales de contratación para el prompt del copywriter."""
+    if not jobs_data:
+        return "No se detectaron señales de contratación."
+    jobs = jobs_data.get("jobs", [])
+    summary = jobs_data.get("hiring_summary", "")
+    if not jobs and not summary:
+        return "No se detectaron señales de contratación."
+    parts: list[str] = []
+    if summary:
+        parts.append(summary)
+    for job in jobs[:3]:  # Max 3 para no sobrecargar el prompt
+        role = job.get("role", "")
+        signal = job.get("signal", "")
+        if role:
+            parts.append(f"- Buscan {role}: {signal}" if signal else f"- Buscan {role}")
+    return " | ".join(parts) if parts else "No detectadas."
+
+
 def copywriter_node(state: CopywriterState) -> dict[str, Any]:
     profile_data = state.get("profile_data", {})
     my_service_info = state.get("my_service_info", "Soluciones de IA para empresas")
     company_tone = state.get("company_tone", "profesional y cercano")
     objective = state.get("objective", "sell")
+    jobs_data = state.get("jobs_data", {})
 
     opportunities = profile_data.get("opportunities", [])
     issues = profile_data.get("issues", [])
     buying_signals = profile_data.get("buying_signals", [])
     what_doing_well = profile_data.get("what_doing_well", [])
+    top_review_quote = profile_data.get("top_review_quote", "")
+    hiring_signals = _format_hiring_signals(jobs_data)
 
     logger.info("[Agente 3] Copywriter generando 3 variantes (objetivo=%s)...", objective)
 
@@ -196,6 +227,8 @@ def copywriter_node(state: CopywriterState) -> dict[str, Any]:
         "technology": ", ".join(profile_data.get("technology", [])) or "No detectada",
         "my_service_info": my_service_info,
         "company_tone": company_tone,
+        "top_review_quote": top_review_quote or "No disponible.",
+        "hiring_signals": hiring_signals,
     }
 
     if objective == "sell":
